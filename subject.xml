@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="subject">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <p>subject Authority file</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file generated from database selectors in MyCore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <bibl>Ethiosphere</bibl>
+               <category xml:id="Sub01">
+                  <catDesc>Apocrypha/Pseudoepigrapha</catDesc>
+               </category>
+               <category xml:id="Sub02.2">
+                  <catDesc>Bible: New Testament</catDesc>
+               </category>
+               <category xml:id="Sub02.1">
+                  <catDesc>Bible: Old Testament</catDesc>
+               </category>
+               <category xml:id="Sub02">
+                  <catDesc>Bible</catDesc>
+               </category>
+               <category xml:id="Sub03">
+                  <catDesc>Biography</catDesc>
+               </category>
+               <category xml:id="Sub20">
+                  <catDesc>Canon law</catDesc>
+               </category>
+               <category xml:id="Sub04">
+                  <catDesc>Christian literature</catDesc>
+               </category>
+               <category xml:id="Sub05">
+                  <catDesc>Hagiography</catDesc>
+               </category>
+               <category xml:id="Sub06">
+                  <catDesc>History and Historiography</catDesc>
+               </category>
+               <category xml:id="Sub07">
+                  <catDesc>Homily</catDesc>
+               </category>
+               <category xml:id="Sub08">
+                  <catDesc>Islamic literature</catDesc>
+               </category>
+               <category xml:id="Sub09">
+                  <catDesc>Koran</catDesc>
+               </category>
+               <category xml:id="Sub10">
+                  <catDesc>Legal document</catDesc>
+               </category>
+               <category xml:id="Sub16.3">
+                  <catDesc>Liturgy: Chants</catDesc>
+               </category>
+               <category xml:id="Sub16.2">
+                  <catDesc>Liturgy: Lectionary</catDesc>
+               </category>
+               <category xml:id="Sub16.1">
+                  <catDesc>Liturgy: Missal</catDesc>
+               </category>
+               <category xml:id="Sub16.4">
+                  <catDesc>Liturgy: Rituals and Rites</catDesc>
+               </category>
+               <category xml:id="Sub16">
+                  <catDesc>Liturgy</catDesc>
+               </category>
+               <category xml:id="Sub11">
+                  <catDesc>Magic</catDesc>
+               </category>
+               <category xml:id="Sub12">
+                  <catDesc>Medicine</catDesc>
+               </category>
+               <category xml:id="Sub13">
+                  <catDesc>Miscellanea</catDesc>
+               </category>
+               <category xml:id="Sub17">
+                  <catDesc>Monastic literature</catDesc>
+               </category>
+               <category xml:id="Sub14">
+                  <catDesc>Natural sciences</catDesc>
+               </category>
+               <category xml:id="Sub00">
+                  <catDesc>-other</catDesc>
+               </category>
+               <category xml:id="Sub18">
+                  <catDesc>Poetry</catDesc>
+               </category>
+               <category xml:id="Sub21">
+                  <catDesc>Prayers</catDesc>
+               </category>
+               <category xml:id="Sub15">
+                  <catDesc>Religion</catDesc>
+               </category>
+               <category xml:id="Sub22">
+                  <catDesc>Rituals: Rituals and Rites</catDesc>
+               </category>
+               <category xml:id="Sub19">
+                  <catDesc>Theology</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="ar">Arabic</language>
+            <language ident="it">Italiano</language>
+            <language ident="gez">Gəˁəz</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Pietro Liuzzo" when="2016-04-06T10:04:59.692+02:00"> Created XML file
+                        from google spreadsheet </change>
+         <change who="Ethiosphere" when="2016-02-09-12:00">CREATED
+                        list</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab/>
+      </body>
+   </text>
+</TEI>
