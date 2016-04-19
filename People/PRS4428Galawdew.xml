@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Gälawdewos (Aṣnaf Sägäd)</title>
+            <title>Gälawdewos</title>
             <author/>
          </titleStmt>
          <publicationStmt>
@@ -36,8 +36,9 @@
             <person sex="1">
                <persName>
                   <forename/>
-                  <surname>Gälawdewos (Aṣnaf Sägäd)</surname>
+                  <surname>Gälawdewos</surname>
                </persName>
+               <persName type="alt">Aṣnaf Sägäd</persName>
                <occupation> aṣe </occupation>
             </person>
          </listPerson>
