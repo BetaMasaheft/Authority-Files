@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Lǝbnä Dǝngǝl (Dawit Wänäg Sägäd)</title>
+            <title>Lǝbnä Dǝngǝl</title>
             <author/>
          </titleStmt>
          <publicationStmt>
@@ -36,8 +36,9 @@
             <person sex="1">
                <persName>
                   <forename/>
-                  <surname>Lǝbnä Dǝngǝl (Dawit Wänäg Sägäd)</surname>
+                  <surname>Lǝbnä Dǝngǝl</surname>
                </persName>
+               <persName type="alt">Dawit Wänäg Sägäd</persName>
                <occupation> aṣe </occupation>
             </person>
          </listPerson>
