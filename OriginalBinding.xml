@@ -16,7 +16,7 @@
       <encodingDesc>
          <classDecl>
             <taxonomy>
-               <bibl>Ethiosphere</bibl>
+               <bibl>Ethio-SPaRe</bibl>
                <category xml:id="OB02">
                   <catDesc>no</catDesc>
                </category>
@@ -38,9 +38,9 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="Pietro Liuzzo" when="2016-04-06T10:04:59.692+02:00"> Created XML file
+         <change who="Pietro Liuzzo" when="2016-04-06"> Created XML file
                         from google spreadsheet </change>
-         <change who="Ethiosphere" when="2016-02-09-12:00">CREATED
+         <change who="Ethio-SPaRe" when="2016-02-09">CREATED
                         list</change>
       </revisionDesc>
    </teiHeader>

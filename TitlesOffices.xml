@@ -1989,9 +1989,9 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="Pietro Liuzzo" when="2016-03-21T15:41:52.214+01:00"> Created XML file
+         <change who="Pietro Liuzzo" when="2016-03-21"> Created XML file
             from google spreadsheet </change>
-         <change who="Eugenia Sokolinski" when="2016-02-09-12:00">CREATED
+         <change who="Eugenia Sokolinski" when="2016-02-09">CREATED
             list</change>
       </revisionDesc>
    </teiHeader>

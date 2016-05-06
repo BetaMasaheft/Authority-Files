@@ -9,7 +9,7 @@
          <publicationStmt>
             <authority>Prosopography of
                                                   Ethiopian Written tradition</authority>
-            <date>2016-03-21T16:59:56.911+01:00</date>
+            <date>2016-03-21</date>
          </publicationStmt>
          <sourceDesc>
             <p>A TEI file converted from the ETHIO-authority
@@ -25,9 +25,9 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="Pietro Liuzzo" when="2016-03-21T16:59:56.911+01:00"> Created file from
+         <change who="Pietro Liuzzo" when="2016-03-21"> Created file from
                                                   google spreadsheet </change>
-         <change who="Eugenia Sokolinski" when="2016-02-09-12:00">CREATED: place</change>
+         <change who="Eugenia Sokolinski" when="2016-02-09">CREATED: place</change>
       </revisionDesc>
    </teiHeader>
    <text>
