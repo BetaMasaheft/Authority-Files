@@ -36,7 +36,7 @@
                   <catDesc>Greek</catDesc>
                </category>
                <category xml:id="Lan05">
-                  <catDesc>Gəˁəz</catDesc>
+                  <catDesc>Gǝˁǝz</catDesc>
                </category>
                <category xml:id="Lan08">
                   <catDesc>Hebrew</catDesc>
@@ -61,7 +61,7 @@
             <language ident="en">English</language>
             <language ident="ar">Arabic</language>
             <language ident="it">Italiano</language>
-            <language ident="gez">Gəˁəz</language>
+            <language ident="gez">Gǝˁǝz</language>
          </langUsage>
       </profileDesc>
       <revisionDesc>

@@ -25,7 +25,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <language ident="en">English</language>
             <language ident="ar">Arabic</language>
             <language ident="it">Italiano</language>
-            <language ident="gez">Gəˁəz</language>
+            <language ident="gez">Gǝˁǝz</language>
          </langUsage>
       </profileDesc>
       <revisionDesc>
@@ -15853,7 +15853,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <persName>Lǝʿul Śämra</persName>
             </person>
             <person corresp="PRS6276LeulaQ.xml">
-               <persName>Ləʿulä Qal</persName>
+               <persName>Lǝʿulä Qal</persName>
             </person>
             <person corresp="PRS6277Leus.xml">
                <persName>Leus</persName>
