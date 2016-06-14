@@ -8,6 +8,12 @@
                 <catDesc>AcquisitionNote</catDesc>
             </category>
             <category>
+                <catDesc>Comment</catDesc>
+            </category>
+            <category>
+                <catDesc>Gloss</catDesc>
+            </category>
+            <category>
                 <catDesc>Letter</catDesc>
             </category>
             <category>
