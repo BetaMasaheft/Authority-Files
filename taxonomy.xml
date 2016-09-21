@@ -5,6 +5,9 @@
         <category>
             <desc>Additiones</desc>
             <category>
+                <catDesc>GuestText</catDesc>
+            </category>
+            <category>
                 <catDesc>AcquisitionNote</catDesc>
             </category>
             <category>
