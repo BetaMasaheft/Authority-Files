@@ -490,6 +490,9 @@
                 <category>
                     <catDesc>ApocryphaPseudoepigrapha</catDesc>
                 </category>
+                <category>
+                    <catDesc>AmharicLiterature</catDesc>
+                </category>
                 <!--mycore-->
                 <category>
                     <catDesc>Apocrypha</catDesc>
@@ -502,6 +505,9 @@
                 </category>
                 <category>
                     <catDesc>OldTestament</catDesc>
+                </category>
+                <category>
+                    <catDesc>BetaEsraelLiterature</catDesc>
                 </category>
                 <category>
                     <catDesc>Bible</catDesc>
@@ -520,6 +526,9 @@
                 </category>
                 <category>
                     <catDesc>Chronography</catDesc>
+                </category>
+                <category>
+                    <catDesc>Fiction</catDesc>
                 </category>
                 <category>
                     <catDesc>Hagiography</catDesc>
@@ -554,7 +563,12 @@
                 <category>
                     <catDesc>RitualsAndRites</catDesc>
                 </category>
-                
+                <category>
+                    <catDesc>TigrinyaLiterature</catDesc>
+                </category>
+                <category>
+                    <catDesc>Translation</catDesc>
+                </category>
                 <category>
                     <catDesc>Vocabulary</catDesc>
                 </category>
