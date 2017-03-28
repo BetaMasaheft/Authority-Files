@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classDecl xmlns="http://www.tei-c.org/ns/1.0">
     <taxonomy xml:id="ethioauthlist">
-
+        <category>
+            <desc>Periods</desc>
+            <category>
+                <catDesc>Aks</catDesc>
+            </category>
+            <category>
+                <catDesc>Paks1</catDesc>
+            </category>
+            <category>
+                <catDesc>Paks2</catDesc>
+            </category>
+            <category>
+                <catDesc>Gon</catDesc>
+            </category>
+            <category>
+                <catDesc>ZaMa</catDesc>
+            </category>
+            <category>
+                <catDesc>MoPe</catDesc>
+            </category>
+        </category>
         <category>
             <desc>Additiones</desc>
             <category>
