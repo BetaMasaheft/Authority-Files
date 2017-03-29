@@ -22,6 +22,17 @@
                 <catDesc>MoPe</catDesc>
             </category>
         </category>
+        <category><desc>Chant Modes</desc>
+            <category>
+                <catDesc>ArarayMode</catDesc>
+            </category>
+            <category>
+                <catDesc>EzelMode</catDesc>
+            </category>
+            <category>
+                <catDesc>GeezMode</catDesc>
+            </category>
+        </category>
         <category>
             <desc>Additiones</desc>
             <category>
@@ -515,15 +526,7 @@
                 <category>
                     <catDesc>AmharicLiterature</catDesc>
                 </category>
-                <category>
-                    <catDesc>ArarayMode</catDesc>
-                </category>
-                <category>
-                    <catDesc>EzelMode</catDesc>
-                </category>
-                <category>
-                    <catDesc>GeezMode</catDesc>
-                </category>
+                
                 <!--mycore-->
                 <category>
                     <catDesc>Apocrypha</catDesc>
