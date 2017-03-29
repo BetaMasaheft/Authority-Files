@@ -281,7 +281,9 @@
             <category>
                 <catDesc>country</catDesc>
             </category>
+            <category>
                 <catDesc>qušat</catDesc>
+            </category>
             <category>
                 <catDesc>pass</catDesc>
             </category>
@@ -429,7 +431,7 @@
         <category>
             <desc>Confessions</desc>
             <category>
-                <catDesc>Cristianity</catDesc>
+                <catDesc>Christianity</catDesc>
                 <category>
                     <catDesc>EOTC</catDesc>
                 </category>
