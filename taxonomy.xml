@@ -513,6 +513,15 @@
                 <category>
                     <catDesc>AmharicLiterature</catDesc>
                 </category>
+                <category>
+                    <catDesc>ArarayMode</catDesc>
+                </category>
+                <category>
+                    <catDesc>EzelMode</catDesc>
+                </category>
+                <category>
+                    <catDesc>GeezMode</catDesc>
+                </category>
                 <!--mycore-->
                 <category>
                     <catDesc>Apocrypha</catDesc>
