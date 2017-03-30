@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Cristianity">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Christianity">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="confession">Cristianity</title>
+            <title type="confession">Christianity</title>
             <editor key="ES"/>
             <editor key="AB" role="generalEditor"/>
             <funder>Akademie der Wissenschaften in Hamburg</funder>
