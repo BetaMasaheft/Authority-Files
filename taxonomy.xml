@@ -519,7 +519,6 @@
 
         <category>
             <desc>Subjects</desc>
-            <category>
                 <category>
                     <catDesc>ApocryphaPseudoepigrapha</catDesc>
                 </category>
@@ -636,7 +635,7 @@
                 <category>
                     <catDesc>Theology</catDesc>
                 </category>
-            </category>
+            
         </category>
 
 
