@@ -2,6 +2,10 @@
 <classDecl xmlns="http://www.tei-c.org/ns/1.0">
     <taxonomy xml:id="ethioauthlist">
         <category>
+            <desc>special mss</desc>
+            <category><catDesc>GoldenGospel</catDesc></category>
+        </category>
+        <category>
             <desc>Periods</desc>
             <category>
                 <catDesc>Aks</catDesc>
