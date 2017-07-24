@@ -5,6 +5,39 @@
             <desc>special mss</desc>
             <category><catDesc>GoldenGospel</catDesc></category>
         </category>
+        
+        <category>
+            <desc>Occupation</desc>
+            <category>
+                <catDesc>ruler</catDesc>
+            </category>
+            <category>
+                <catDesc>military</catDesc>
+            </category>
+            <category>
+                <catDesc>academic</catDesc>
+            </category>
+            <category>
+                <catDesc>political</catDesc>
+            </category>
+            <category>
+                <catDesc>literary</catDesc>
+            </category>
+            <category>
+                <catDesc>ecclesiastic</catDesc>
+            </category>
+            <category>
+                <catDesc>medical</catDesc>
+            </category>
+            <category>
+                <catDesc>art</catDesc>
+            </category>
+            <category>
+                <catDesc>other</catDesc>
+            </category>
+        </category>
+        
+        
         <category>
             <desc>Periods</desc>
             <category>
