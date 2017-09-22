@@ -7,7 +7,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <titleStmt>
                 <title>Academic</title>
                 <editor role="generalEditor" key="AB"/>
-                <editor key="PL"/>
+                <editor key="SG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +46,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="test"/>
+            <div type="edition"/>
         </body>
     </text>
 </TEI>
