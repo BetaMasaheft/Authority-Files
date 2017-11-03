@@ -337,7 +337,7 @@
                 <catDesc>country</catDesc>
             </category>
             <category>
-                <catDesc>qusat</catDesc>
+                <catDesc>qushat</catDesc>
             </category>
             <category>
                 <catDesc>pass</catDesc>
@@ -701,125 +701,125 @@
             <category>
                 <catDesc>Christian</catDesc>
                 <category>
-                    <catDesc>ʾĀbrǝhāwa-ʾĀṣbǝḥā</catDesc>
+                    <catDesc>AbrehawaAsbeha</catDesc>
                 </category>
                 <category>
                     <catDesc>Advent</catDesc>
                 </category>
                 <category>
-                    <catDesc>ʾĀmānuʾel</catDesc>
+                    <catDesc>Amanuel</catDesc>
                 </category>
                 <category>
-                    <catDesc>ʾĀstamḥǝro</catDesc>
+                    <catDesc>Astamhero</catDesc>
                 </category>
                 <category>
-                    <catDesc>ʾĀstärǝʾǝyo</catDesc>
+                    <catDesc>Astareeyo</catDesc>
                 </category>
                 <category>
-                    <catDesc>ʾĀstasrǝyo</catDesc>
+                    <catDesc>Astasreyo</catDesc>
                 </category>
 
                 <category>
-                    <catDesc>ʿĀynakwǝllu</catDesc>
+                    <catDesc>Aynakwellu</catDesc>
                 </category>
                 <category>
-                    <catDesc>BaʿālaƎgziʾ</catDesc>
+                    <catDesc>BaalaEgzi</catDesc>
                 </category>
                 <category>
-                    <catDesc>BaʿālaNǝgǝśtu </catDesc>
+                    <catDesc>BaalaNegestu</catDesc>
                 </category>
                 <category>
-                    <catDesc>Baʿātā</catDesc>
+                    <catDesc>Baata</catDesc>
                 </category>
                 <category>
-                    <catDesc>BaʿātāGǝbṣ</catDesc>
+                    <catDesc>BaataGebs</catDesc>
                 </category>
                 <category>
                     <catDesc>Baptism</catDesc>
                 </category>
                 <category>
-                    <catDesc>Bārakaǝgziʾǝna</catDesc>
+                    <catDesc>Barakaegziena</catDesc>
                 </category>
                 <category>
-                    <catDesc>Bǝrhānśaraqa</catDesc>
+                    <catDesc>Berhansaraqa</catDesc>
                 </category>
                 <category>
-                    <catDesc>BǝzuḫānMāryām</catDesc>
+                    <catDesc>BezuhanMaryam</catDesc>
                 </category>
                 <category>
-                    <catDesc>Bǝrhān</catDesc>
+                    <catDesc>Berhan</catDesc>
                 </category>
                 <category>
                     <catDesc>CanaofGalilee</catDesc>
                 </category>
                 <category>
-                    <catDesc>ChristmasLǝdat</catDesc>
+                    <catDesc>ChristmasLedat</catDesc>
                 </category>
                 <category>
-                    <catDesc>CrucifixionSǝqlat</catDesc>
+                    <catDesc>CrucifixionSeqlat</catDesc>
                 </category>
                 <category>
-                    <catDesc>DabraMǝṭmāq</catDesc>
+                    <catDesc>DabraMetmaq</catDesc>
                 </category>
                 <category>
-                    <catDesc>DabraQwǝsqwām</catDesc>
+                    <catDesc>DabraQwesqwam</catDesc>
                 </category>
                 <category>
-                    <catDesc>DabraṢǝyon</catDesc>
+                    <catDesc>DabraSeyon</catDesc>
                 </category>
                 <category>
-                    <catDesc>DabraTābor</catDesc>
+                    <catDesc>DabraTabor</catDesc>
                 </category>
                 <category>
                     <catDesc>DabraZayt</catDesc>
                 </category>
                 <category>
-                    <catDesc>Daqsǝyos</catDesc>
+                    <catDesc>Daqseyos</catDesc>
                 </category>
                 <category>
                     <catDesc>Easter</catDesc>
                 </category>
                 <category>
-                    <catDesc>ʿƎraftā</catDesc>
+                    <catDesc>Erafta</catDesc>
                 </category>
                 <category>
-                    <catDesc>ʿƎrgatā</catDesc>
+                    <catDesc>Ergata</catDesc>
                 </category>
                 <category>
-                    <catDesc>Fǝlsatā</catDesc>
+                    <catDesc>Felsata</catDesc>
                 </category>
                 <category>
                     <catDesc>FlightintoEgypt</catDesc>
                 </category>
                 <category>
-                    <catDesc>Gannā</catDesc>
+                    <catDesc>Ganna</catDesc>
                 </category>
                 <category>
-                    <catDesc>Gǝzrät</catDesc>
+                    <catDesc>Gezrat</catDesc>
                 </category>
                 <category>
-                    <catDesc>Gubaʾeqana</catDesc>
+                    <catDesc>Gubaeqana</catDesc>
                 </category>
                 <category>
-                    <catDesc>Ḥānnā</catDesc>
+                    <catDesc>Hanna</catDesc>
                 </category>
                 <category>
-                    <catDesc>Lǝbbamǝdr</catDesc>
+                    <catDesc>Lebbamedr</catDesc>
                 </category>
                 <category>
                     <catDesc>Mabraq</catDesc>
                 </category>
                 <category>
-                    <catDesc>MadḫāneʿĀlam</catDesc>
+                    <catDesc>MadhaneAlam</catDesc>
                 </category>
                 <category>
-                    <catDesc>Māʿǝdot</catDesc>
+                    <catDesc>Maedot</catDesc>
                 </category>
                 <category>
-                    <catDesc>Māʾǝrār</catDesc>
+                    <catDesc>Maerar</catDesc>
                 </category>
                 <category>
-                    <catDesc>MāryāmṢǝyon</catDesc>
+                    <catDesc>MaryamSeyon</catDesc>
                 </category>
                 <category>
                     <catDesc>Masqal</catDesc>
@@ -840,52 +840,52 @@
                     <catDesc>Pentecost</catDesc>
                 </category>
                 <category>
-                    <catDesc>Qǝdāmesǝʾur</catDesc>
+                    <catDesc>Qedameseur</catDesc>
                 </category>
                 <category>
-                    <catDesc>Qǝddāsebeta</catDesc>
+                    <catDesc>Qeddasebeta</catDesc>
                 </category>
                 <category>
                     <catDesc>Sawit</catDesc>
                 </category>
                 <category>
-                    <catDesc>Sǝddat</catDesc>
+                    <catDesc>Seddat</catDesc>
                 </category>
                 <category>
-                    <catDesc>Tādewos</catDesc>
+                    <catDesc>Tadewos</catDesc>
                 </category>
                 <category>
-                    <catDesc>Ṭǝntaṣomalǝdat</catDesc>
+                    <catDesc>Tentasomaledat</catDesc>
                 </category>
                 <category>
-                    <catDesc>Tǝsbǝʾǝt</catDesc>
+                    <catDesc>Tesbeet</catDesc>
                 </category>
                 <category>
-                    <catDesc>Tomās</catDesc>
+                    <catDesc>Tomas</catDesc>
                 </category>
             </category>
             <category>
                 <catDesc>Islamic</catDesc>
                 <category>
-                    <catDesc>Arafā</catDesc>
+                    <catDesc>Arafa</catDesc>
                 </category>
                 <category>
-                    <catDesc>ʿAšūrā</catDesc>
+                    <catDesc>Ashura</catDesc>
                 </category>
                 <category>
-                    <catDesc>Ayyāmat-tašrīq</catDesc>
+                    <catDesc>Ayyamattashriq</catDesc>
                 </category>
                 <category>
-                    <catDesc>ʿĪdal-aḍḥā</catDesc>
+                    <catDesc>Idaladha</catDesc>
                 </category>
                 <category>
-                    <catDesc>ʿĪdal-fiṭr</catDesc>
+                    <catDesc>Idalfitr</catDesc>
                 </category>
                 <category>
-                    <catDesc>Laylatal-Baraʿat</catDesc>
+                    <catDesc>LaylatalBaraat</catDesc>
                 </category>
                 <category>
-                    <catDesc>Laylat al-qadr</catDesc>
+                    <catDesc>Laylatalqadr</catDesc>
                 </category>
                 <category>
                     <catDesc>Mawlid</catDesc>
@@ -894,7 +894,7 @@
                     <catDesc>INewYear</catDesc>
                 </category>
                 <category>
-                    <catDesc>Ramaḍān</catDesc>
+                    <catDesc>Ramadan</catDesc>
                 </category>
             </category>
 
