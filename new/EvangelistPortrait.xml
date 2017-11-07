@@ -30,7 +30,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p> test a mock description here </p>
+                <p> test a mock descrip </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -46,7 +46,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div> <bibl><ptr target="bm:Friend1927Evangelists"/></bibl> </div>
+            <div type="bibliography">
+             <bibl><ptr target="bm:Friend1927Evangelists"/></bibl>
+            </div>
         </body>
     </text>
 </TEI>
