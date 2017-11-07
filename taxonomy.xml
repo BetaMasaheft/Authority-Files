@@ -311,10 +311,40 @@
               <catDesc>MassacreOfInnocents</catDesc>
             </category>
             <category>
+              <catDesc>MiraclesOfJesus</catDesc>
+            </category>
+            <category>
+              <catDesc>MiraclesOfMary</catDesc>
+            </category>
+            <category>
+              <catDesc>MockingOfJesus</catDesc>
+            </category>
+            <category>
+              <catDesc>MosesReceivingLaw</catDesc>
+            </category>
+            <category>
+              <catDesc>NativityOfMary</catDesc>
+            </category>
+            <category>
+              <catDesc>NativityOfJesus</catDesc>
+            </category>
+            <category>
                 <catDesc>PresentationAtTheTemple</catDesc>
             </category>
             <category>
+                <catDesc>ThreeHebrewsInFurnace</catDesc>
+            </category>
+            <category>
+                <catDesc>Transfiguration</catDesc>
+            </category>
+            <category>
+                <catDesc>Trinity</catDesc>
+            </category>
+            <category>
                 <catDesc>VirginAndChild</catDesc>
+            </category>
+            <category>
+                <catDesc>WashingOfFeet</catDesc>
             </category>
         </category>
 
