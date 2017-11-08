@@ -31,7 +31,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
               <p> A representation of the burial or entombment of Jesus, typically featuring Joseph and Nicodemus, as described in
-                <ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:14.3">Matthew 27, 57</ref>.
+                <ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:14.3">Matthew 27, 57-61</ref>.
               </p>
             </abstract>
             <langUsage>
