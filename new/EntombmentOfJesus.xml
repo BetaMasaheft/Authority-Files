@@ -49,7 +49,16 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+          <div type="bibliography">
+            <listBibl type="secondary">
+           <bibl>
+             <ptr target="bm:Weitzmann1961Threnos"/>
+           </bibl>
+            <bibl>
+             <ptr target="bm:Gnisci2015Entombment"/>
+           </bibl>
+            </listBibl>
+          </div>
         </body>
     </text>
 </TEI>
