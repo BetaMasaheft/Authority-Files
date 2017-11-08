@@ -31,7 +31,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p> An author portrait, showing one of the Four Evangelists seated or standing and in the act of holding
-                   or writing his Gospel, typically placed opposite to the beginning of his text </p>
+                   or writing his Gospel, typically placed opposite to the beginning of his text. </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
