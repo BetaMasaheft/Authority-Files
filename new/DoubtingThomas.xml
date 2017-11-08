@@ -1,11 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
-schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
+<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DoubtingThomas" xml:lang="en" type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Doubting Thomas</title>
+                <title>Doubting of Thomas</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -30,7 +30,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+              <p> The scene illustrates a passage from
+                <ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:14.3">John 20, 24-29</ref>
+                and shows <term key="#Thomas"/> putting his finger in the side of <term key="#Jesus"/>.
+              </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
