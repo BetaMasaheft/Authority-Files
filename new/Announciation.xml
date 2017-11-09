@@ -8,7 +8,6 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>Announciation</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="JG"/>
-                <editor key="DR"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,6 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="PL" when="2017-11-07">Created entity</change>
               <change who="JG" when="2017-11-09">Updated Content</change>
         </revisionDesc>
     </teiHeader>
