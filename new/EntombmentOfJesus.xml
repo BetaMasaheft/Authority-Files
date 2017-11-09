@@ -33,7 +33,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p> A representation of the burial or entombment of <term>Jesus</term>, typically featuring
                 <term>Joseph</term> and <term>Nicodemus</term>, as described in
                 <ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:27.57>Matthew 27, 57-61</ref>
-                and test entry <ref cRef="urn:dts:betmas:LIT2075Number:21.8">Numbers 21:8</ref>.
+                and test entries <ref type="can" subtype="Bible" cRef="Mt.16.17">Matt. 16<hi
+rend="sup">17</hi></ref> 
+                 <ref cRef="urn:dts:betmas:LIT2075Number:21.8">Numbers 21:8</ref>.
               </p>
             </abstract>
             <langUsage>
