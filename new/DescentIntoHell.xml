@@ -32,7 +32,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
                 <p> A miniature showing Jesus in the act of freeing Adam and Eve from Hell,
                   an episode alluded to in the New Testament and expanded upon in the apocrypha,
-                  typically featuring him in the act of trampling over Hades.
+                    typically featuring him in the act of trampling over Hades. 
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
