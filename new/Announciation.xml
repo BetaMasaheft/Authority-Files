@@ -55,6 +55,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
            <bibl>
              <ptr target="bm:Balicka1984Announciation"/>
            </bibl>
+           <bibl>
+             <ptr target="bm:Cartlidge2001ArtAndApocrypha"/>
+             <citedRange unit="pages">79-87</citedRange>
+           </bibl>
             </listBibl>
           </div>
         </body>
