@@ -49,7 +49,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+              <listBibl type="secondary">
+             <bibl>
+               <ptr target="bm:Gnisci2015HolyWomenAtTomb"/>
+               <citedRange unit="page">559</citedRange>
+             </bibl>
+              </listBibl>
+            </div>
         </body>
     </text>
 </TEI>
