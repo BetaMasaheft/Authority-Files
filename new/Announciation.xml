@@ -5,7 +5,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Announciation</title>
+                <title>Annunciation</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -31,7 +31,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p> A miniature showing an <term>Angel</term>, typically <term>Gabriel</term>, in the act of informing the
-                 Virgin <term>Mary</term> that she will become the mother of <term>Jesus</term>.
+                 Virgin <term>Mary</term> that she will become the mother of <term>Jesus</term>
+                 (<ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:1.28">Luke 1, 28</ref>),
+                 with additional details informed by apocryphal sources such as the Protoevangelium of James (11-12).
                 </p>
             </abstract>
             <langUsage>
