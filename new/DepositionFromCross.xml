@@ -31,16 +31,16 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p> A miniature showing the moment in which Jesus is taken down from the Cross,
-                  typically featuring Joseph and Nicodemus bearing His body
-                  (<ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:27.59> Matthew 27, 59</ref>
+                  typically featuring Joseph and Nicodemus bearing His body,
+                  <ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:27.59> Matthew 27, 59</ref>
                   <ref cRef="urn:cts:greekLit:tlg0031.tlg002.perseus-grc1:15.46> Mark 15, 46</ref>
                   <ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:23.53>Luke 23, 53</ref>
-                  <ref cRef="urn:cts:greekLit:tlg0031.tlg004.perseus-grc1:19.38>John 19, 38</ref>)
+                  <ref cRef="urn:cts:greekLit:tlg0031.tlg004.perseus-grc1:19.38>John 19, 38</ref>,
                   and several Holy Women
-                  mourning, such as Salome and the Virgin Mary
-                    (<ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:27.61> Matthew 27, 61</ref>
+                  mourning, such as Salome and the Virgin Mary,
+                    <ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:27.61> Matthew 27, 61</ref>
                     <ref cRef="urn:cts:greekLit:tlg0031.tlg002.perseus-grc1:15.47> Mark 15, 47</ref>
-                    <ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:23.55>Luke 23, 55</ref>).
+                    <ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:23.55>Luke 23, 55</ref>.
                 </p>
             </abstract>
             <langUsage>
