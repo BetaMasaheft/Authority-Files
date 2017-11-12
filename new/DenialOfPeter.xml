@@ -30,7 +30,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p> A miniature showing Peter in the act of denying <persName ref="PRS5684JesusCh">Jesus</persName>,
+                <p> A miniature showing <persName ref="PRS7805Peter">Peter</persName>
+                in the act of denying <persName ref="PRS5684JesusCh">Jesus</persName>,
                   as the Lord had foretold, or in the act of repenting after
                   his denial
                   (<ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:26.69">Mt 26:69-75</ref>;
