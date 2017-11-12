@@ -30,7 +30,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p> A representation of the burial or entombment of <term>Jesus</term>, typically featuring
+              <p> A representation of the burial or entombment of <persName ref="PRS5684JesusCh">Jesus</persName>, typically featuring
                 <term>Joseph</term> and <term>Nicodemus</term>, as described in
                  <ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:27.57">Matthew 27, 57-61</ref>;
                  <ref cRef="urn:cts:greekLit:tlg0031.tlg002.perseus-grc1:15.42"> Mark 15, 42-47</ref>;
