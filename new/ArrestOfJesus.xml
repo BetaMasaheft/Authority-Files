@@ -36,7 +36,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:22.52">Lk 22:52</ref>;
                   <ref cRef="urn:cts:greekLit:tlg0031.tlg004.perseus-grc1:18.3">Jn 18:3</ref>),
                   the scene may feature additional details such as The Kiss of Judas, or
-                  Peter cutting off the ear of  Malchus
+                  <persName ref="PRS7805Peter">Peter</persName> cutting off the ear of  Malchus
                   (<ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:26.50">Mt 26:51</ref>;
                   <ref cRef="urn:cts:greekLit:tlg0031.tlg002.perseus-grc1:14.47"> Mk 14:47</ref>;
                   <ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:22.50">Lk 22:50</ref>

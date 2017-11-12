@@ -32,7 +32,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
               <p> The scene illustrates a passage from
                 <ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:14.3">John 20, 24-29</ref>
-                and shows <term>Thomas</term> putting his finger in the side of <term>Jesus</term>.
+                and shows <term>Thomas</term> putting his finger in the side of
+                <persName ref="PRS5684JesusCh">Jesus</persName>.
               </p>
             </abstract>
             <langUsage>
