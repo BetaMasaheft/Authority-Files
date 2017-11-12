@@ -31,9 +31,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p> Miniature showing Jesus in the Garden of Gethsemane before his Arrest,
-                  (<ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:26.36">Matthew 26, 36</ref>;
-                  <ref cRef="urn:cts:greekLit:tlg0031.tlg002.perseus-grc1:14.32"> Mark 14, 32</ref>;
-                  <ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:22.39">Luke 22, 39</ref>;).
+                  (<ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:26.36">Mt 26:36</ref>;
+                  <ref cRef="urn:cts:greekLit:tlg0031.tlg002.perseus-grc1:14.32"> Mk 14:32</ref>;
+                  <ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:22.39">Lk 22:39</ref>;).
                 </p>
             </abstract>
             <langUsage>

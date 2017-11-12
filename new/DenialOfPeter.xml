@@ -32,7 +32,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
                 <p> A miniature showing Peter in the act of denying Jesus,
                   as the Lord had foretold, or in the act of repenting after
-                  his denial.
+                  his denial
+                  (<ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:26.69">Mt 26:69-75</ref>;
+                  <ref cRef="urn:cts:greekLit:tlg0031.tlg002.perseus-grc1:14.66"> Mk 14:66-72</ref>;
+                  <ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:22.54">Lk 22:54-62</ref>;
+                  <ref cRef="urn:cts:greekLit:tlg0031.tlg004.perseus-grc1:18.3">Jn 18:15-18, 25-27</ref>).
                 </p>
             </abstract>
             <langUsage>
