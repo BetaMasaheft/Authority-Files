@@ -32,6 +32,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
         <revisionDesc>
             <change who="ES" when="2016-05-06">Provided List in Issue 47</change>
             <change who="PL" when="2016-05-11">prepared XML file</change>
+            <change who="JG" when="2017-11-12">Update content</change>
         </revisionDesc>
     </teiHeader>
     <text>
