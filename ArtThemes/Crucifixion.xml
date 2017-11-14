@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model
-href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
-schematypens="http://relaxng.org/ns/structure/1.0"
-?>
 <?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"
+?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
    schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Crucifixion">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="document">Crucifixion</title>
+                <title>Crucifixion</title>
                 <editor key="ES"/>
                 <editor key="JG"/>
                 <editor key="AB" role="generalEditor"/>
@@ -29,6 +26,14 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <p>A digital born TEI file</p>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>A depiction of Jesus</p>
+            </abstract>
+        </profileDesc>
         <revisionDesc>
             <change who="ES" when="2016-05-06">Provided List in Issue 47</change>
             <change who="PL" when="2016-05-11">prepared XML file</change>
@@ -37,14 +42,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"
     </teiHeader>
     <text>
         <body>
-            <p>A depiction of Jesus</p>
-           <!-- <listBibl type="secondary">
+            <!-- <listBibl type="secondary">
                 <bibl></bibl>
             </listBibl>-->
             <listBibl type="relations">
-                <bibl></bibl>
+                <bibl/>
                 <relation name="contains" active="#Crucifixion" passive="#PRS5684JesusCh">
-                    <desc></desc>
+                    <desc/>
                 </relation>
             </listBibl>
         </body>
