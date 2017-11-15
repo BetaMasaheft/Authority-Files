@@ -36,7 +36,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <persName ref="PRS6751Mark">Mark</persName>;
                   <persName ref="PRS6387Luke">Luke</persName>;
                   <persName ref="PRS5695John">John</persName>),
-                  seated (= Type 1) or standing (=Type 2)and in
+                  seated (= Type 1) or standing (= Type 2)and in
                   the act of holding or writing his
                   <title ref="LIT1560Gospel">Gospel</title>,
                   typically placed opposite to the beginning of his text. </p>
