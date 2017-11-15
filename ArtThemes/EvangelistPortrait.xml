@@ -30,8 +30,15 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p> An author portrait, showing one of the Four Evangelists seated or standing and in the act of holding
-                   or writing his Gospel, typically placed opposite to the beginning of his text. </p>
+                <p> An author portrait, showing one of the four
+                  <occupation type="ecclesiastic">Evangelists</occupation>
+                  (<persName ref="PRS6902Matthew">Matthew</persName>;
+                  <persName ref="PRS6751Mark">Mark</persName>;
+                  <persName ref="PRS6387Luke">Luke</persName>;
+                  <persName ref="PRS5695John">John</persName>),
+                  seated or standing and in the act of holding or writing his
+                  <title ref="LIT1560Gospel"> Gospel</title>,
+                  typically placed opposite to the beginning of his text. </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
