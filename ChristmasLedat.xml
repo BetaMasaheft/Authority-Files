@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="ChristmasLǝdat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="ChristmasLedat">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,6 +25,7 @@
       <revisionDesc>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
+         <change when="2017-11-15" who="DR">Updated ID</change>
       </revisionDesc>
    </teiHeader>
    <text>
