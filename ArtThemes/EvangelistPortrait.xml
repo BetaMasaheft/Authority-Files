@@ -31,7 +31,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p> An author portrait, showing one of the four
-                  <occupation type="ecclesiastic">Evangelists</occupation>
+                  Evangelists
                   (<persName ref="PRS6902Matthew">Matthew</persName>;
                   <persName ref="PRS6751Mark">Mark</persName>;
                   <persName ref="PRS6387Luke">Luke</persName>;
