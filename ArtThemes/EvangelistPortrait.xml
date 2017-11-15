@@ -37,8 +37,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <persName ref="PRS6387Luke">Luke</persName>;
                   <persName ref="PRS5695John">John</persName>),
                   seated or standing and in the act of holding or writing his
-                  <title ref="LIT1560Gospel"> Gospel</title>,
-                  typically placed opposite to the beginning of his text. </p>
+                  <title ref="LIT1560Gospel"/>, typically
+                  placed opposite to the beginning of his text. </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
