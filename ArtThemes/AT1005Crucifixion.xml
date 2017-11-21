@@ -41,7 +41,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 the scene typically follows the account of the
                     <title ref="LIT1560Gospel">Gospels</title>, 
                     but may include iconographic elements inspired by
-                    <term key="Apocrypha">apocryphal sources</term>
+                    <term key="Apocrypha"/>
                 .</p>
             </abstract>
         </profileDesc>
