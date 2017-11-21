@@ -248,7 +248,7 @@
         <category>
             <desc>Art Themes</desc>
             <category>
-              <catDesc>AT100Agony</catDesc>
+              <catDesc>AT1001Agony</catDesc>
             </category>
              <category>
               <catDesc>AT1002Announciation</catDesc>
@@ -257,7 +257,7 @@
               <catDesc>AT1003Arrest</catDesc>
             </category>
             <category>
-                <catDesc>AncientOfDays</catDesc>
+                <catDesc>AT1032AncientOfDays</catDesc>
             </category>
             <category>
               <catDesc>AT1004Bitter</catDesc>
