@@ -259,6 +259,18 @@
                     <catDesc>ThirdSolomonicStyle</catDesc>
                 </category>
                 <category>
+                    <catDesc>FirstGondarineStyle</catDesc>
+                </category>
+                <category>
+                    <catDesc>SecondGondarineStyle</catDesc>
+                </category>
+                <category>
+                    <catDesc>PostGondarineStyle</catDesc>
+                </category>
+                <category>
+                    <catDesc>ModernStyle</catDesc>
+                </category>
+                <category>
                     <catDesc>cross</catDesc>
                 </category>
         </category>
