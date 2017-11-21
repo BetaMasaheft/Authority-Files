@@ -248,103 +248,103 @@
         <category>
             <desc>Art Themes</desc>
             <category>
-              <catDesc>AgonyInTheGarden</catDesc>
+              <catDesc>AT100Agony</catDesc>
             </category>
              <category>
-              <catDesc>Announciation</catDesc>
+              <catDesc>AT1002Announciation</catDesc>
             </category>
             <category>
-              <catDesc>ArrestOfJesus</catDesc>
+              <catDesc>AT1003Arrest</catDesc>
             </category>
             <category>
                 <catDesc>AncientOfDays</catDesc>
             </category>
             <category>
-              <catDesc>BitterWaterOrdeal</catDesc>
+              <catDesc>AT1004Bitter</catDesc>
             </category>
             <category>
-                <catDesc>Crucifixion</catDesc>
+                <catDesc>AT1005Crucifixion</catDesc>
             </category>
             <category>
-              <catDesc>DenialOfPeter</catDesc>
+              <catDesc>AT1006Denial</catDesc>
             </category>
             <category>
-              <catDesc>DepositionFromCross</catDesc>
+              <catDesc>AT1007Deposition</catDesc>
             </category>
             <category>
-              <catDesc>DescentIntoHell</catDesc>
+              <catDesc>AT1008Descent</catDesc>
             </category>
             <category>
-              <catDesc>DoubtingThomas</catDesc>
+              <catDesc>AT1009Doubting</catDesc>
             </category>
             <category>
-              <catDesc>EntombmentOfJesus</catDesc>
+              <catDesc>AT1010Entombment</catDesc>
             </category>
             <category>
-              <catDesc>EntryIntoJerusalem</catDesc>
+              <catDesc>AT1011Entry</catDesc>
             </category>
             <category>
-              <catDesc>EquestrianSaints</catDesc>
+              <catDesc>AT1012Equestrian</catDesc>
             </category>
             <category>
-              <catDesc>EvangelistPortrait</catDesc>
+              <catDesc>AT1013EvaPortrait</catDesc>
             </category>
             <category>
-              <catDesc>Evangelists</catDesc>
+              <catDesc>AT1014Evangelists</catDesc>
             </category>
             <category>
-              <catDesc>FlagellationOfJesus</catDesc>
+              <catDesc>AT1015Flagellation</catDesc>
             </category>
             <category>
-              <catDesc>FlightIntoEgypt</catDesc>
+              <catDesc>AT1016Flight</catDesc>
             </category>
             <category>
-              <catDesc>HolyWomenAtTomb</catDesc>
+              <catDesc>AT1017WomenAtTomb</catDesc>
             </category>
             <category>
-              <catDesc>JesusBeforePilate</catDesc>
+              <catDesc>AT1018JBefPilate</catDesc>
             </category>
             <category>
-              <catDesc>MarriageAtCana</catDesc>
+              <catDesc>AT1019Cana</catDesc>
             </category>
             <category>
-              <catDesc>MassacreOfInnocents</catDesc>
+              <catDesc>AT1020Massacre</catDesc>
             </category>
             <category>
-              <catDesc>MiraclesOfJesus</catDesc>
+              <catDesc>AT1021MiraclesOfJesus</catDesc>
             </category>
             <category>
-              <catDesc>MiraclesOfMary</catDesc>
+              <catDesc>AT1022MiraclesOfMary</catDesc>
             </category>
             <category>
-              <catDesc>MockingOfJesus</catDesc>
+              <catDesc>AT1023Mocking</catDesc>
             </category>
             <category>
-              <catDesc>MosesReceivingLaw</catDesc>
+              <catDesc>AT1024MosesLaw</catDesc>
             </category>
             <category>
-              <catDesc>NativityOfJesus</catDesc>
+              <catDesc>AT1025NativityJesus</catDesc>
             </category>
             <category>
-              <catDesc>NativityOfMary</catDesc>
+              <catDesc>AT1026NativityMary</catDesc>
             </category>
             <category>
-                <catDesc>PresentationAtTheTemple</catDesc>
+                <catDesc>AT1027PresentationJesus</catDesc>
             </category>
             <category>
-                <catDesc>ThreeHebrewsInFurnace</catDesc>
+                <catDesc>AT1028HebrewsFurnace</catDesc>
             </category>
             <category>
-                <catDesc>Transfiguration</catDesc>
+                <catDesc>AT1029Transfiguration</catDesc>
             </category>
             <category>
-                <catDesc>Trinity</catDesc>
+                <catDesc>AT1030Trinity</catDesc>
             </category>
             <category>
-                <catDesc>VirginAndChild</catDesc>
+                <catDesc>AT1031VirginAndChild</catDesc>
             </category>
             <category>
-                <catDesc>WashingOfFeet</catDesc>
+                <catDesc>AT1032Washing</catDesc>
             </category>
         </category>
 
