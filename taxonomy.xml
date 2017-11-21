@@ -272,16 +272,24 @@
                 </category>
         </category>
         
-    
-        
         <category>
             <desc>Objects</desc>
+                <category>
+                    <catDesc>censer</catDesc>
                 </category>
+                <category>
+                    <catDesc>column</catDesc>
+                </category>
+                <category>
                     <catDesc>cross</catDesc>
                 </category>
+                <category>
+                    <catDesc>spear</catDesc>
+                </category>
+                <category>
+                    <catDesc>sponge</catDesc>
+                </category>
         </category>
-    
-    
     
         <category>
             <desc>Art Themes</desc>
