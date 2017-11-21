@@ -52,7 +52,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
             </listBibl>-->
             <listBibl type="relations">
                 <bibl/>
-                <relation name="saws:contains" active="#Crucifixion" passive="#PRS5684JesusCh">
+                <relation name="saws:contains" active="#AT1005Crucifixion" passive="#PRS5684JesusCh">
                     <desc/>
                 </relation>
             </listBibl>
