@@ -270,6 +270,12 @@
                 <category>
                     <catDesc>ModernStyle</catDesc>
                 </category>
+                <category>
+                    <catDesc>ShortCycle</catDesc>
+                </category>
+                <category>
+                    <catDesc>LongCycle</catDesc>
+                </category>
         </category>
         
         <category>
