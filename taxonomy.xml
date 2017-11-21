@@ -244,7 +244,25 @@
             </category>
         </category>
 
-
+        <category>
+            <desc>Art Keywords</desc>
+                <category>
+                    <catDesc>AksumiteStyle</catDesc>
+                </category>
+                <category>
+                    <catDesc>FirstSolomonicStyle</catDesc>
+                </category>
+                <category>
+                    <catDesc>SecondSolomonicStyle</catDesc>
+                </category>
+                <category>
+                    <catDesc>ThirdSolomonicStyle</catDesc>
+                </category>
+                <category>
+                    <catDesc>cross</catDesc>
+                </category>
+        </category>
+        
         <category>
             <desc>Art Themes</desc>
             <category>
