@@ -2,11 +2,11 @@
 schematypens="http://relaxng.org/ns/structure/1.0"
 ?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
    schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Crucifixion">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="AT1005Crucifixion">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Crucifixion</title>
+                <title>Crucifixion of Jesus</title>
                 <editor key="ES"/>
                 <editor key="JG"/>
                 <editor key="AB" role="generalEditor"/>
