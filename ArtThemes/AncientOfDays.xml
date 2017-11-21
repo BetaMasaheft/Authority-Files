@@ -2,8 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="art" xml:lang="la">Majestas Dei</title>
-            <title type="art">Ancient Of Days</title>
+            <title type="art" xml:lang="la">Maiestas Dei</title>
             <editor key="ES"/>
             <editor key="AB" role="generalEditor"/>
             <funder>Akademie der Wissenschaften in Hamburg</funder>
