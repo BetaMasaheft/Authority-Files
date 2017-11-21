@@ -7,8 +7,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"
         <fileDesc>
             <titleStmt>
                 <title>Crucifixion of Jesus</title>
-                <editor key="ES"/>
                 <editor key="JG"/>
+                <editor key="ES"/>
                 <editor key="AB" role="generalEditor"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
@@ -31,8 +31,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p>A miniature showing <persName ref="PRS5684JesusCh">Jesus</persName>
-                on the Cross, either dead or alive, or an empty Cross flanked by two or more figures such as the
+                <p>A miniature showing the Crucifixion of
+                    <persName ref="PRS5684JesusCh">Jesus</persName>
+                    on the <term key="cross">Cross</term>, either
+                    dead or alive, or an empty Cross flanked 
+                    by two or more figures such as the
                 <persName ref="PRS6819Mary">Virgin Mary</persName> or
                 <persName ref="PRS5695John">John</persName>,
                 the scene typically follows the account of the <title ref="LIT1560Gospel">Gospels</title>, 
