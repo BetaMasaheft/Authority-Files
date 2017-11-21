@@ -257,9 +257,6 @@
               <catDesc>AT1003Arrest</catDesc>
             </category>
             <category>
-                <catDesc>AT1032AncientOfDays</catDesc>
-            </category>
-            <category>
               <catDesc>AT1004Bitter</catDesc>
             </category>
             <category>
@@ -306,6 +303,9 @@
             </category>
             <category>
               <catDesc>AT1019Cana</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1033Maiestas</catDesc>
             </category>
             <category>
               <catDesc>AT1020Massacre</catDesc>
