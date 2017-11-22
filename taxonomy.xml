@@ -276,10 +276,25 @@
                 <category>
                     <catDesc>LongCycle</catDesc>
                 </category>
+                <category>
+                    <catDesc>interlace</catDesc>
+                </category>
         </category>
         
         <category>
-            <desc>Objects</desc>
+            <desc>Objects and Animals</desc>
+                <category>
+                    <catDesc>animal</catDesc>
+                </category>
+                <category>
+                    <catDesc>arch</catDesc>
+                </category>
+                <category>
+                    <catDesc>architecture</catDesc>
+                </category>
+                <category>
+                    <catDesc>bird</catDesc>
+                </category>
                 <category>
                     <catDesc>censer</catDesc>
                 </category>
@@ -290,14 +305,17 @@
                     <catDesc>cross</catDesc>
                 </category>
                 <category>
+                    <catDesc>curtain</catDesc>
+                </category>
+                <category>
                     <catDesc>spear</catDesc>
                 </category>
                 <category>
                     <catDesc>sponge</catDesc>
                 </category>
-            <category>
+                <category>
                 <catDesc>twothieves</catDesc>
-            </category>
+                </category>
         </category>
     
         <category>
