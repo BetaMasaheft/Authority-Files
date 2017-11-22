@@ -30,7 +30,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>A miniature showing two or more Holy Women, typically 
+                    <persName ref="PRS6820MaryMag">Mary Magdalene</persName> and Marta,
+                    advance towards an empty Tomb that symbolizes the resurrection of 
+                    <persName ref="PRS5684JesusCh">Jesus</persName> and an Angel. The soldiers sent to 
+                    guard the Tomb are often included.
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -46,7 +51,16 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:1979ClairTomb"/>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:Gnisci2015HolyWomenAtTomb"/>
+                    </bibl>
+                </listBibl>
+            </div>
         </body>
     </text>
 </TEI>
