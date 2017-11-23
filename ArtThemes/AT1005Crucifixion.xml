@@ -54,8 +54,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <revisionDesc>
             <change who="ES" when="2016-05-06">Provided List in Issue 47</change>
             <change who="PL" when="2016-05-11">prepared XML file</change>
-            <change who="JG" when="2017-11-12">Updated content</change>  
-            <change who="JG" when="2017-11-09">Updated Content</change>
+            <change who="JG" when="2017-11-09">Updated content</change>  
+            <change who="JG" when="2017-11-22">Updated Content</change>
         </revisionDesc>
     </teiHeader>
     <text>
