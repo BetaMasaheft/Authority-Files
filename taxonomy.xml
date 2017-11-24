@@ -277,8 +277,21 @@
                     <catDesc>LongCycle</catDesc>
                 </category>
                 <category>
-                    <catDesc>interlace</catDesc>
+                    <catDesc>attribute</catDesc>
                 </category>
+                <category>
+                    <catDesc>interlace</catDesc>
+                </category>                
+                <category>
+                    <catDesc>gesture</catDesc>
+                </category>
+                <category>
+                    <catDesc>halo</catDesc>
+                </category>
+                <category>
+                    <catDesc>mandorla</catDesc>
+                </category>
+            
         </category>
         
         <category>
@@ -315,6 +328,9 @@
                 </category>
                 <category>
                 <catDesc>twothieves</catDesc>
+                </category>
+                <category>
+                <catDesc>vestment</catDesc>
                 </category>
         </category>
     
