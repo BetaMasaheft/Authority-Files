@@ -291,7 +291,12 @@
                 <category>
                     <catDesc>mandorla</catDesc>
                 </category>
-            
+                <category>
+                    <catDesc>seated</catDesc>
+                </category>
+                <category>
+                    <catDesc>standing</catDesc>
+                </category>
         </category>
         
         <category>
