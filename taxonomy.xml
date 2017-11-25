@@ -280,8 +280,17 @@
                     <catDesc>attribute</catDesc>
                 </category>
                 <category>
+                    <catDesc>deadjesus</catDesc>
+                </category>
+                <category>
+                    <catDesc>emptycross</catDesc>
+                </category>
+                <category>
+                    <catDesc>livingjesus</catDesc>
+                </category>
+                <category>
                     <catDesc>interlace</catDesc>
-                </category>                
+                </category>               
                 <category>
                     <catDesc>gesture</catDesc>
                 </category>
@@ -324,15 +333,6 @@
                 </category>
                 <category>
                     <catDesc>curtain</catDesc>
-                </category>
-                <category>
-                    <catDesc>deadjesus</catDesc>
-                </category>
-                <category>
-                    <catDesc>emptycross</catDesc>
-                </category>
-                <category>
-                    <catDesc>livingjesus</catDesc>
                 </category>
                 <category>
                     <catDesc>spear</catDesc>
