@@ -40,12 +40,16 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     the scene typically follows the account of the
                     <title ref="LIT1560Gospel">Gospels</title>, but 
                     may include iconographic elements inspired by
-                    apocryphal sources.
+                    apocryphal sources.<lb/>
+                    The three main typologies attested in the
+                    Ethiopian tradition are:<lb/>
+                    Type 1= <lb/> 
+                    Type 2=<lb/>
+                    Type 3 =
                 </p>
-                <p>The three main typologies attested in the
-                    Ethiopian tradition are:
+                
           
-                </p>
+                
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
