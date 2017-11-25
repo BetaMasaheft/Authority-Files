@@ -31,21 +31,21 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p> A miniature showing the Crucifixion of
-                    <persName ref="PRS5684JesusCh">Jesus</persName>
-                    on the Cross, either
-                    dead or alive, or an empty Cross flanked 
-                    by two or more figures such as the
+                    <persName ref="PRS5684JesusCh">Jesus</persName>.
+                    The scene may include a number of additional figures, such as the
                     <persName ref="PRS6819Mary">Virgin Mary</persName> or
                     <persName ref="PRS5695John">John</persName>,
                     the scene typically follows the account of the
                     <title ref="LIT1560Gospel">Gospels</title>, but 
                     may include iconographic elements inspired by
-                    apocryphal sources.<lb/>
-                    The three main typologies attested in the
-                    Ethiopian tradition are:<lb/>
-                    Type 1= <lb/> 
-                    Type 2=<lb/>
-                    Type 3 =
+                    apocryphal sources.
+                    
+                    The three main typologies attested in the Ethiopian tradition are:
+                    
+                    * Type 1 = There is an Empty Cross and there are figures associated with it, 
+                    i.e. it is not just an interlaced cross.
+                    * Type 2 = The body of Living Jesus is nailed to the cross.
+                    * Type 3 = The body of the Dead Jesus is nailed to the cross .
                 </p>
                 
           
