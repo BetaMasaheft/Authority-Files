@@ -42,6 +42,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     may include iconographic elements inspired by
                     apocryphal sources.
                 </p>
+                <p>The three main typologies attested in the
+                    Ethiopian tradition are:
+          
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
