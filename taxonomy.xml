@@ -283,9 +283,6 @@
                     <catDesc>attribute</catDesc>
                 </category>
                 <category>
-                    <catDesc>codex</catDesc>
-                </category>
-                <category>
                     <catDesc>deadjesus</catDesc>
                 </category>
                 <category>
@@ -337,6 +334,9 @@
                 </category>
                 <category>
                     <catDesc>censer</catDesc>
+                </category>
+                <category>
+                    <catDesc>codex</catDesc>
                 </category>
                 <category>
                     <catDesc>column</catDesc>
