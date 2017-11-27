@@ -30,7 +30,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p> A miniature showing an <term>Angel</term>, typically <<persName ref="PRS4377Gabriel"/>, in the act of informing the
+                <p> A miniature showing an <term>Angel</term>, typically <persName ref="PRS4377Gabriel"/>, in the act of informing the
                     Virgin <persName ref="PRS6819Mary"/> that she will become the mother of <term>Jesus</term>
                  (<ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:1.28">Lk 1:28</ref>),
                  with additional details informed by apocryphal sources such as the Protoevangelium of James (11-12).
