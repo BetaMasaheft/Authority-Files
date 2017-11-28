@@ -68,7 +68,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </bibl>
                     <bibl>
                         <ptr target="bm:2013ChojnackiMarianIcon"/>
-                    </bibl>   
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:1961WellenTheotokos"/>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:2005Theotokos"/>
+                    </bibl>
                 </listBibl>
                 <listBibl type="relations">
                     <bibl/>
