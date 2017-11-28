@@ -30,7 +30,21 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>
+                    A miniature showing the <persName ref="PRS6819Mary"/> together with
+                    the infant <persName ref="PRS5684JesusCh"/>.  It frequently features two 
+                    angels in the background, generally identified as <persName ref="PRS4377Gabriel"/>
+                    and <persName ref="PRS7049Michael"/>. In examples of the <term key="SecondGondarineStyle"/>
+                    and <term key="PostGondarineStyle"/> it is common to find a donor 
+                    The theme is one of the most frequently depicted subjects in Ethiopian manuscript illustration. 
+                    It is not suprising, then, a number of typologies are attested in the Ethiopian tradition.
+                    These typologies are:
+                    <list>
+                        <item>Type 1 <desc> Hodegetria</desc></item>
+                        <item>Type 2 <desc>Galaktotrophousa (also known as Nursing Madonna, 
+                            Virgo Lactans, or Madonna Lactans).</desc></item>
+                    </list>
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -46,7 +60,23 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:1983ChojnackiMajorThemes"/>
+                        <citedRange unit="pages">171-250</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:2013ChojnackiMarianIcon"/>
+                    </bibl>   
+                </listBibl>
+                <listBibl type="relations">
+                    <bibl/>
+                    <relation name="saws:contains" active="#AT1031VirginAndChild" passive="#PRS6819Mary #PRS5684JesusCh">
+                        <desc/>
+                    </relation>
+                </listBibl>
+            </div>
         </body>
     </text>
 </TEI>
