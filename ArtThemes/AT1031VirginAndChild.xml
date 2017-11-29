@@ -34,15 +34,43 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     A miniature showing the <persName ref="PRS6819Mary"/> together with
                     the infant <persName ref="PRS5684JesusCh"/>.  It frequently features two 
                     angels in the background, generally identified as <persName ref="PRS4377Gabriel"/>
-                    and <persName ref="PRS7049Michael"/>. In examples of the <term key="SecondGondarineStyle"/>
-                    and <term key="PostGondarineStyle"/> it is common to find a donor 
+                    and <persName ref="PRS7049Michael"/>. In examples of the Second Gondarine Style
+                    and Post Gondarine Style it is common to find a donor 
                     The theme is one of the most frequently depicted subjects in Ethiopian manuscript illustration. 
                     It is not suprising, then, a number of typologies are attested in the Ethiopian tradition.
-                    These typologies are:
-                    <list>
-                        <item>Type 1 <desc> Hodegetria</desc></item>
-                        <item>Type 2 <desc>Galaktotrophousa (also known as Nursing Madonna, 
-                            Virgo Lactans, or Madonna Lactans).</desc></item>
+                    
+                    <list type="index">
+                        <label>TYPOLOGIES</label>
+                    
+                        <item>Type 1 <desc>  Eleusa, Eleousa, Virgin of Tenderness, Madonna Eleusa, 
+                            Panagia Eleousa</desc></item>
+                        <item>Type 2 <desc>Galaktotrophousa, Nursing Madonna, 
+                            Virgo Lactans,  Madonna Lactans.</desc></item>
+                    </list>
+                    
+                    <list type="index">
+                        <label>EVIL</label>
+                        <item>
+                            <list rend="bulleted">
+                                <item>I am cast upon a horrible desolate island, void
+                                    of all hope of recovery.</item>
+                                <item>I am singled out and separated as it were from
+                                    all the world to be miserable.</item>
+                                <item>I am divided from mankind — a solitaire; one
+                                    banished from human society.</item>
+                            </list>
+                        </item>
+                        <label>GOOD</label>
+                        <item>
+                            <list rend="bulleted">
+                                <item>But I am alive; and not drowned, as all my
+                                    ship's company were.</item>
+                                <item>But I am singled out, too, from all the ship's
+                                    crew, to be spared from death...</item>
+                                <item>But I am not starved, and perishing on a barren place,
+                                    affording no sustenances....</item>
+                            </list>
+                        </item>
                     </list>
                 </p>
             </abstract>
