@@ -38,10 +38,15 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     and Post Gondarine Style it is common to find a donor 
                     The theme is one of the most frequently depicted subjects in Ethiopian manuscript illustration. 
                     It is not suprising, then, a number of typologies are attested in the Ethiopian tradition.
+                    These are:
+                    <list type="index">
+                        <item>1 </item>
+                        <item>2</item>
+                        <list subtype="index"> <item>2.a</item></list>
+                    </list>
+                    
                     
                     <list>
-                        <label>TYPOLOGIES</label>
-                    
                         <item>Type 1 <desc>  Eleusa, Eleousa, Virgin of Tenderness, Madonna Eleusa, 
                             Panagia Eleousa</desc>
                             <item> Type 1.b <desc>Test</desc></item>
