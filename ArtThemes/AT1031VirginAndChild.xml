@@ -40,9 +40,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     It is not suprising, then, a number of typologies are attested in the Ethiopian tradition.
                     These are:
                     <list type="index">
-                        <item>1 </item>
-                        <item>2</item>
-                        <list subtype="index"> <item>2.a</item></list>
+                        <item> Test 1</item>
+                        <item>Test 2<list> <item>Test 2b</item></list></item>
+                       
                     </list>
                     
                     
