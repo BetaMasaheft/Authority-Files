@@ -39,17 +39,15 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     The theme is one of the most frequently depicted subjects in Ethiopian manuscript illustration. 
                     It is not suprising, then, a number of typologies are attested in the Ethiopian tradition.
                     These are:
-        
                     <list>
-                        <item>Type 1 <desc>  Eleusa, Eleousa, Virgin of Tenderness, Madonna Eleusa, 
+                        <item>Type I <desc>  Eleusa, Eleousa, Virgin of Tenderness, Madonna Eleusa, 
                             Panagia Eleousa</desc>
                         </item>
-                        <item>Type 2 <desc>Galaktotrophousa, Nursing Madonna, 
+                        <item>Type II <desc>Galaktotrophousa, Nursing Madonna, 
                             Virgo Lactans,  Madonna Lactans.</desc></item>
-                        <item>Type 3 <desc>Hodegetria</desc></item>
+                        <item>Type III <desc>Hodegetria</desc></item>
+                        <item>Type III-b <desc>Salus Populi Romani</desc></item>
                     </list>
-                    
-                   
                 </p>
             </abstract>
             <langUsage>
