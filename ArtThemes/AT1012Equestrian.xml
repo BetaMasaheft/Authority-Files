@@ -5,7 +5,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Equestrian Saints</title>
+                <title>Equestrian Saint</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -36,7 +36,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     In Ethiopic manuscripts, saints on horseback appear from the fifteenth century onwards.
                     Typically, portraits of the saints on horseback appear as full-page miniatures, though other variants exist. 
                     The most frequently depicted saint on horseback is 
-                    <persName ref="PRS4585Georgeo"/>.
+                    <persName ref="PRS4585Georgeo">St George</persName>.
                     
                    
                 </p>
