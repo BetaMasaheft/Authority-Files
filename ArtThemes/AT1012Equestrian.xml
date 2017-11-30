@@ -30,7 +30,16 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>
+                    As in other Christian traditions, the Coptic especially comes to mind, representations of saints 
+                    on horseback appear frequently and in a range of media in Ethiopian and Eritrean art.
+                    In Ethiopic manuscripts, saints on horseback appear from the fifteenth century onwards.
+                    Typically, portraits of the saints on horseback appear as full-page miniatures, though other variants exist. 
+                    The most frequently depicted saint on horseback is 
+                    <persName ref="PRS4585Georgeo"/>.
+                    
+                   
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -46,7 +55,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+            <listBibl type="secondary">
+            <bibl> 
+                <ptr target="bm:Chojnacki1973Iconography"/>
+                <citedRange unit="page">57-73</citedRange>
+            </bibl>
+            </listBibl>
+            </div>
         </body>
     </text>
 </TEI>
