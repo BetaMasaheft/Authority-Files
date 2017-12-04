@@ -320,7 +320,7 @@
                 </category>
                 <category>
                     <catDesc>saluspopuli</catDesc>
-                </category
+                </category>
                 <category>
                     <catDesc>hodegetria</catDesc>
                 </category>
@@ -400,6 +400,9 @@
             </category>
             <category>
               <catDesc>AT1004Bitter</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1036MercyCovenant</catDesc>
             </category>
             <category>
                 <catDesc>AT1005Crucifixion</catDesc>
