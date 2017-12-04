@@ -383,10 +383,16 @@
                     <catDesc>scroll</catDesc>
                 </category>
                 <category>
+                    <catDesc>shield</catDesc>
+                </category>
+                <category>
                     <catDesc>spear</catDesc>
                 </category>
                 <category>
                     <catDesc>sponge</catDesc>
+                </category>
+                <category>
+                    <catDesc>sword</catDesc>
                 </category>
                 <category>
                     <catDesc>vestment</catDesc>
