@@ -283,6 +283,12 @@
                     <catDesc>attribute</catDesc>
                 </category>
                 <category>
+                    <catDesc>bearded</catDesc>
+                </category>
+                <category>
+                    <catDesc>beardless</catDesc>
+                </category>
+                <category>
                     <catDesc>deadjesus</catDesc>
                 </category>
                 <category>
@@ -374,10 +380,19 @@
                     <catDesc>eucharist</catDesc>
                 </category>
                 <category>
+                    <catDesc>scroll</catDesc>
+                </category>
+                <category>
+                    <catDesc>shield</catDesc>
+                </category>
+                <category>
                     <catDesc>spear</catDesc>
                 </category>
                 <category>
                     <catDesc>sponge</catDesc>
+                </category>
+                <category>
+                    <catDesc>sword</catDesc>
                 </category>
                 <category>
                     <catDesc>vestment</catDesc>
@@ -400,6 +415,9 @@
             </category>
             <category>
               <catDesc>AT1004Bitter</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1036MercyCovenant</catDesc>
             </category>
             <category>
                 <catDesc>AT1005Crucifixion</catDesc>
