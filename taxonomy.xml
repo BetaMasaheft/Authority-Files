@@ -283,6 +283,12 @@
                     <catDesc>attribute</catDesc>
                 </category>
                 <category>
+                    <catDesc>bearded</catDesc>
+                </category>
+                <category>
+                    <catDesc>beardless</catDesc>
+                </category>
+                <category>
                     <catDesc>deadjesus</catDesc>
                 </category>
                 <category>
@@ -372,6 +378,9 @@
                 </category>
                 <category>
                     <catDesc>eucharist</catDesc>
+                </category>
+                <category>
+                    <catDesc>scroll</catDesc>
                 </category>
                 <category>
                     <catDesc>spear</catDesc>
