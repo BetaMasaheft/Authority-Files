@@ -336,7 +336,9 @@
                 <category>
                     <catDesc>tetramorph</catDesc>
                 </category>
-            
+                <category>
+                    <catDesc>twothieves</catDesc>
+                </category>    
         </category>
         
         <category>
@@ -376,9 +378,6 @@
                 </category>
                 <category>
                     <catDesc>sponge</catDesc>
-                </category>
-                <category>
-                    <catDesc>twothieves</catDesc>
                 </category>
                 <category>
                     <catDesc>vestment</catDesc>
