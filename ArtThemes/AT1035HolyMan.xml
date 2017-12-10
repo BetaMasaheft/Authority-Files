@@ -31,7 +31,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>From the fourteenth century onwards Ethiopic manuscripts frequently feature portraits of standing saints. Some figures, such as 
-                    <persName ref="PRS9162TaklaHa"/>, have specific iconographic features, whereas other have generic ecclesiastical attributes.
+                    <persName ref="PRS9162TaklaHa"/> or <persName ref="PRS4306GabraMa"/>, have specific iconographic features, whereas other have generic ecclesiastical attributes.
                 </p>
             </abstract>
             <langUsage>
@@ -48,7 +48,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                    <listBibl type="secondary">
+                        <bibl>
+                            <ptr target="bm:Balicka2010PaintingSubjects"/>
+                        </bibl>    
+                    </listBibl>
+            </div>
         </body>
     </text>
 </TEI>
