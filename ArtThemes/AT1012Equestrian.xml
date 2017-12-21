@@ -60,6 +60,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <ptr target="bm:Chojnacki1973Iconography"/>
                 <citedRange unit="page">57-73</citedRange>
             </bibl>
+            <bibl> 
+                <ptr target="bm:BalickaWitakowska2005EquestrianSaints"/>   
+            </bibl>
             </listBibl>
             </div>
         </body>
