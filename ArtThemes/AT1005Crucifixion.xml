@@ -36,7 +36,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <persName ref="PRS6819Mary">Virgin Mary</persName> or
                     <persName ref="PRS5695John">John</persName>,
                     the scene typically follows the account of the
-                    <title ref="LIT1560Gospel">Gospels</title>, but 
+                    <ref type="work" corresp="LIT1560Gospel">Gospels</ref>, but 
                     may include iconographic elements inspired by
                     apocryphal sources.
                     
@@ -93,7 +93,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </listBibl>
               <listBibl type="relations">
                   <bibl/>
-                  <relation name="saws:contains" active="#AT1005Crucifixion" passive="#PRS5684JesusCh">
+                  <relation name="saws:contains" active="AT1005Crucifixion" passive="PRS5684JesusCh">
                       <desc/>
                   </relation>
               </listBibl>

@@ -82,7 +82,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </listBibl>
                 <listBibl type="relations">
                     <bibl/>
-                    <relation name="saws:contains" active="#AT1031VirginAndChild" passive="#PRS6819Mary #PRS5684JesusCh">
+                    <relation name="saws:contains" active="AT1031VirginAndChild" passive="PRS6819Mary PRS5684JesusCh">
                         <desc/>
                     </relation>
                 </listBibl>
