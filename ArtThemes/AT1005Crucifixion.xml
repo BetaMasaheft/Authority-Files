@@ -1,7 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
-schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT1005Crucifixion" xml:lang="en" type="auth">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AT1005Crucifixion"
+     xml:lang="en"
+     type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,9 +49,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <list>
                         <item>Type 1 <desc>There is an <term key="emptycross">Empty Cross</term>
                             and there are figures associated with it 
-                            (i.e. it is not just an interlaced cross).</desc></item>
-                        <item>Type 2 <desc>The body of  <term key="livingjesus">Living Jesus</term> is nailed to the cross.</desc></item>
-                        <item>Type 3 <desc>The body of the  <term key="deadjesus">Dead Jesus</term> is nailed to the cross.</desc></item>
+                            (i.e. it is not just an interlaced cross).</desc>
+                  </item>
+                        <item>Type 2 <desc>The body of  <term key="livingjesus">Living Jesus</term> is nailed to the cross.</desc>
+                  </item>
+                        <item>Type 3 <desc>The body of the  <term key="deadjesus">Dead Jesus</term> is nailed to the cross.</desc>
+                  </item>
                     </list>
                 </p>
             </abstract>
@@ -75,12 +83,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <body>
           <div type="bibliography">
             <listBibl type="secondary">
-           <bibl>
-               <ptr target="bm:1997BalickaCrucifixion"/>
-           </bibl>
-           <bibl>
-               <ptr target="bm:2014GnisciCrucifixion"/>          
-           </bibl>
+               <bibl>
+                  <ptr target="bm:1997BalickaCrucifixion"/>
+               </bibl>
+               <bibl>
+                  <ptr target="bm:2014GnisciCrucifixion"/>          
+               </bibl>
                 <bibl>
                     <ptr target="bm:1941GrondijsCrucifixion"/>
                 </bibl>
@@ -93,7 +101,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </listBibl>
               <listBibl type="relations">
                   <bibl/>
-                  <relation name="saws:contains" active="AT1005Crucifixion" passive="PRS5684JesusCh">
+                  <relation name="saws:contains"
+                         active="AT1005Crucifixion"
+                         passive="PRS5684JesusCh">
                       <desc/>
                   </relation>
               </listBibl>

@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-    type="auth"
-    xml:id="Rituals">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Rituals">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -34,4 +32,3 @@
         </body>
     </text>
 </TEI>
-

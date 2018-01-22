@@ -3,8 +3,12 @@
     <taxonomy xml:id="ethioauthlist">
         <category>
             <desc>special mss</desc>
-            <category><catDesc>GoldenGospel</catDesc></category>
-            <category><catDesc>miniatureCollection</catDesc></category>
+            <category>
+            <catDesc>GoldenGospel</catDesc>
+         </category>
+            <category>
+            <catDesc>miniatureCollection</catDesc>
+         </category>
         </category>
         
         <category>
@@ -60,7 +64,8 @@
                 <catDesc>MoPe</catDesc>
             </category>
         </category>
-        <category><desc>Chant Modes</desc>
+        <category>
+         <desc>Chant Modes</desc>
             <category>
                 <catDesc>ArarayMode</catDesc>
             </category>

@@ -1,7 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
-schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT1008Descent" xml:lang="en" type="auth">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AT1008Descent"
+     xml:lang="en"
+     type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,8 +40,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   and <persName ref="PRS3926Eve">Eve</persName> from Hell,
                   an episode alluded to in the New Testament and expanded upon in the apocrypha,
                     typically featuring him in the act of trampling over
-                     Satan or a persoitifaction of 
-                    <persName ref="PRS2494Barbanos">Hades</persName>Hades.
+                     Satan or a personifiaction of 
+                    <persName ref="PRS2494Barbanos">Hades</persName>.
                 </p>
             </abstract>
             <langUsage>
@@ -55,12 +60,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <body>
           <div type="bibliography">
             <listBibl type="secondary">
-           <bibl>
-             <ptr target="bm:Kartsonis1986Anastasis"/>
-           </bibl>
-           <bibl>
-             <ptr target="bm:Chojnacki2009Anastasis"/>
-           </bibl>
+               <bibl>
+                  <ptr target="bm:Kartsonis1986Anastasis"/>
+               </bibl>
+               <bibl>
+                  <ptr target="bm:Chojnacki2009Anastasis"/>
+               </bibl>
             </listBibl>
           </div>
         </body>
