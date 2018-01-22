@@ -25,6 +25,7 @@
       <revisionDesc>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
+         
          <change who="DR" when="2017-11-03">Corrected ID</change>
       </revisionDesc>
    </teiHeader>
