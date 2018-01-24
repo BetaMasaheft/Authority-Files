@@ -88,14 +88,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <ptr target="bm:2005Theotokos"/>
                     </bibl>
                 </listBibl>
-                <listBibl type="relations">
-                    <bibl/>
-                    <relation name="saws:contains"
+                <listRelation>
+               <relation name="saws:contains"
                          active="AT1031VirginAndChild"
                          passive="PRS6819Mary PRS5684JesusCh">
                         <desc/>
                     </relation>
-                </listBibl>
+            </listRelation>
             </div>
         </body>
     </text>

@@ -8,7 +8,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title >Correction</title>
+                <title>Correction</title>
                 <editor key="ES"/>
                 <editor key="DR"/>
                 <editor key="AB" role="generalEditor"/>
