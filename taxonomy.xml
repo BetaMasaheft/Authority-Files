@@ -4,13 +4,13 @@
         <category>
             <desc>special mss</desc>
             <category>
-            <catDesc>GoldenGospel</catDesc>
-         </category>
+                <catDesc>GoldenGospel</catDesc>
+            </category>
             <category>
-            <catDesc>miniatureCollection</catDesc>
-         </category>
+                <catDesc>miniatureCollection</catDesc>
+            </category>
         </category>
-        
+
         <category>
             <desc>Occupation</desc>
             <category>
@@ -41,8 +41,8 @@
                 <catDesc>Other</catDesc>
             </category>
         </category>
-        
-        
+
+
         <category>
             <desc>Periods</desc>
             <category>
@@ -65,7 +65,7 @@
             </category>
         </category>
         <category>
-         <desc>Chant Modes</desc>
+            <desc>Chant Modes</desc>
             <category>
                 <catDesc>ArarayMode</catDesc>
             </category>
@@ -120,7 +120,7 @@
             <category>
                 <catDesc>PurchaseNote</catDesc>
             </category>
-           <category>
+            <category>
                 <catDesc>ReceiptNote</catDesc>
             </category>
             <category>
@@ -251,178 +251,178 @@
 
         <category>
             <desc>Art Keywords</desc>
-                <category>
-                    <catDesc>AksumiteStyle</catDesc>
-                </category>
-                <category>
-                    <catDesc>FirstSolomonicStyle</catDesc>
-                </category>
-                <category>
-                    <catDesc>SecondSolomonicStyle</catDesc>
-                </category>
-                <category>
-                    <catDesc>ThirdSolomonicStyle</catDesc>
-                </category>
-                <category>
-                    <catDesc>FirstGondarineStyle</catDesc>
-                </category>
-                <category>
-                    <catDesc>SecondGondarineStyle</catDesc>
-                </category>
-                <category>
-                    <catDesc>PostGondarineStyle</catDesc>
-                </category>
-                <category>
-                    <catDesc>ModernStyle</catDesc>
-                </category>
-                <category>
-                    <catDesc>ShortCycle</catDesc>
-                </category>
-                <category>
-                    <catDesc>LongCycle</catDesc>
-                </category>
-                <category>
-                    <catDesc>angel</catDesc>
-                </category>
-                <category>
-                    <catDesc>attribute</catDesc>
-                </category>
-                <category>
-                    <catDesc>bearded</catDesc>
-                </category>
-                <category>
-                    <catDesc>beardless</catDesc>
-                </category>
-                <category>
-                    <catDesc>deadjesus</catDesc>
-                </category>
-                <category>
-                    <catDesc>donordepiction</catDesc>
-                </category>
-                <category>
-                    <catDesc>emptycross</catDesc>
-                </category>
-                <category>
-                    <catDesc>livingjesus</catDesc>
-                </category>
-                <category>
-                    <catDesc>interlace</catDesc>
-                </category>               
-                <category>
-                    <catDesc>gesture</catDesc>
-                </category>
-                <category>
-                    <catDesc>gestureblessing</catDesc>
-                </category>
-                <category>
-                    <catDesc>gesturegrief</catDesc>
-                </category>
-                <category>
-                    <catDesc>gestureorans</catDesc>
-                </category>
-                <category>
-                    <catDesc>gesturewitnessing</catDesc>
-                </category>
-                <category>
-                    <catDesc>halo</catDesc>
-                </category>
-                <category>
-                    <catDesc>mandorla</catDesc>
-                </category>
-                <category>
-                    <catDesc>saluspopuli</catDesc>
-                </category>
-                <category>
-                    <catDesc>hodegetria</catDesc>
-                </category>
-                <category>
-                    <catDesc>seated</catDesc>
-                </category>
-                <category>
-                    <catDesc>standing</catDesc>
-                </category>
-                <category>
-                    <catDesc>sunandmoon</catDesc>
-                </category>
-                <category>
-                    <catDesc>tetramorph</catDesc>
-                </category>
-                <category>
-                    <catDesc>twothieves</catDesc>
-                </category>    
+            <category>
+                <catDesc>AksumiteStyle</catDesc>
+            </category>
+            <category>
+                <catDesc>FirstSolomonicStyle</catDesc>
+            </category>
+            <category>
+                <catDesc>SecondSolomonicStyle</catDesc>
+            </category>
+            <category>
+                <catDesc>ThirdSolomonicStyle</catDesc>
+            </category>
+            <category>
+                <catDesc>FirstGondarineStyle</catDesc>
+            </category>
+            <category>
+                <catDesc>SecondGondarineStyle</catDesc>
+            </category>
+            <category>
+                <catDesc>PostGondarineStyle</catDesc>
+            </category>
+            <category>
+                <catDesc>ModernStyle</catDesc>
+            </category>
+            <category>
+                <catDesc>ShortCycle</catDesc>
+            </category>
+            <category>
+                <catDesc>LongCycle</catDesc>
+            </category>
+            <category>
+                <catDesc>angel</catDesc>
+            </category>
+            <category>
+                <catDesc>attribute</catDesc>
+            </category>
+            <category>
+                <catDesc>bearded</catDesc>
+            </category>
+            <category>
+                <catDesc>beardless</catDesc>
+            </category>
+            <category>
+                <catDesc>deadjesus</catDesc>
+            </category>
+            <category>
+                <catDesc>donordepiction</catDesc>
+            </category>
+            <category>
+                <catDesc>emptycross</catDesc>
+            </category>
+            <category>
+                <catDesc>livingjesus</catDesc>
+            </category>
+            <category>
+                <catDesc>interlace</catDesc>
+            </category>
+            <category>
+                <catDesc>gesture</catDesc>
+            </category>
+            <category>
+                <catDesc>gestureblessing</catDesc>
+            </category>
+            <category>
+                <catDesc>gesturegrief</catDesc>
+            </category>
+            <category>
+                <catDesc>gestureorans</catDesc>
+            </category>
+            <category>
+                <catDesc>gesturewitnessing</catDesc>
+            </category>
+            <category>
+                <catDesc>halo</catDesc>
+            </category>
+            <category>
+                <catDesc>mandorla</catDesc>
+            </category>
+            <category>
+                <catDesc>saluspopuli</catDesc>
+            </category>
+            <category>
+                <catDesc>hodegetria</catDesc>
+            </category>
+            <category>
+                <catDesc>seated</catDesc>
+            </category>
+            <category>
+                <catDesc>standing</catDesc>
+            </category>
+            <category>
+                <catDesc>sunandmoon</catDesc>
+            </category>
+            <category>
+                <catDesc>tetramorph</catDesc>
+            </category>
+            <category>
+                <catDesc>twothieves</catDesc>
+            </category>
         </category>
-        
+
         <category>
             <desc>Objects and Animals</desc>
-                <category>
-                    <catDesc>animal</catDesc>
-                </category>
-                <category>
-                    <catDesc>arch</catDesc>
-                </category>
-                <category>
-                    <catDesc>architecture</catDesc>
-                </category>
-                <category>
-                    <catDesc>bird</catDesc>
-                </category>
-                <category>
-                    <catDesc>censer</catDesc>
-                </category>
-                <category>
-                    <catDesc>codex</catDesc>
-                </category>
-                <category>
-                    <catDesc>column</catDesc>
-                </category>
-                <category>
-                    <catDesc>cross</catDesc>
-                </category>
-                <category>
-                    <catDesc>curtain</catDesc>
-                </category>
+            <category>
+                <catDesc>animal</catDesc>
+            </category>
+            <category>
+                <catDesc>arch</catDesc>
+            </category>
+            <category>
+                <catDesc>architecture</catDesc>
+            </category>
+            <category>
+                <catDesc>bird</catDesc>
+            </category>
+            <category>
+                <catDesc>censer</catDesc>
+            </category>
+            <category>
+                <catDesc>codex</catDesc>
+            </category>
+            <category>
+                <catDesc>column</catDesc>
+            </category>
+            <category>
+                <catDesc>cross</catDesc>
+            </category>
+            <category>
+                <catDesc>curtain</catDesc>
+            </category>
             <category>
                 <catDesc>dragon</catDesc>
             </category>
-                <category>
-                    <catDesc>eucharist</catDesc>
-                </category>
-                <category>
-                    <catDesc>scroll</catDesc>
-                </category>
-                <category>
-                    <catDesc>shield</catDesc>
-                </category>
-                <category>
-                    <catDesc>spear</catDesc>
-                </category>
-                <category>
-                    <catDesc>sponge</catDesc>
-                </category>
-                <category>
-                    <catDesc>sword</catDesc>
-                </category>
-                <category>
-                    <catDesc>vestment</catDesc>
-                </category>
+            <category>
+                <catDesc>eucharist</catDesc>
+            </category>
+            <category>
+                <catDesc>scroll</catDesc>
+            </category>
+            <category>
+                <catDesc>shield</catDesc>
+            </category>
+            <category>
+                <catDesc>spear</catDesc>
+            </category>
+            <category>
+                <catDesc>sponge</catDesc>
+            </category>
+            <category>
+                <catDesc>sword</catDesc>
+            </category>
+            <category>
+                <catDesc>vestment</catDesc>
+            </category>
         </category>
-    
+
         <category>
             <desc>Art Themes</desc>
             <category>
-              <catDesc>AT1001Agony</catDesc>
-            </category>
-             <category>
-              <catDesc>AT1002Announciation</catDesc>
+                <catDesc>AT1001Agony</catDesc>
             </category>
             <category>
-              <catDesc>AT1003Arrest</catDesc>
+                <catDesc>AT1002Announciation</catDesc>
             </category>
             <category>
-              <catDesc>AT1033Ascension</catDesc>
+                <catDesc>AT1003Arrest</catDesc>
             </category>
             <category>
-              <catDesc>AT1004Bitter</catDesc>
+                <catDesc>AT1033Ascension</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1004Bitter</catDesc>
             </category>
             <category>
                 <catDesc>AT1036MercyCovenant</catDesc>
@@ -431,73 +431,73 @@
                 <catDesc>AT1005Crucifixion</catDesc>
             </category>
             <category>
-              <catDesc>AT1006Denial</catDesc>
+                <catDesc>AT1006Denial</catDesc>
             </category>
             <category>
-              <catDesc>AT1007Deposition</catDesc>
+                <catDesc>AT1007Deposition</catDesc>
             </category>
             <category>
-              <catDesc>AT1008Descent</catDesc>
+                <catDesc>AT1008Descent</catDesc>
             </category>
             <category>
-              <catDesc>AT1009Doubting</catDesc>
+                <catDesc>AT1009Doubting</catDesc>
             </category>
             <category>
-              <catDesc>AT1010Entombment</catDesc>
+                <catDesc>AT1010Entombment</catDesc>
             </category>
             <category>
-              <catDesc>AT1011Entry</catDesc>
+                <catDesc>AT1011Entry</catDesc>
             </category>
             <category>
-              <catDesc>AT1012Equestrian</catDesc>
+                <catDesc>AT1012Equestrian</catDesc>
             </category>
             <category>
-              <catDesc>AT1013EvaPortrait</catDesc>
+                <catDesc>AT1013EvaPortrait</catDesc>
             </category>
             <category>
-              <catDesc>AT1014Evangelists</catDesc>
+                <catDesc>AT1014Evangelists</catDesc>
             </category>
             <category>
-              <catDesc>AT1015Flagellation</catDesc>
+                <catDesc>AT1015Flagellation</catDesc>
             </category>
             <category>
-              <catDesc>AT1016Flight</catDesc>
+                <catDesc>AT1016Flight</catDesc>
             </category>
             <category>
-              <catDesc>AT1035HolyMan</catDesc>
+                <catDesc>AT1035HolyMan</catDesc>
             </category>
             <category>
-              <catDesc>AT1017WomenAtTomb</catDesc>
+                <catDesc>AT1017WomenAtTomb</catDesc>
             </category>
             <category>
-              <catDesc>AT1018JBefPilate</catDesc>
+                <catDesc>AT1018JBefPilate</catDesc>
             </category>
             <category>
-              <catDesc>AT1019Cana</catDesc>
+                <catDesc>AT1019Cana</catDesc>
             </category>
             <category>
                 <catDesc>AT1033Maiestas</catDesc>
             </category>
             <category>
-              <catDesc>AT1020Massacre</catDesc>
+                <catDesc>AT1020Massacre</catDesc>
             </category>
             <category>
-              <catDesc>AT1021MiraclesOfJesus</catDesc>
+                <catDesc>AT1021MiraclesOfJesus</catDesc>
             </category>
             <category>
-              <catDesc>AT1022MiraclesOfMary</catDesc>
+                <catDesc>AT1022MiraclesOfMary</catDesc>
             </category>
             <category>
-              <catDesc>AT1023Mocking</catDesc>
+                <catDesc>AT1023Mocking</catDesc>
             </category>
             <category>
-              <catDesc>AT1024MosesLaw</catDesc>
+                <catDesc>AT1024MosesLaw</catDesc>
             </category>
             <category>
-              <catDesc>AT1025NativityJesus</catDesc>
+                <catDesc>AT1025NativityJesus</catDesc>
             </category>
             <category>
-              <catDesc>AT1026NativityMary</catDesc>
+                <catDesc>AT1026NativityMary</catDesc>
             </category>
             <category>
                 <catDesc>AT1027PresentationJesus</catDesc>
@@ -612,7 +612,7 @@
             <category>
                 <catDesc>kingdom</catDesc>
             </category>
-           <category>
+            <category>
                 <catDesc>spring</catDesc>
             </category>
             <category>
@@ -687,7 +687,7 @@
             <category>
                 <catDesc>gorge</catDesc>
             </category>
-           <category>
+            <category>
                 <catDesc>strait</catDesc>
             </category>
             <category>
@@ -824,141 +824,141 @@
 
         <category>
             <desc>Subjects</desc>
-                <category>
-                    <catDesc>ApocryphaPseudoepigrapha</catDesc>
-                </category>
-                <category>
-                    <catDesc>AmharicLiterature</catDesc>
-                </category>
-                
-                <!--mycore-->
-                <category>
-                    <catDesc>Apocrypha</catDesc>
-                </category>
-                <category>
-                    <catDesc>Pseudoepigrapha</catDesc>
-                </category>
-                <category>
-                    <catDesc>Miracle</catDesc>
-                </category>
-                <category>
-                    <catDesc>NewTestament</catDesc>
-                </category>
-                <category>
-                    <catDesc>OldTestament</catDesc>
-                </category>
-                <category>
-                    <catDesc>BetaEsraelLiterature</catDesc>
-                </category>
-                <category>
-                    <catDesc>Bible</catDesc>
-                </category>
-                <category>
-                    <catDesc>Biography</catDesc>
-                </category>
-                <category>
-                    <catDesc>CanonLaw</catDesc>
-                </category>
-                <category>
-                    <catDesc>Commentary</catDesc>
-                </category>
-                <category>
-                    <catDesc>ChristianLiterature</catDesc>
-                </category>
-                <category>
-                    <catDesc>Chronography</catDesc>
-                </category>
-                <category>
-                    <catDesc>Crucifixion</catDesc>
-                </category>
-                <category>
-                    <catDesc>Fiction</catDesc>
-                </category>
-                <category>
-                    <catDesc>Hagiography</catDesc>
-                </category>
-                <category>
-                    <catDesc>HistoryAndHistoriography</catDesc>
-                </category>
+            <category>
+                <catDesc>ApocryphaPseudoepigrapha</catDesc>
+            </category>
+            <category>
+                <catDesc>AmharicLiterature</catDesc>
+            </category>
+
+            <!--mycore-->
+            <category>
+                <catDesc>Apocrypha</catDesc>
+            </category>
+            <category>
+                <catDesc>Pseudoepigrapha</catDesc>
+            </category>
+            <category>
+                <catDesc>Miracle</catDesc>
+            </category>
+            <category>
+                <catDesc>NewTestament</catDesc>
+            </category>
+            <category>
+                <catDesc>OldTestament</catDesc>
+            </category>
+            <category>
+                <catDesc>BetaEsraelLiterature</catDesc>
+            </category>
+            <category>
+                <catDesc>Bible</catDesc>
+            </category>
+            <category>
+                <catDesc>Biography</catDesc>
+            </category>
+            <category>
+                <catDesc>CanonLaw</catDesc>
+            </category>
+            <category>
+                <catDesc>Commentary</catDesc>
+            </category>
+            <category>
+                <catDesc>ChristianLiterature</catDesc>
+            </category>
+            <category>
+                <catDesc>Chronography</catDesc>
+            </category>
+            <category>
+                <catDesc>Crucifixion</catDesc>
+            </category>
+            <category>
+                <catDesc>Fiction</catDesc>
+            </category>
+            <category>
+                <catDesc>Hagiography</catDesc>
+            </category>
+            <category>
+                <catDesc>HistoryAndHistoriography</catDesc>
+            </category>
             <category>
                 <catDesc>Chronicles</catDesc>
             </category>
-                <category>
-                    <catDesc>Homily</catDesc>
-                </category>
-                <category>
-                    <catDesc>IslamicLiterature</catDesc>
-                </category>
-                <category>
-                    <catDesc>Koran</catDesc>
-                </category>
-                <category>
-                    <catDesc>LegalDocument</catDesc>
-                </category>
-                <category>
-                    <catDesc>Liturgy</catDesc>
-                </category>
-                <category>
-                    <catDesc>Chants</catDesc>
-                </category>
-                <category>
-                    <catDesc>Lectionary</catDesc>
-                </category>
-                <category>
-                    <catDesc>Missal</catDesc>
-                </category>
+            <category>
+                <catDesc>Homily</catDesc>
+            </category>
+            <category>
+                <catDesc>IslamicLiterature</catDesc>
+            </category>
+            <category>
+                <catDesc>Koran</catDesc>
+            </category>
+            <category>
+                <catDesc>LegalDocument</catDesc>
+            </category>
+            <category>
+                <catDesc>Liturgy</catDesc>
+            </category>
+            <category>
+                <catDesc>Chants</catDesc>
+            </category>
+            <category>
+                <catDesc>Lectionary</catDesc>
+            </category>
+            <category>
+                <catDesc>Missal</catDesc>
+            </category>
             <category>
                 <catDesc>Rituals</catDesc>
             </category>
-                <category>
-                    <catDesc>RitualsAndRites</catDesc>
-                </category>
-                <category>
-                    <catDesc>TigrinyaLiterature</catDesc>
-                </category>
-                <category>
-                    <catDesc>Translation</catDesc>
-                </category>
-                <category>
-                    <catDesc>Vocabulary</catDesc>
-                </category>
-                <category>
-                    <catDesc>Magic</catDesc>
-                </category>
-                <category>
-                    <catDesc>Medicine</catDesc>
-                </category>
-                <category>
-                    <catDesc>Miscellanea</catDesc>
-                </category>
-                <category>
-                    <catDesc>MonasticLiterature</catDesc>
-                </category>
-                <category>
-                    <catDesc>NaturalSciences</catDesc>
-                </category>
-                <category>
-                    <catDesc>Other</catDesc>
-                </category>
+            <category>
+                <catDesc>RitualsAndRites</catDesc>
+            </category>
+            <category>
+                <catDesc>TigrinyaLiterature</catDesc>
+            </category>
+            <category>
+                <catDesc>Translation</catDesc>
+            </category>
+            <category>
+                <catDesc>Vocabulary</catDesc>
+            </category>
+            <category>
+                <catDesc>Magic</catDesc>
+            </category>
+            <category>
+                <catDesc>Medicine</catDesc>
+            </category>
+            <category>
+                <catDesc>Miscellanea</catDesc>
+            </category>
+            <category>
+                <catDesc>MonasticLiterature</catDesc>
+            </category>
+            <category>
+                <catDesc>NaturalSciences</catDesc>
+            </category>
+            <category>
+                <catDesc>Other</catDesc>
+            </category>
             <category>
                 <catDesc>Philosophy</catDesc>
             </category>
-                <category>
-                    <catDesc>Poetry</catDesc>
-                </category>
-                <category>
-                    <catDesc>Prayers</catDesc>
-                </category>
-                <category>
-                    <catDesc>Religion</catDesc>
-                </category>
-                <category>
-                    <catDesc>Theology</catDesc>
-                </category>
+            <category>
+                <catDesc>Poetry</catDesc>
+            </category>
+            <category>
+                <catDesc>Prayers</catDesc>
+            </category>
+            <category>
+                <catDesc>Religion</catDesc>
+            </category>
+            <category>
+                <catDesc>Theology</catDesc>
+            </category>
             <category>
                 <catDesc>ChristianContent</catDesc>
             </category>
-            
+
         </category>
 
 
