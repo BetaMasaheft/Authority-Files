@@ -142,7 +142,7 @@
                 <catDesc>crissCross</catDesc>
               </category>
               <category>
-                <catDesc>doubleCircles</catDesc>
+                <catDesc>doubleCircle</catDesc>
               </category>
               <category>
                 <catDesc>singleCircle</catDesc>
@@ -187,13 +187,13 @@
             <category>
               <desc>threadMaterial</desc>
               <category>
-                <catDesc>gutSinew</catDesc>
+                <catDesc>animalThread</catDesc>
               </category>
               <category>
-                <catDesc>vegetal</catDesc>
+                <catDesc>vegetableThread</catDesc>
               </category>
               <category>
-                <catDesc>synthetic</catDesc>
+                <catDesc>syntheticThread</catDesc>
               </category>
               <category>
                 <catDesc>tannedSkin</catDesc>
