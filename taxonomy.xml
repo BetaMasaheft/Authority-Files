@@ -130,10 +130,10 @@
             <category>
               <desc>decorationTool</desc>
               <category>
-                <catDesc>threeHorizontalLines</catDesc>
+                <catDesc>tripleStraightLine</catDesc>
               </category>
               <category>
-                <catDesc>doubleStraightLines</catDesc>
+                <catDesc>doubleStraightLine</catDesc>
               </category>
               <category>
                 <catDesc>singleStraightLine</catDesc>
