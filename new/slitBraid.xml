@@ -1,5 +1,5 @@
-<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
-schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
+<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="slitBraid" xml:lang="en" type="auth">
     <teiHeader>
@@ -45,8 +45,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </revisionDesc>
     </teiHeader>
     <text>
-        <body>
-            <div type="bibliography"/>
-        </body>
+      <body>
+        <div type="bibliography">
+          <listBibl type="secondary">
+            <bibl><ptr target="bm:Szirmai1999Bookbinding"/><citedRange unit="page">79</citedRange></bibl>
+            <bibl><ptr target="bm:Nosnitsin2016Features"/><citedRange unit="page">85-86</citedRange></bibl>
+            <bibl><ptr target="bm:DiBellaSarris2014Field"/></bibl>
+          </listBibl>
+        </div>
+      </body>
     </text>
 </TEI>
