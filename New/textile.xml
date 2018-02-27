@@ -1,5 +1,5 @@
-<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
-schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
+<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="textile" xml:lang="en" type="auth">
     <teiHeader>
@@ -45,8 +45,15 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </revisionDesc>
     </teiHeader>
     <text>
-        <body>
-            <div type="bibliography"/>
-        </body>
+      <body>
+      <div type="bibliography">
+        <listBibl type="secondary">
+          <bibl><ptr target="bm:Szirmai1999Bookbinding"/><citedRange unit="page">48-48</citedRange></bibl>
+          <bibl><ptr target="bm:Pankhurst1981textiles"/></bibl>
+          <bibl><ptr target="bm:Pankhurst1980textiles"/></bibl>
+          <bibl><ptr target="bm:Sergew1981Bookmaking"/><citedRange unit="page">25</citedRange></bibl>
+        </listBibl>
+      </div>
+      </body>
     </text>
 </TEI>
