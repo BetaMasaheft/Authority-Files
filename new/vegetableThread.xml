@@ -46,7 +46,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+          <listBibl type="secondary">
+            <bibl><ptr target="bm:Sergew1981Bookmaking"/><citedRange unit="page">24</citedRange></bibl>
+            <bibl><ptr target="bm:Godet1980parchemin"/><citedRange unit="page">206</citedRange></bibl>
+            <bibl><ptr target="bm:Szirmai1999Bookbinding"/><citedRange unit="page">48</citedRange></bibl>
+            <bibl><ptr target="bm:Bausi2015COMSt"/><citedRange unit="page">173</citedRange></bibl>
+          </listBibl>
         </body>
     </text>
 </TEI>
