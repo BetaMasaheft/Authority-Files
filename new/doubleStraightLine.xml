@@ -46,7 +46,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+          <div type="bibliography">
+            <listBibl type="secondary">
+              <bibl><ptr target="bm:Tomaszewski2015Dust"/><citedRange unit="page">124 - 125</citedRange></bibl>
+            </listBibl>
+          </div>
         </body>
     </text>
 </TEI>

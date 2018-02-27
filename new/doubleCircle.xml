@@ -46,7 +46,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+          <div type="bibliography">
+            <listBibl type="secondary">
+              <bibl><ptr target="bm:Tomaszewski2015Dust"/><citedRange unit="page">124 - 125</citedRange></bibl>
+              <bibl><ptr target="bm:Sergew1981Bookmaking"/><citedRange unit="page">25</citedRange></bibl>
+              <bibl><ptr target="bm:Pankhurst1983bindings"/><citedRange unit="page">251</citedRange></bibl>
+            </listBibl>
+          </div>
         </body>
     </text>
 </TEI>
