@@ -30,7 +30,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+              <p>It indicates that the <ref corresp="guard" type="authFile"/> is held on the <ref corresp="spinefold" type="authFile"/>
+               of the quire by threads led through slits, through one or more leaves on each side of the quire.
+              </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
