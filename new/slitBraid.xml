@@ -30,7 +30,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+              <p>Endband formed by two straps of leather laced through each other through pre-punched holes,
+                creating a strap with a marked chevron-pattern.
+              </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
