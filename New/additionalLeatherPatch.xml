@@ -30,7 +30,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+              <p>Stripe of leather, separated from the cover, pasted in the area between the turn-ins, along the boards’ inner edge.
+              </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>

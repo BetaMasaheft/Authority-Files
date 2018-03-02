@@ -30,7 +30,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+              <p>Mirror housed in a cavity carved in the center of the inside board.
+              </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
