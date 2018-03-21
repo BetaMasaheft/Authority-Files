@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
+<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
 schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
+<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AT1040Ancient"
+    xml:id="AT1055PresentationMary"
      xml:lang="en"
      type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ancient of Days / Maiestas Dei</title>
+                <title>Presentation of Mary at the Temple</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="ES"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -35,8 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A miniature showhing God the Father as the Ancient of Days, usually accompanied by the For Beasts. 
-                </p>
+                <p/>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -47,15 +46,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="ES" when="2018-03-13">Created entity</change>
+            <change who="ES" when="2018-03-21">Created entity</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography">
-              
-              
-            </div>
+            <div type="bibliography"/>
         </body>
     </text>
 </TEI>
