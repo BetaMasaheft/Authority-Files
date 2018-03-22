@@ -10,7 +10,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Lamentation (of Jesus)</title>
+                <title>Lamentation of Jesus</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="ES"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -35,8 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>the 
-                     mourning over the Body of Jesus Christ</p>
+                <p>A miniature showing the mourning over the Body of <persName ref="PRS5684JesusCh"/>.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
