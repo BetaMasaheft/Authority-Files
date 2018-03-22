@@ -4,13 +4,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xml:id="AT1043SaintPortrait"
+    xml:id="AT1041HolyMen"
      xml:lang="en"
      type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ethiopian Saint (Portrait)</title>
+                <title>Holy Men Potrait</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="ES"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -35,7 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>depiction of a single saint</p>
+                <p>A miniature featuring two or more Holy Men.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
