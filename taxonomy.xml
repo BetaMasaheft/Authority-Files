@@ -560,6 +560,9 @@
                 <catDesc>bird</catDesc>
             </category>
             <category>
+                <catDesc>canopy</catDesc>
+            </category>
+            <category>
                 <catDesc>censer</catDesc>
             </category>
             <category>
@@ -572,6 +575,9 @@
                 <catDesc>cross</catDesc>
             </category>
             <category>
+                <catDesc>crown</catDesc>
+            </category>
+            <category>
                 <catDesc>curtain</catDesc>
             </category>
             <category>
@@ -581,7 +587,16 @@
                 <catDesc>eucharist</catDesc>
             </category>
             <category>
+                <catDesc>globe</catDesc>
+            </category>
+            <category>
                 <catDesc>maniple</catDesc>
+            </category>
+            <category>
+                <catDesc>rod</catDesc>
+            </category>
+            <category>
+                <catDesc>scale</catDesc>
             </category>
             <category>
                 <catDesc>scroll</catDesc>
