@@ -609,6 +609,12 @@
                 <catDesc>AT1002Announciation</catDesc>
             </category>
             <category>
+                <catDesc>AT1046Apostle</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1047Apostles</catDesc>
+            </category>
+            <category>
                 <catDesc>AT1003Arrest</catDesc>
             </category>
             <category>
@@ -657,13 +663,22 @@
                 <catDesc>AT1016Flight</catDesc>
             </category>
             <category>
+                <catDesc>AT1042HagiographicScene</catDesc>
+            </category>
+            <category>
                 <catDesc>AT1035HolyMan</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1041HolyMen</catDesc>
             </category>
             <category>
                 <catDesc>AT1017WomenAtTomb</catDesc>
             </category>
             <category>
                 <catDesc>AT1018JBefPilate</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1048Lamentation</catDesc>
             </category>
             <category>
                 <catDesc>AT1019Cana</catDesc>
@@ -693,7 +708,16 @@
                 <catDesc>AT1026NativityMary</catDesc>
             </category>
             <category>
+                <catDesc>AT1043PresentationMary</catDesc>
+            </category>
+            <category>
                 <catDesc>AT1027PresentationJesus</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1044Prophet</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1045Prophets</catDesc>
             </category>
             <category>
                 <catDesc>AT1028HebrewsFurnace</catDesc>
