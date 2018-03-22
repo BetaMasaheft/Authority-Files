@@ -72,6 +72,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <ptr target="bm:Gnisci2015Entombment"/>
                   <citedRange unit="page">480</citedRange>
                </bibl>
+                <bibl>
+                      <ptr target="bm:Hourihane2009mocking"/>
+                      <citedRange unit="page">84-143</citedRange>
+                </bibl>
               </listBibl>
             </div>
         </body>

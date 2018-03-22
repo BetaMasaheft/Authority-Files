@@ -35,7 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A miniature showing the flagellation of <persName ref="PRS5684JesusCh">Jesus</persName>.</p>
+                <p>A miniature showing the flagellation of <persName ref="PRS5684JesusCh"/>.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -51,7 +51,17 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:1947CerulliMocking"/>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:Hourihane2009mocking"/>
+                        <citedRange unit="page">84-143</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
         </body>
     </text>
 </TEI>
