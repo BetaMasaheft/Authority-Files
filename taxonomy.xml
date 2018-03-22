@@ -609,6 +609,9 @@
                 <catDesc>AT1002Announciation</catDesc>
             </category>
             <category>
+                <catDesc>AT1054AnnunciationZaccharia</catDesc>
+            </category>
+            <category>
                 <catDesc>AT1046Apostle</catDesc>
             </category>
             <category>
@@ -666,6 +669,15 @@
                 <catDesc>AT1042HagiographicScene</catDesc>
             </category>
             <category>
+                <catDesc>AT1051HistoricalPerson</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1052HistoricalPersons</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1053HistoricalScene</catDesc>
+            </category>
+            <category>
                 <catDesc>AT1035HolyMan</catDesc>
             </category>
             <category>
@@ -708,6 +720,9 @@
                 <catDesc>AT1026NativityMary</catDesc>
             </category>
             <category>
+                <catDesc>AT1050ApparitionResur</catDesc>
+            </category>
+            <category>
                 <catDesc>AT1043PresentationMary</catDesc>
             </category>
             <category>
@@ -718,6 +733,9 @@
             </category>
             <category>
                 <catDesc>AT1045Prophets</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1049Resurrection</catDesc>
             </category>
             <category>
                 <catDesc>AT1028HebrewsFurnace</catDesc>
