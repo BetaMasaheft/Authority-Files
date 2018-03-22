@@ -35,7 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>depiction of a single Apostle</p>
+                <p>A depiction of a single Apostle.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>

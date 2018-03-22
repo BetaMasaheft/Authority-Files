@@ -10,7 +10,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Resurrection</title>
+                <title>Resurrection of Jesus</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="ES"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -35,7 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>Resurrection of Jesus Christ</p>
+                <p>Resurrection of <persName ref="PRS5684JesusCh"/>, typically shown in the act of rising from his tomb.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
