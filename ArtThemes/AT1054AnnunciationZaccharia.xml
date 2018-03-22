@@ -10,7 +10,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Annunciation to Zacharias</title>
+                <title>Annunciation to Zacharias <persName ref="PRS10509Zachary"/>.</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="ES"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -47,6 +47,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="ES" when="2018-03-21">Created entity</change>
+            <change who="JG" when="2018-03-22">Edited entity</change>
         </revisionDesc>
     </teiHeader>
     <text>
