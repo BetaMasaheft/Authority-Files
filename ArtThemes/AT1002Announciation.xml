@@ -42,7 +42,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                  
                  The main typologies attested in the Ethiopian tradition are:
                     <list>
-                         <item>Type 1 <desc>Mary is portrayed in the act of  <term key="spinning"/>. </desc> </item>
+                         <item>Type 1 <desc>Mary is portrayed in the act of  spinning. </desc> </item>
                          <item>Type 2 <desc>Mary is portrayed in the act of  praying. </desc> </item>
                          <item>Type 3 <desc>Mary is portrayed in the act of reading. </desc> </item>
                       </list>            

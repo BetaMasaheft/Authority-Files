@@ -47,13 +47,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     
                     The three main typologies attested in the Ethiopian tradition are:
                     <list>
-                        <item>Type 1 <desc>There is an <term key="emptycross">Empty Cross</term>
-                            and there are figures associated with it 
+                        <item>Type 1 <desc>There is an Empty Cross and there are figures associated with it 
                             (i.e. it is not just an interlaced cross).</desc>
                   </item>
-                        <item>Type 2 <desc>The body of  <term key="livingjesus">Living Jesus</term> is nailed to the cross.</desc>
+                        <item>Type 2 <desc>The body of  Living Jesus is nailed to the cross.</desc>
                   </item>
-                        <item>Type 3 <desc>The body of the  <term key="deadjesus">Dead Jesus</term> is nailed to the cross.</desc>
+                        <item>Type 3 <desc>The body of the Dead Jesus is nailed to the cross.</desc>
                   </item>
                     </list>
                 </p>
