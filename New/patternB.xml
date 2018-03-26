@@ -30,7 +30,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+              <p>Link-stitch sewing on three sewing stations. Two threads are used.
+              </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
