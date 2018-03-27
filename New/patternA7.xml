@@ -33,9 +33,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>Link-stitch sewing on four sewing stations, i.e. on two pairs of sewing stations. <ref corresp="patternA3" type="authFile"/> is a variant.
                 Two threads are used. The sewing starts from the first quire.
                 In each pair of sewing station the two ends of the thread exit from the centrefold of the first quire and enter in the upper board, make a loop
-                and return in the first quire, where they pass each other. Before continuing the sewing, the free ends of the threads enter again in the upper board.
-                Thus, to each hole in the board correspond four lenghts of thread. Inside the centrefold of the first quire, for each pair of sewing station,
-                three long stitches and no knots are visible. Inside the centrefold of the last quire, for each pair of sewing station, there are three long stitches, one of them with a knot.
+                and return in the first quire, where they pass each other. Before continuing the sewing, the ends of the threads enter again in the upper board.
+                Inside the centrefold of the first quire, for each pair of sewing station, three long stitches and no knots are visible.
+                Inside the centrefold of the last quire, for each pair of sewing station, there are three long stitches, one of them with a knot.
               </p>
             </abstract>
             <langUsage>

@@ -30,7 +30,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+              <p>Link-stitch sewing on four sewing stations, i.e. on two pairs of sewing stations. This structure is used for codex with leather cover and endbands.
+                Four threads are used.
+                In each pair of sewing station one thread correspond to the thread used to sew the endband, the other one connects the two pairs of sewing stations.
+                Inside the centrefold of the first quire, for each pair of sewing station, two long stitches and no knots are visible. In the space between
+                the two pair of sewing station there is a long stitch with a knot.
+              </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>

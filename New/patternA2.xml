@@ -30,7 +30,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+              <p>Link-stitch sewing on four sewing stations, i.e. on two pairs of sewing stations.
+                Two threads are used. The sewing starts from the upper board.
+                The tread is laced through the holes of one sewing station and it enters in the first quire. One end returns in the board in order to lace
+                another sewing station. The two ends pass each other and continue the sewing.
+                Inside the centrefold of the first quire, for each pair of sewing station, three long stitches and no knots are visible.
+                Inside the centrefold of the last quire, for each pair of sewing station, there are three long stitches, one of them with a knot.
+              </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
