@@ -20,7 +20,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p/>
+                <p>Stripes of tanned skin are used as thread.
+                </p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>

@@ -29,7 +29,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>The thread is of animal origin (i.e. sinews or gut).
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>

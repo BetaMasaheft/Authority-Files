@@ -20,7 +20,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p/>
+                <p>The thread is of synthetic origin.
+                </p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
