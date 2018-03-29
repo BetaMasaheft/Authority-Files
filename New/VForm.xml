@@ -29,7 +29,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>Tooled design used by bookbinders for the decoration of the leather cover.
+                  Single dotted line or two lines with a dotted line down the centre, in a V-shape.
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>

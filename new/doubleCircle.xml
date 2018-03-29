@@ -29,7 +29,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>Tooled designed used by bookbinders to decorate leather covers. Two concentric circles, also known as "Dove's eye".
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
