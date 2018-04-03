@@ -20,9 +20,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p>Tooled design used by bookbinders for the decoration of the leather cover.
-                  Single tool with a grid pattern and dots. 
-                </p>
+                <p/>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -31,7 +29,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+              <p>Tooled design used by bookbinders for the decoration of the leather cover.
+              A network of lines that cross each other to form a series of rhombuses. Dots may be included.
+              </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>

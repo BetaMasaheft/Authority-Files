@@ -20,9 +20,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p>Tooled design used by the bookbinder to decorate a lether cover.
-                  Single S-shaped elements.
-                </p>
+                <p/>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -31,7 +29,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+              <p>Tooled design used by the bookbinder to decorate a lether cover.
+              Single S-shaped element.
+              </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
