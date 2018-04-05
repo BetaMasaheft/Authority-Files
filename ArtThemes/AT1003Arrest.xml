@@ -57,6 +57,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="JG" when="2017-11-07">Created entity</change>
+            <change who="JG" when="2018-05-04">Added bibliography</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -71,6 +72,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <ptr target="bm:Gnisci2015Entombment"/>
                   <citedRange unit="page">480</citedRange>
                </bibl>
+                  <bibl>
+                      <ptr target="bm:lepage2011testte"/>
+                      <citedRange unit="pages">130-132</citedRange>
+                  </bibl>
+                  <bibl>
+                      <ptr target="bm:2017GnisciMagiGospels"/>
+                      <citedRange unit="page">158-159</citedRange>
+                  </bibl>   
                 <bibl>
                       <ptr target="bm:Hourihane2009mocking"/>
                       <citedRange unit="page">84-143</citedRange>
