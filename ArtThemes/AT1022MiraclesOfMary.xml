@@ -47,14 +47,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <revisionDesc>
             <change who="JG" when="2017-11-07">Created entity</change>
             <change when="2018-03-21" who="ES">added Temple  miracle</change>
+            <change when="2018-04-05" who="ES">removed Temple  miracle</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <div type="bibliography"/>
-            <div type="edition">
-                <div type="textpart" xml:id="Temple"><label>the Angel  bringing food to Mary in the Temple</label></div>
-            </div>
+            
         </body>
     </text>
 </TEI>
