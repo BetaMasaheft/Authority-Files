@@ -10,7 +10,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Annunciation to Zacharias <persName ref="PRS10509Zachary"/>.</title>
+                <title>Annunciation to Zacharias</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="ES"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>Depiction of the Annunciation of the birth of Mary</p>
+                <p>Depiction of the Annunciation of the birth of Mary to <persName ref="PRS10509Zachary"/></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
