@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A miniature depicting the presentration of <persName ref="PRS6819Mary"/> to the Temple.</p>
+                <p>A miniature depicting the presentation of <persName ref="PRS6819Mary"/> to the Temple.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>

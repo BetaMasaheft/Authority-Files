@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>Depiction of Christ as Man of Sorrows, crowned with thorns. Kwǝrʿata Rǝʿǝsu.</p>
+                <p>Depiction of Christ as Man of Sorrows, crowned with thorns. <foreign xml:lang="gez">Kʷǝrʿata rǝʾsu</foreign>.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
