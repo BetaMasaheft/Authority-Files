@@ -52,11 +52,26 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="JG" when="2017-11-07">Created entity</change>
+            <change who="JG" when="2018-04-05">Added biblography</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:Staude1959DebreSina"/>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:lepage2011testte"/>
+                        <citedRange unit="pages">146, 149-151</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:2017GnisciMagiGospels"/>
+                        <citedRange unit="pages">148-152</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
         </body>
     </text>
 </TEI>
