@@ -34,11 +34,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A Miniature showhing the triumphal entry of
+                <p>A Miniature showing the triumphal entry of
                   <persName ref="PRS5684JesusCh">Jesus</persName> into the
                   city of Jerusalem typically featuring
                   <persName ref="PRS11430Apostles">Apostles</persName>
-                    and a welcomning crowd.
+                    and a welcoming crowd.
                 </p>
             </abstract>
             <langUsage>
