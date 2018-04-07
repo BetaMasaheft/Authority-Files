@@ -34,7 +34,19 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>  A Miniature showing  the 
+                    <persName ref="PRS11288AnAzMi"> three Hebrew youths </persName>
+                   thrown into a fiery furnace. The miniature generally includes the angel,
+                    <persName ref="PRS4377Gabriel"/>, who protects them from the flames.
+                    The miniature may also feature <persName ref="PRS11373Nebuc">Nebuchadnezzar</persName> and his guards.
+                    From the seventeenth-century the episode may be divided into several scenes.
+                    
+                    The main typologies attested in the Ethiopian tradition are:
+                    <list>
+                        <item>Type 1 <desc>The Angel stands behind the youths</desc> </item>
+                        <item>Type 2 <desc>The Angel stands to the side of the youths</desc> </item>
+                    </list>
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -46,6 +58,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="JG" when="2017-11-07">Created entity</change>
+            <change who="JG" when="2018-04-07">Added bibliography</change>
         </revisionDesc>
     </teiHeader>
     <text>
