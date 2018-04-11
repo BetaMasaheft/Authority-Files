@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A miniature showing the flagellation of <persName ref="PRS5684JesusCh"/>.</p>
+                <p>A miniature showing the flagellation of <persName ref="PRS5684JesusCh"/> typically featuring two or more torturers.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
