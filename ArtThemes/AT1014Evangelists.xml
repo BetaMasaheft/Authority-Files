@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>A Miniature showing two or more of the Evangelists on a single page.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -49,8 +49,17 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </revisionDesc>
     </teiHeader>
     <text>
-        <body>
-            <div type="bibliography"/>
+                <body>
+                    <div type="bibliography">
+                        <listBibl type="secondary">
+                            <bibl>
+                                <ptr target="bm:Friend1927Evangelists"/>
+                            </bibl>
+                            <bibl>
+                                <ptr target="bm:Heldman2005Evangelists"/>
+                            </bibl>
+                        </listBibl>
+            </div>
         </body>
     </text>
 </TEI>
