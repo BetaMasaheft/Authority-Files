@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>A miniature of Moses receiving the Law, often from the Hand of God.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -46,11 +46,22 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="JG" when="2017-11-07">Created entity</change>
+            <change who="JG" when="2018-04-13">added bibliography</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:1983BalickaBelenSagad"/>
+                        <citedRange unit="pages">22-23</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:1994FiaccadoriOttateuco"/>
+                    </bibl>
+                </listBibl>
+            </div>
         </body>
     </text>
 </TEI>
