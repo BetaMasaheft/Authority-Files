@@ -73,6 +73,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="JG" when="2017-11-21">Created entity</change>
+            <change who="JG" when="2018-04-16">Updated Content</change>
         </revisionDesc>
     </teiHeader>
     <text>
