@@ -34,13 +34,16 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p> A miniature inspired by apocryphal sources, such as the <emph>Gospel
-                  of Pseudo-Matthew</emph> and the <emph>Protoevangelium of James</emph>,
-                  showing the episode from the life of the <persName ref="PRS6819Mary">Virgin Mary</persName>
-                  in which she must submit to the ordeal of the bitter water,
+                <p> A miniature inspired by apocryphal sources, such as the <emph>Gospel of Pseudo-Matthew</emph> and the <emph>Protoevangelium of James</emph>,
+                  showing the episode from the life of the <persName ref="PRS6819Mary">Virgin Mary</persName>  in which she must submit to the ordeal of the bitter water,
                   typically with <persName ref="PRS5764Joseph">Joseph</persName>, to prove she is innocent of adultery.
                 </p>
             </abstract>
+            <textClass>
+                <keywords scheme="#ethioauthlist">
+                    <term key="Apocrypha"/>
+                </keywords>
+            </textClass>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="ar">Arabic</language>
@@ -66,6 +69,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <citedRange unit="pages">117-120</citedRange>
                 </bibl>
             </listBibl>
+              <listRelation>
+                  <relation name="saws:contains"  active="AT1004Bitter" passive="PRS6819Mary PRS5764Joseph">
+                      <desc/>
+                  </relation>
+              </listRelation>
           </div>
         </body>
     </text>

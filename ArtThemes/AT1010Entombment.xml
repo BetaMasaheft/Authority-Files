@@ -70,6 +70,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <ptr target="bm:Gnisci2015Entombment"/>
                </bibl>
             </listBibl>
+              <listRelation>
+                  <relation name="saws:contains" active="AT1010Entombment" passive="PRS5684JesusCh">
+                      <desc/>
+                  </relation>
+              </listRelation>
           </div>
         </body>
     </text>

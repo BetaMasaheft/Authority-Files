@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p> A miniature showing the moment in which Jesus is taken down from the Cross,
+                <p> A miniature showing the moment in which <persName ref="PRS5684JesusCh"/> is taken down from the Cross,
                   typically featuring Joseph and Nicodemus bearing His body
                   (<ref cRef="urn:cts:greekLit:tlg0031.tlg001.perseus-grc1:27.59">Matthew 27, 59</ref>;
                   <ref cRef="urn:cts:greekLit:tlg0031.tlg002.perseus-grc1:15.46"> Mark 15, 46</ref>;
@@ -47,6 +47,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:23.55">Luke 23, 55</ref>).
                 </p>
             </abstract>
+            <textClass>
+                <keywords scheme="#ethioauthlist">
+                    <term key="Bible"/>
+                    <term key="NewTestament"/>
+                </keywords>
+            </textClass>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="ar">Arabic</language>
@@ -67,6 +73,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <ptr target="bm:Witakowska1989Deposition"/>
                </bibl>
             </listBibl>
+              <listRelation>
+                  <relation name="saws:contains"  active="AT1007Deposition" passive="PRS5684JesusCh">
+                      <desc/>
+                  </relation>
+              </listRelation>
           </div>
         </body>
     </text>

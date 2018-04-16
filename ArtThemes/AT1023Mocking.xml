@@ -34,8 +34,15 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>A miniature showing <persName ref="PRS5684JesusCh"/> during or after his mocking. The scene often draws from Western
+                images of the Ecce Homo, and may include two or more guards who insert spikes into his head or scourge him.</p>
             </abstract>
+            <textClass>
+                <keywords scheme="#ethioauthlist">
+                    <term key="Bible"/>
+                    <term key="NewTestament"/>
+                </keywords>
+            </textClass>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="ar">Arabic</language>
@@ -50,7 +57,21 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:1985ChojnackiKwerete"/>
+                    </bibl>
+                </listBibl>
+                
+                <listRelation>
+                    <relation name="saws:contains"
+                        active="AT1023Mocking"
+                        passive="PRS5684JesusCh">
+                        <desc/>
+                    </relation>
+                </listRelation>
+            </div>
         </body>
     </text>
 </TEI>

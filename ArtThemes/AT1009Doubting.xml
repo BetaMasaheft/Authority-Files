@@ -62,6 +62,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">559</citedRange>
                </bibl>
               </listBibl>
+                <listRelation>
+                    <relation name="saws:contains" active="AT1009Doubting" passive="PRS5684JesusCh PRS9496Thomas">
+                        <desc/>
+                    </relation>
+                </listRelation>
             </div>
         </body>
     </text>

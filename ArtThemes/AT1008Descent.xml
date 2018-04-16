@@ -66,6 +66,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <ptr target="bm:Chojnacki2009Anastasis"/>
                </bibl>
             </listBibl>
+              <listRelation>
+                  <relation name="saws:contains" active="AT1008Descent" passive="PRS5684JesusCh PRS1385Adam PRS3926Eve">
+                      <desc/>
+                  </relation>
+              </listRelation>
           </div>
         </body>
     </text>

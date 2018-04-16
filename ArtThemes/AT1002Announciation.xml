@@ -32,12 +32,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p> A miniature showing an <term key="angel">Angel</term>, typically <persName ref="PRS4377Gabriel"/>, 
-                    in the act of informing the Virgin <persName ref="PRS6819Mary"/> that she will become the mother of <term>Jesus</term>
-                        (<ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:1.28">Lk
-                    1:28</ref>), with additional details informed by apocryphal sources such as the
-                    Protoevangelium of James (11-12). The main typologies attested in the Ethiopian
-                    tradition are: <list>
+                <p> A miniature showing an <term key="angel">Angel</term>, typically <persName ref="PRS4377Gabriel"/>,  in the act of informing the Virgin <persName ref="PRS6819Mary"/> 
+                    that she will become the mother of <term>Jesus</term>(<ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:1.28">Lk    1:28</ref>), with additional details informed 
+                    by apocryphal sources such as the Protoevangelium of James (11-12). The main typologies attested in the Ethiopian tradition are: <list>
                         <item>Type 1 <desc>Mary is portrayed in the act of spinning. </desc>
                         </item>
                         <item>Type 2 <desc>Mary is portrayed in the act of praying. </desc>
@@ -47,6 +44,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </list>
                 </p>
             </abstract>
+            <textClass>
+                <keywords scheme="#ethioauthlist">
+                    <term key="Bible"/>
+                    <term key="NewTestament"/>
+                    <term key="Apocrypha"/>
+                </keywords>
+            </textClass>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="ar">Arabic</language>
@@ -57,6 +61,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="JG" when="2017-11-09">Updated Content</change>
+            <change who="JG" when="2018-04-16">Updated Content</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -71,6 +76,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <citedRange unit="pages">79-87</citedRange>
                     </bibl>
                 </listBibl>
+                <listRelation>
+                    <relation name="saws:contains"  active="AT1002Announciation" passive="PRS6819Mary PRS4377Gabriel">
+                        <desc/>
+                    </relation>
+                </listRelation>
             </div>
         </body>
     </text>

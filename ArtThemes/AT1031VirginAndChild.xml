@@ -57,6 +57,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </list>
                 </p>
             </abstract>
+            <textClass>
+                <keywords scheme="#ethioauthlist">
+                    <term key="Bible"/>
+                    <term key="NewTestament"/>
+                </keywords>
+            </textClass>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="ar">Arabic</language>
@@ -88,9 +94,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </bibl>
                 </listBibl>
                 <listRelation>
-               <relation name="saws:contains"
-                         active="AT1031VirginAndChild"
-                         passive="PRS6819Mary PRS5684JesusCh">
+               <relation name="saws:contains"  active="AT1031VirginAndChild" passive="PRS6819Mary PRS5684JesusCh">
                         <desc/>
                     </relation>
             </listRelation>
