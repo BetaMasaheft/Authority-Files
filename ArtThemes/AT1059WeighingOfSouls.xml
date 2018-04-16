@@ -4,13 +4,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xml:id="AT1058DormitionMary"
+    xml:id="AT1059WeighingOfSouls"
      xml:lang="en"
      type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Dormition of Mary</title>
+                <title>Mary T</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -34,8 +34,20 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A representation of the Dormition of the Mother of God generally represented like the byzantine koimesis.</p>
+                <p>This episode from the Last Judgement sometimes appears as a separate subject. Miniatures of the Weighing of souls, or psychostasis, show an angel, 
+                    typically <persName ref="PRS7049Michael"/>, holding a scale with the souls of the dead. The scene sometimes also draws from the <title ref="LIT2384Taamme"/>
+                    Miracles of Mary and features  <persName ref="PRS6819Mary"/>  interceding for the soul of a deceased.
+                   </p>
             </abstract>
+            <textClass>
+                <keywords scheme="#ethioauthlist">
+                    <term key="Bible"/>
+                    <term key="NewTestament"/>
+                    <term key="ChristianLiterature"/> 
+                    <term key="Miracle"/> 
+                    <term key="ApocryphaPseudoepigrapha"/>
+                </keywords>
+            </textClass>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="ar">Arabic</language>
