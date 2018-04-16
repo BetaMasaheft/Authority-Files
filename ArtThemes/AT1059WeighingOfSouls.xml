@@ -35,7 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>This episode from the Last Judgement sometimes appears as a separate subject. Miniatures of the Weighing of souls, or psychostasis, show an angel, 
-                    typically <persName ref="PRS7049Michael"/>, holding a scale with the souls of the dead. The scene sometimes also draws from the <title ref="LIT2384Taamme"/>
+                    typically <persName ref="PRS7049Michael"/>, holding a scale with the souls of the dead. The scene sometimes also draws from the <ref type="work" corresp="LIT2384Taamme"/>
                     Miracles of Mary and features  <persName ref="PRS6819Mary"/>  interceding for the soul of a deceased.
                    </p>
             </abstract>
