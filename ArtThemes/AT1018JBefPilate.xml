@@ -58,6 +58,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <ptr target="bm:Loerke1961Trial"/> 
                     </bibl>
                 </listBibl>
+                <listRelation>
+                    <relation name="saws:contains" active="AT1018JBefPilate" passive="PRS5684JesusCh PRS7928Pontius">
+                        <desc/>
+                    </relation>
+                </listRelation>
             </div>
         </body>
     </text>
