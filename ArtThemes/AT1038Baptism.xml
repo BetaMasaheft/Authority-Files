@@ -13,6 +13,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>Baptism of Jesus</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="DR"/>
+                <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -34,7 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>A miniature showing the Baptism of <persName ref="PRS5684JesusCh">Jesus</persName> by <persName ref="PRS5741Johnthe"/>.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -46,11 +47,23 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2017-12-20">Created entity</change>
+            <change who="JG" when="2018-04-16">Updated content</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:1976ChojnackiBaptism"/>
+                    </bibl>
+                </listBibl>
+                <listRelation>
+                    <relation name="saws:contains" active="AT1038Baptism" passive="PRS5684JesusCh PRS5741Johnthe">
+                        <desc/>
+                    </relation>
+                </listRelation>
+            </div>
         </body>
     </text>
 </TEI>
