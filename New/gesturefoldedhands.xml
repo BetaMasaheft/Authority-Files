@@ -4,13 +4,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xml:id="AT1058DormitionMary"
+    xml:id="gesturefoldedhands"
      xml:lang="en"
      type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Dormition of Mary</title>
+                <title>gesture of folded hands</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A representation of the Dormition of the Mother of God generally represented like the byzantine koimesis.</p>
+                <p>A  gesture of prayer.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -50,13 +50,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"> 
-                <listRelation>
-                    <relation name="saws:contains" active="AT1058DormitionMary" passive="PRS6819Mary">
-                        <desc/>
-                    </relation>
-                </listRelation>
-            </div>
+            <div type="bibliography"/>
         </body>
     </text>
 </TEI>
