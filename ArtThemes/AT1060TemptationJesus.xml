@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="AT1060TemptationJesus"
+     xml:lang="en"
+     type="auth">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Temptation of Jesus</title>
+                <editor role="generalEditor" key="AB"/>
+                <editor key="JG"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob Ludolf Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                                licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>A digital born TEI file</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <abstract>
+                <p>The temptation of Christ is detailed in the Gospels of Matthew, Mark and Luke. According to these texts, after being baptized by John the Baptist, 
+                    Jesus fasted for 40 days and nights in the Judaean Desert. During this time, Satan appeared to Jesus and tried to tempt him. In Ethiopian manuscripts, this subject
+                    starts to appear in Gondarine art at the turn of eighteenth century.
+                   </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="#ethioauthlist">
+                    <term key="Bible"/>
+                    <term key="NewTestament"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="ar">Arabic</language>
+                <language ident="it">Italian</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change who="JG" when="2018-04-16">Created entity</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="bibliography"> 
+                <listRelation>
+                    <relation name="saws:contains" active="AT1060TemptationJesus" passive="PRS5684JesusCh">
+                        <desc/>
+                    </relation>
+                </listRelation>
+            </div>
+        </body>
+    </text>
+</TEI>
