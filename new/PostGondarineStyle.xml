@@ -10,7 +10,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Post-Gondarine Style</title>
+                <title>Zamana Masāfǝnt Style</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
