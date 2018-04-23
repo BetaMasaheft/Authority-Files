@@ -35,7 +35,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A miniature showing the Baptism of <persName ref="PRS5684JesusCh">Jesus</persName> by <persName ref="PRS5741Johnthe"/>.</p>
+                <p>A miniature showing the Baptism of <persName ref="PRS5684JesusCh">Jesus</persName> by <persName ref="PRS5741Johnthe"/> in the river Jordan. 
+                    The <term key="HolySpirit"/> generally descends from above. Additional figures, including angels, may be included in the scene.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>

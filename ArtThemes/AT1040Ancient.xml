@@ -10,9 +10,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ancient of Days / Maiestas Dei</title>
+                <title>Maiestas Dei</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="ES"/>
+                <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -34,9 +35,17 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A miniature showhing God the Father as the Ancient of Days, usually accompanied by the For Beasts. 
+                <p>A miniature showhing Jesus in majesty, typically enthroned and placed in a mandorla, surrounded by the Four Beasts. The image symbolizes the Second Coming 
+                    and is inspired by Old and New Testament passages (e.g. Isaiah 6:1-3; Ezekiel 1:5-10; Revelation 4:6-9). A variant, known as Ancient of Days and influenced by passages such as Daniel 7:9, 
+                    shows Christ represented as God the Father.
                 </p>
             </abstract>
+            <textClass>
+                <keywords scheme="#ethioauthlist">
+                    <term key="Bible"/>
+                    <term key="NewTestament"/>
+                </keywords>
+            </textClass>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="ar">Arabic</language>
@@ -47,13 +56,22 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="ES" when="2018-03-13">Created entity</change>
+            <change when="2018-04-23" who="JG">Changed title, edited abstract, added bibliography, relation, and textclass</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <div type="bibliography">
-              
-              
+              <listBibl type="secondary">
+                  <bibl >
+                      <ptr target="bm:1959RicciMaiestas"></ptr>
+                  </bibl>
+              </listBibl>
+                <listRelation>
+                    <relation name="saws:contains" active="AT1040Ancient" passive="PRS5684JesusCh PRS5741">
+                        <desc/>
+                    </relation>
+                </listRelation>
             </div>
         </body>
     </text>
