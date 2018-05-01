@@ -35,7 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>A miniature showing <persName ref="PRS5684JesusCh"/> during or after his mocking. The scene often draws from Western
-                images of the Ecce Homo, and may include two or more guards who insert spikes into his head or scourge him.</p>
+                    images of the Ecce Homo. It may include two or more guards and may draw some elements from other episodes such as the  Crowning with thorns.</p>
             </abstract>
             <textClass>
                 <keywords scheme="#ethioauthlist">
@@ -53,6 +53,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="JG" when="2017-11-07">Created entity</change>
+            <change who="JG" when="2018-05-01">Edited abstract</change>
         </revisionDesc>
     </teiHeader>
     <text>

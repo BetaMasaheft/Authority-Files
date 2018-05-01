@@ -13,6 +13,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>The Three Magi</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="ES"/>
+                <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -34,7 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A Miniature showhing the three Magi.
+                <p>A Miniature showhing the three Magi in the act of worshipping Jesus. The scene generally includes also the Virgin Mary and may feature an angel and a star.
                 </p>
             </abstract>
             <langUsage>
@@ -47,12 +48,24 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="ES" when="2018-03-13">Created entity</change>
+            <change who="JG" when="2018-03-13">Edited abstract and added bibliography</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <div type="bibliography">
-              
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:bm:2007ScholzMagi"/>
+                    </bibl>
+                </listBibl>
+                
+                <listRelation>
+                    <relation name="saws:contains" active="AT1039Magi" passive="PRS5684JesusCh PRS6462MagiWi">
+                        <desc/>
+                    </relation>
+                </listRelation>
               
             </div>
         </body>
