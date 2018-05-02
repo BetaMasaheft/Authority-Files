@@ -43,7 +43,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     typically placed opposite to the beginning of his text.
                     As in other traditions, the Evangelists perform a variety of actions, 
                     such as holding or writing the copy of their  
-                    <title ref="LIT1560Gospel">Gospel</title>.
+                    <ref type="work" corresp="LIT1560Gospel">Gospel</ref>.
                     The two main typologies attested in the Ethiopian tradition are:
                     ① Type 1 ⇨ The Evangelist is depicted in a <term>seated</term> position.
                     ② Type 2 ⇨ The Evangelist is depicted in a <term>standing</term> position.
