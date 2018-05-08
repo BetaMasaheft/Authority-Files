@@ -2,7 +2,7 @@
 <classDecl xmlns="http://www.tei-c.org/ns/1.0">
     <taxonomy xml:id="ethioauthlist">
         <category>
-            <desc>special mss</desc>
+            <desc>Special Manuscripts</desc>
             <category>
                 <catDesc>GoldenGospel</catDesc>
             </category>
@@ -12,7 +12,7 @@
         </category>
 
         <category>
-            <desc>bindingDescription</desc>
+            <desc>Binding Description</desc>
             <category>
                 <desc>guards</desc>
                 <category>
@@ -32,7 +32,7 @@
                 </category>
             </category>
             <category>
-                <desc>endbandType</desc>
+                <desc>Endband Type</desc>
                 <category>
                   <catDesc>slitBraid</catDesc>
                 </category>
@@ -41,7 +41,7 @@
                 </category>
             </category>
             <category>
-                <desc>boardLining</desc>
+                <desc>Board Lining</desc>
                 <category>
                   <catDesc>textile</catDesc>
                 </category>
@@ -53,7 +53,7 @@
                 </category>
             </category>
             <category>
-                <desc>woodType</desc>
+                <desc>Wood Type</desc>
                 <category>
                   <catDesc>cordiaAfricana</catDesc>
                 </category>
@@ -95,7 +95,7 @@
                 </category>
             </category>
             <category>
-              <desc>sewingPattern</desc>
+              <desc>Sewing Pattern</desc>
               <category>
                 <catDesc>patternA</catDesc>
               </category>
@@ -131,7 +131,7 @@
               </category>
             </category>
             <category>
-              <desc>decorationTool</desc>
+              <desc>Decoration Motives</desc>
               <category>
                 <catDesc>tripleStraightLine</catDesc>
               </category>
@@ -188,7 +188,7 @@
               </category>
             </category>
             <category>
-              <desc>threadMaterial</desc>
+              <desc>Thread Material</desc>
               <category>
                 <catDesc>animalThread</catDesc>
               </category>
