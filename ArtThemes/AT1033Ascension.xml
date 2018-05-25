@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>A miniature showing the Ascension of Jesus. The scene typically features the <persName ref="PRS11430Apostles"/> and <persName ref="PRS6819Mary"/>.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -45,12 +45,21 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change who="JG" when="2018-05-25">Added abstract and relation</change>
             <change who="JG" when="2017-11-22">Created entity</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listRelation>
+                    <relation name="saws:contains"
+                        active="AT1033Ascension"
+                        passive="PRS5684JesusCh">
+                        <desc/>
+                    </relation>
+                </listRelation>
+            </div>
         </body>
     </text>
 </TEI>
