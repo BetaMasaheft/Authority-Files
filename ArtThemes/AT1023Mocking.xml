@@ -34,8 +34,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A miniature showing <persName ref="PRS5684JesusCh"/> during or after his mocking. The scene often draws from Western
-                    images of the Ecce Homo. It may include two or more guards and may draw some elements from other episodes such as the  Crowning with thorns.</p>
+                <p>A miniature showing <persName ref="PRS5684JesusCh"/> during or after his mocking. 
+                    The scene often draws from Western images of the Ecce Homo. It may include two or more guards 
+                    and may draw some elements from other episodes such as the Crowning with thorns. 
+                    In some manuscripts the two scenes are combined, whereas in others they are presented separately.</p>
             </abstract>
             <textClass>
                 <keywords scheme="#ethioauthlist">

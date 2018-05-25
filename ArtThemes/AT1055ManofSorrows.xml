@@ -34,8 +34,15 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>Depiction of Christ as Man of Sorrows, crowned with thorns. <foreign xml:lang="gez">Kʷǝrʿata rǝʾsu</foreign>.</p>
+                <p>Depiction of Jesus as the Man of Sorrows crowned with thorns. <foreign xml:lang="gez">Kʷǝrʿata rǝʾsu</foreign>. 
+                    In some manuscripts the scene is combined with the mocking of Jesus while in others the two scenes are presented separately.</p>
             </abstract>
+            <textClass>
+                <keywords scheme="#ethioauthlist">
+                    <term key="Bible"/>
+                    <term key="NewTestament"/>
+                </keywords>
+            </textClass>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="ar">Arabic</language>
@@ -45,13 +52,21 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change who="JG" when="2018-05-25">Edited abstract, added relation</change>
             <change who="ES" when="2018-04-03">Created entity</change>
-            
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listRelation>
+                    <relation name="saws:contains"
+                        active="AT1055ManofSorrows"
+                        passive="PRS5684JesusCh">
+                        <desc/>
+                    </relation>
+                </listRelation>
+            </div>
         </body>
     </text>
 </TEI>
