@@ -10,7 +10,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Asmat</title>
+                <title>ʾAsmāt</title>
                 <editor key="DR"/>
                 <editor key="AB" role="generalEditor"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -28,7 +28,21 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    One of the most frequent protective texts in the manuscripts, esp. in the additional notes. Sometimes developed, with a formalized incipit and explicit, sometimes 
+                    nothing more than a short string of “hidden names of God”, written in a crude hand. 
+                </p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
         <revisionDesc>
+            <change when="2018-07-30" who="DR">Added definition</change>
             <change who="DR" when="2018-07-30">Created entity</change>
         </revisionDesc>
     </teiHeader>

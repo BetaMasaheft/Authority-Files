@@ -26,7 +26,26 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    “Gloss” refers to a note aimed to solve a purely language difficulty, in particular adding clarifications to difficult words 
+                    (frequently just single words, synonyms, in Amharic or Geez, or sometimes longer passages).
+                </p>
+                <p>Examples are:
+                    <list>
+                        <item><p><ref type="mss" corresp="ESdd040"/>, f. 5r.</p></item>
+                        <item><p><ref type="mss" corresp="ESdd005"/>, f. 2r.</p></item>
+                    </list></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
         <revisionDesc>
+            <change when="2018-07-30" who="DR">Added definition</change>
             <change who="DR" when="2016-06-14">prepared XML file</change>
             
         </revisionDesc>

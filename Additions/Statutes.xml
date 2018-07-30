@@ -28,7 +28,21 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    Regulations, statutes, constitutions of the churches; monastic rules. They have various shapes and are in many cases hardly understandable. 
+                </p>
+                <p>Examples are:
+                <list>
+                    <item><p><ref type="mss" corresp="ESdmd003"/>, f. 48va, 146r;</p></item>
+                    <item><p><ref type="mss" corresp="ESdd015"/>, f. 3r: <foreign xml:lang="gez">ዳሞ᎓ ሥርዓት᎓<gap reason="omitted"/>;</foreign></p></item>
+                    <item><p><ref type="mss" corresp="ESgbi001"/>, f. 5v, regulation established by the community concerning the office of <foreign xml:lang="gez">gabaz</foreign>: <foreign xml:lang="gez">በስመ፡ አብ፡ ወወልደ፡ ወመንፈስ፡ ቅዱስ፡ ፩አምላክ፡ ገዳመ፡ ኢየሱስ፡ ፪ገበዝ፡ ነበሩ፡ ኋላ፡ ማሕበር፡ መክረው፡ በአመት፡ አንድ፡ ገበዝ፡ ይሁንልነ፡ ብሎው፡ ለመምህር፡ ነገሩት፡ መምሕርም፡ ይሁንላሸሁ፡ ነገር፡ ግን፡ በ{ግ}ድ፡ አይደለም፡ በእዳ፡ ይሁንልነ፡ በለው፡ ነውጂ፡ ኢግድየሕ፡ ህግ፡ ይሁንልነ፡ ብለው፡ ትፉጻጽ፡ መውታል፡ ለገብዝ፡ መጠውፍያ፡ ሰጣጡ፡ ሶእር፡ ተመርየት፡ ጨቃበ፡ ቤተ፡ ክርስቲያን፡ የተገኜ፡ ተዘቢብ፡ ተአጠ{ን}፡ {ደሞ} ተግምኛ፡ በቀር፡ ከአስር፡ አንድ፡ ይብላ፡ ከአር፡ ቤታ፡ ከአስር፡ አንድ፡ ይብላ፡ ጉርድም፡ ተጻነማድጋ፡ ይብላ፡ ብለው፡ መምሕር፡ ማህበር፡ ሃገጉ፡ ለማሕበር፡ ፈጸምነ፡ ያግባ፡ ገብዝ፡ ለዚሕ፡ ሁሉ፡ ህግ፡ ምስክር፡ የተደረጉት፡ ቄስ፡ ወልደ፡ ስላሴ፡ አቶ፡ ወልደ፡ አቶ፡ ተስፋይ፡ ፫ምስክር፡ ያደረጉት፡ ማሕበር፡ ይነን፡ ሕግ፡ ያፈረሰ፡ ውጉዝ፡ ይሁን፡ በስልጣነ፡ ሃዋርያት።</foreign></p></item>
+                </list></p>
+            </abstract>
+        </profileDesc>
         <revisionDesc>
+            <change when="2018-07-30" who="DR">Added definition</change>
             <change who="DR" when="2018-07-30">Created entity</change>
         </revisionDesc>
     </teiHeader>

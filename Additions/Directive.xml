@@ -28,7 +28,25 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    Mostly in Amharic; usually addressed to the ministers as to how the texts should be read or how the church service/liturgy be carried out. 
+                    Technical directives only, other formulas. The words <foreign xml:lang="am">በል</foreign>, <foreign xml:lang="am">አንብ</foreign> are frequently included.
+                </p>
+                <p>Examples are:
+                    <list>
+                        <item><p><ref type="mss" corresp="ESqsm009"/>, f. 74va: <foreign xml:lang="gez">ተአምሩ፡ ሲነበብ፡ መጀመርያ፡ ነዓ፡ ኃቤየ፡ በብዝኃ፡ ፍሥሐ፡ ወኃሤት፡ ብፁዕ፡ ተጋደሊ፡ ኃያል፡ ሰማዕት፡ ጊዮርጊስ፡ መዋዒ፡ ዘብሔረ፡ ቢሩት፡ ሥቃይከ፡ ዘበትዕግሥት፡ መጠነ፡ ፯፡ ዓመት፡ ውስተ፡ ብሔረ፡ ሕይወት፡ ሰደኒ፡ ለበዊዕ፡ እሞት። በል። በፍጻሜ፡ ተአምር። ሰላም፡ ለሀገሩ፡ ወሰላም፡ ለደብሩ፡ ወሰላም፡ ለመቃብሩ፡ ፀዓደ፡ ፈረስ፡ ኃበ፤ ቆመ፡ ሰኰና፡ እግሩ፡ ይስዓመኒ፡ በከናፍሩ፡ ወይሰደኒ፡ ሀገሩ፡ ቅዱስ፡ ጊዮርጊስ፡ አደመኒ፡ ፍቅሩ። በል።</foreign>;</p></item>
+                    </list></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
         <revisionDesc>
+            <change when="2018-07-30" who="DR">Added definition</change>
             <change who="DR" when="2018-07-30">Created entity</change>
         </revisionDesc>
     </teiHeader>

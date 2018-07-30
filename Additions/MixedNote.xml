@@ -28,7 +28,29 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    Notes that are difficult to classify.
+                </p>
+                <p>Examples are:
+                    <list>
+                        <item><p><ref type="mss" corresp="ESdsm002"/>, f. 23v: <foreign xml:lang="gez">ዛቲ፡ መጽሐፍ፡ ሰርጸ፡ አረጋዊ፡ ዘተሣጣ፡ በዝጠኝ፡ ሻማ፡ ከመ፡ ትኵኖ፡ መርሃ፡ መንግሥተ፡ ሰማያት፡ ምስለ፡ ጻድቃን፡ ቡሩካን፡ ወከመ፡ ታብኦ፡ ውስታ፡ ገነተ፡ ትፍሥሕት፡ ማኀደረ፡ ሕይወት፡ ወብርሃን፡ ምስለ፡ አቡሁ፡ ዘርአ፡ ክርስቶስ፡ ወእሙ፡ ወለተ፡ ማርያም፡ ወብእሲቱ፡ ዓመተ፡ ማርያም፡ ወወሉዱ፡ ገብረ፡ እግዚአብሔር። ተሣይጦኒ፡ ወሀቦ፡ ለቅዱስ፡ ሚካኤል፡ ቤተ፡ መካዕ፡ በዘመነ፡ ንጉሥ፡ ተስፋ፡ ማርያም፡ ከመ፡ {ይኵኖ} መድኀኒተ፡ ሥጋ፡ ወነፍስ፡ ምስለ፡ አኃዊሁ፡ ካህናተ፡ ዛቲ፡ መቅደስ፡ ክልልተ፡ ግርማ፡ ወሞገስ። አንትሙ፡ ካህናተ፡ ወዲያቆናት፡ ኢተርስእዎ፡ በጊዜ፡ ቀኖና፡ ወጸሎት፡ ፩፩አቡነ፡ ዘበሰማያት።</foreign>;</p></item>
+                        <item><p><ref type="mss" corresp="ESqsm024"/>, f. 127vb: <foreign xml:lang="gez">ለዝድርሳን፡ ወሀቦ፡ ራስ፡ ስብሐት፡ ለሚካኤል፡ ቀርሰ፡ በር፡ ዘተሰየጦ፡ በንዋዩ፡ ከመ፡ ይኩኖ፡ መርኃ፡ ለመንግሥተ፡ ሠማያት፡ ወምስለ፡ ብእሲቱ፡ ወለተ፡ ማርያም፡ ለዓለም፡ ዓለም፡ አሜን። ምስለ፡ እሙ፡ ወለተ፡ ሥላሴ፡ ወአቡሁ፡ ወልደ፡ አረጋዊ፡ ወወልደ፡ ገብረ፡ ሕይወት፡ ዘሰረቆ፡ ወዘፈሐቆ። በስልጣነ፡ ጴጥሮስ፡ ወጳውሎስ፡ ውጉዘ፡ ለይኩን።</foreign>;</p></item>
+                        <item><p><ref type="mss" corresp="ESaqm001"/>, f. 39vb: <foreign xml:lang="gez">: ዛቲ፡ መጽሐፍ፡ ዘአቡነ፡ ማማስ፡ መምሕረ፡ ሃይማኖት፡ ዘተጽሕፈት፡ በዘመነ፡ ንጉሥነ፡ ተክለ፡ ጊዮርጊስ፡ ወበዘመኑ፡ መስፍን፡ ወልደ፡ ልዑል፡ ሊቀ፡ መኳንንት፡ ወመሳፍንት፡ ይትቀጸል፡ ዕድሜ፡ ዘሄኖክ፡ አዝማናት። ወበአይኑ፡ ኢይርአይከ፡ ሞት። ለዓለመ፡ ዓለም፡ አሜን፡ ዘወሀበ፡ ገራውሕተ፡ ለቤተ፡ ክርስቲያንሂ፡ ወለካህናት፡ <gap reason="omitted"/> ክልኤ፡ ክፍል፡ ለግብር፡ ወ፩ክፍል፡ ለአቡነ፡ ማማስ፡ ወለካናት፡[sic] ይኩኖ፡ መርሐ፡ በመ[fol. 40ra]ንግሥተ፡ ሰማያት፡ ለዓለመ፡ ዓለም፡ አሜን።</foreign>;</p></item>
+                        <item><p><ref type="mss" corresp="ESgkm011"/>;</p></item>
+                        <item><p><ref type="mss" corresp="ESgkm009"/>;</p></item>
+                        <item><p><ref type="mss" corresp="ESaqg012"/>, f. 3v.</p></item>
+                    </list></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
         <revisionDesc>
+            <change when="2018-07-30" who="DR">Added definition</change>
             <change who="DR" when="2018-07-30">Created entity</change>
         </revisionDesc>
     </teiHeader>

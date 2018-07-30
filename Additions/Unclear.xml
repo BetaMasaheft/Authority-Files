@@ -21,7 +21,15 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               The content of a significant number of additional notes is too vague or resists any interpretation. 
+            </p>
+         </abstract>
+      </profileDesc>
       <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>

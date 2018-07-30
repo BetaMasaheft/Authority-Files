@@ -34,7 +34,34 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>Despite wide-spread opinion that qǝne is a poetic improvisation which is not written down, manuscripts contain unexpectedly many qǝne-poems, usually as additional notes. 
+                    Frequently it is clearly stated the the poem is qǝne, and even the type is indicated. But no one tried to check if these poems formally correspond to what we know today as qǝne-forms. </p>
+                <p>Examples are:
+                    <list>
+                        <item><p><ref type="mss" corresp="ESmma008"/>, f. 123ra: <foreign xml:lang="gez">ዕጣነ፡ ሞገር፡ ግዕዝ።
+                            ለእመ፡ ብንያም፡ ወዮሴፍ። አዕይንቲሃ፡ ኮከብ፡ በመዝአረ፡ ገጻ፡ ዘአሶንያ፡
+                            መልአከ፡ ሞት፡ ጸዋግ፡ ዘአደመነ፡ ላህያ፡
+                            ዘምድረ፡ ሎዛ፡ ያዕቆብ፡ በስዋስወ፡ ወርቅ፡ ዘርእያ፡
+                            ተብሲለ፡ ኃዘን፡ ለነፍሱ፡ {ሲሳያ፡}
+                            በይነ፡ ተፈልጦታ፡ እምኔነ፡ ይእዜ፡ ለወለተ፡ ጴጥሮስ፡ ሐዋርያ፡ እንዘ፡ ንብል፡ ንላሁ፡ ከመ፡ እምአምላከ፡ ማርያ፡
+                            እምንስት፡ ይቲ፡ ሙአግያ፡
+                            እምንስትይቲ፡ ሙኪርያ።
+                        </foreign>;</p></item>
+                        <item><p><ref type="mss" corresp="ESmhg004"/>, f. 14vb: <foreign xml:lang="gez">ዝቅኔ፡ ዘዘማርያም
+                            ፩ ዝሁር፡ ዕቡየ፡ ልብ፡ ቀታሊ፡
+                            እንዘ፡ ገይስ፡ ያሌሊ፡ ደበረ፡ ወለተ
+                            ጽዮን፡ አመ፡ ዓርገ፡ እም፡ 
+                            ፍኖተ፡ ሞአብ፡ ወኢሎፍሊ፡
+                            እንዘ፡ ግዑረ፡ ሶበ፡ ይጸሊ፡ 
+                            ኀበ፡ ፈጣሪሁ፡ ሕዝቅያስ፡ እንዘ፡
+                            ኢምንተኒ፡ ይሄሊ፡ ተዝካረ፡ 
+                            ረሰዮ፡ ለኵሉ፡ መሐሊ።
+                            ዘትሌዓሊ። ባሕቱ፡ ይበልኪ፡ ቃለ፡
+                            ፈጣሪ፡ ከሃሊ። በዘባነ፡ ጴጥስ[sic]፡ ወጳውሊ፡
+                            ቆሚ፡ ወታንቀልቅሊ፡ እስከ፡ 
+                            ግብር፡ ይማስን፡ ወይበሊ።
+                        </foreign>.</p></item>
+                    </list></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -45,6 +72,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change when="2018-07-30" who="DR">Added definition</change>
             <change who="PL" when="2017-07-25">Created entity</change>
         </revisionDesc>
     </teiHeader>

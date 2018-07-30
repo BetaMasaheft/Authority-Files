@@ -28,7 +28,24 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    Rare, but important records explaining the local customary law. Usually in Amharic, difficult to understand. 
+                </p>
+                <p>Examples are:
+                    <list>
+                        <item><p><ref type="mss" corresp="ESddm001"/>, f. 112ra: Customary regulations of (the lineage of) Gilawazgi.</p></item>
+                    </list></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
         <revisionDesc>
+            <change when="2018-07-30" who="DR">Added definition</change>
             <change who="DR" when="2018-07-30">Created entity</change>
         </revisionDesc>
     </teiHeader>

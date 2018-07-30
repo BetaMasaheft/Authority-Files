@@ -21,7 +21,20 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               A short hymn of ca. 5 lines following the commemorative notice in the Synaxarion; can circulate independently. 
+            </p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>

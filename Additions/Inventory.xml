@@ -21,7 +21,26 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               Lists of books, or church utensils (in most of the cases both together), or objects donated by someone, in Gǝʿǝz or Amharic. 
+            </p>
+            <p>Examples are:
+               <list>
+                  <item><p><ref type="mss" corresp="ESky004"/>, f. 74va: <foreign xml:lang="gez">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ አ፩ምላክ፡ የደብረ፡ ቤቴል፡ ገንዘብ፡ ይህ፡ ነው፡ ገበዙ፡ ተስፋይ፡ ኰኰሎ፡ ነው፡ ካህኑ፡ ዘአልቦ፡ ሑልቊ፡ ነው፡ የኰኰሎ፡ ዮሐንስ፡ መጥምቅ፡ ከቁጥር፡ የገባ፡ ገንዘብ፡ ሃምሣ፡ አራት፡ ነው፡ ፶፬ ምንናምን፡ ቢሉ፡ ፩ኦሪት፡ ገድለ፡ ሰማዕታት፡ ሀይማኖተ፡ ዓበው፡፡ ግብረ፡ ህማማት፡ {፫} ወንጌል። ድርሳነ፡ ማርያም፡ {፪}ስንክሥር፡ ግንዘት፡ ሃዲሳት፡ ጾመድጓ፡ ምዕራፍ {፪}፡ መዝሙር። ፪፡ ተአምረ፡ ኢየሱስ፡ ፪፡ ተአምረ፡ ሚካኤል፡ ፪፡ ገድለ፡ ገብረ፡ መንፈስ፡ ቅዱስ፡ ፪፡ ዳዊት፡ ፪፡ ቅዳሴ፡ ፬፡ ፀሎተ፡ እጣን፡ ፩አርጋኖን፡ {፪}ገድለ፡ ዮሐንስ፡ ፪፡ አሥልጢ፡ ፩፡ መጽሐፈ፡ ክርስትና።፩ ፍትሐ፡ ነገሥት፡ ፬ኪዳናት፡ ፬ድበብ፡ ድጓ፡ ፩፡ መስቀል፡ ፬ ቃለ፡ አዋዲ። ፬ እርፈ፡ መስቀል፡ ፫፡ ጽዋዕ፡ ፬፡ ፅንሐ፡ ፪፡ ፃሕል፡ ፩፡ የባህር፡ ፅዋዕ፡ ፩፡ አትሮ፡ ንስ፡ ፩፡ ቀስተ፡ ደመና፡ ፩፡ መፅሐርያ፡ ፩፡ መክፈቻ፡ የደብረ፡ ቤቴል፡ ደግሞም፡ ፬፡ ምንፃፍ፡ ግምጃ፡ ቀሚስ፡ ወበርኖስ። ዘአልቦ፡ ሁልቁ፡ ፪፡ ከበሮ፡ ፀናጽል፡ ወመቋሚያ፡ ዘአልቦ፡ ሑልቁ፡</foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESsmm001"/>, f. 214v: <foreign xml:lang="gez">: ፫ት᎓ ቀሚስ᎓ ወርቅ᎓ ዘቦ᎓ ፫ት᎓ ወርቅ᎓ ዘቦ᎓ በርኖስ᎓ ሁለት᎓ ሐር᎓ በርኖስ᎓ ፩ግስላ᎓፩መስቀል። ፩ ምንጻፍ᎓ ፩ስዕል᎓ ምስለ᎓ ፍቁር ወልዳ።… </foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESmhg004"/>, f. 14va: <foreign xml:lang="gez">: ንዋየ፡ ቅድሳት፡ ወመጻሕፍት፡ ዘጊደሬ፡ ወዘ፡ ፈልፈል፡ … ወተጽሕፈት፡ ዛቲ፡ መጽሐፍ፡ በመዋዕለ፡ ዮሐንስ፡ ወንጌላዊ፡ ፸፻፳ዓመተ፡ ምኅረት፡ አመ፡ ዓሱሩ፡ ወ፯ለወርኀጥር፡ በዘመነ፡ ለተክለ፡ ነብያት፡ አብነ፡</foreign>;</p></item>
+               </list></p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>

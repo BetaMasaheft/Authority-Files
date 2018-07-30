@@ -21,7 +21,27 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               It can be a separate genealogy of local lineages or ruling families or individual rulers; it can be a genealogy of the owner/donor of the book, independent or included in another note
+               (frequently in a donation note).
+            </p>
+            <p>Examples are:
+               <list>
+                  <item><p><ref type="mss" corresp="ESaqg003"/>, f. 7v: <foreign xml:lang="gez">ከመ፡ ኢይትረሥዖ፡ ደቂቀ፡ ስንበት። ወልደ፡ ደመና፡ በድኅሬ፡ ሰሙኤል፡ በድ፡ ተጠምቃይ፡ በድኅ፡ ወልደ፡ ጴጥሮስ፡ በድኅ፡ ወልደ፡ ጐሪጽ፡ በድ፡ ብርሃና፡ በድኅ፡ ገብረ፡ መስቀል፡ በድ፡ ወልደ፡ ፍሥሓ፡ በድ፡ ፍሬ፡ ሕይወት፡ በድኅ፡ እንድርያስ፡ በድ፡ ጴጥሮስ፡ በድ፡ ብእሴ፡ በድ፡ ምሑር፡  በድኅ፡  ወልደ፡ አይዶሌ፡ በድ፡ ወልደ፡ ዓሊ፡ በድ፡ መናይ፡ በድኅ፡ ኬረ፡  እግዚእ፡  በድ፡ ተክለ፡ ሥሉስ፡ በድ፡  ወልደ፡ ቈፃይ፡ በድ፡ ወልደ፡ ራእስ፡ በድ፡ አብርሃመ፡ በድ፡ ገብረ፡ ሥላሴ፡ በድ፡ ስዩም፡ እስጢፋኖስ፡ በድ፡ ሱም፡ ርባ፡ በድ፡ ኅሥዩም፡ ቴዎድሮስ፡ በድ፡ አባ፡ አውያት፡ በድ፡ ዕቁብ፡ በድ፡ [n.l.] በድ፡ መረኬ፡ በድ፡ ዓረይ፡ በድ፡ ገብረ፡ ክርስቶስ፡ በድ፡ ካባዕ።</foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESwq002"/>, f. : <foreign xml:lang="am">ከዚህች፡ መጽሐፍ፡ ያጸፍኋቸው፡ ልጆቸ፡ በኋላም፡ ክፋት፡ ከአገኘኝ፡ ተረግዘው፡ ኑረው፡ የተወለዱ፡ ልጆቸ፡ ዘመ[…]ትም፡ ሁሉ፡ ጠይማን፡ ሐራ፡ አውጥቻት፡ አለሁ: ብትወድ፡ ከልጆቸ፡ ጋራ፡ ትቀመጥ፡ አመታቴን፡ እየጠበቀች፡ ከልጆችዋ፡ ጋራ፡ የዚህን፡ ሁሉ፡ የተቈጠረ፡ ወላጅ፡ እራስ፡ ጊዮርጊስ፡ ናቸው። እራስ፡ ጊዮርጊስም፡ እራስ፡ ዘርዓት፡ ይወልዳሉ፡ እራስ፡ ዘርዓትም፡ ዓምዶምን፡ ይወልዳሉ፡ ዓምዶም፡ አቶ፡ ሀጎስን፡ ይወልዳሉ፡ ሀጎስ፡ ገብረ፡ መስቀልን፡ ይወልዳሉ፡ ገብረ፡ መስቀልም፡ ብላታ፡ ካሳን፡ ይወልዳሉ፡ ብላታ፡ ካሳም፡ ብዋልታኡን፡ ዘርአትን፡</foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESnsm005"/>.</p></item>
+               </list></p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>

@@ -21,7 +21,26 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               Written message looking like a sample of epistolary genre copied into a manuscript. It can be a personal message to one specific community or person, 
+               or a “public” message to institutions and communities. Some libraries still preserve the paper letters from the time of Ḫāyla Śǝllāse I.  
+            </p>
+            <p>Examples are:
+               <list>
+                  <item><p><ref type="mss" corresp="ESgbq001"/>, f. 15va: <foreign xml:lang="gez">: ምልአክት፡ ዘራስ፡ ሥዩም፡ ይድረስ፡ ከማኅበረ፡ ኢየሱስ፡ ጓኅጎት። ጃንሆይ፡ ላባቴ፡ ወልደ፡ ዮሐንስ፡ ያነን፡ ክላዎን፡ ይዘው፡ ኢየሱስና፡ ወለተ፡ ጊዮርጊስ፡ የተጐለትወን፡ ጭቃውና፡ ገባሩ{ን}፡ ይካፈሉ፡ የማይ፡ ላባይም፡ የሚሰማማዎ፡ ሹም፡ ይሹሙ። እንዳሉ፡ እኔም፡ እንደ፡ ዮሐንስ፡ ብየዋልሁ። በ፲፱፻፡ ፲፪፡ ዓመተ፡ ምህረት።</foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESkae013"/>, f. 1v-2v: letter of ʾəččage Tewoflos to the churches of Tamben.</p></item>
+               </list></p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>

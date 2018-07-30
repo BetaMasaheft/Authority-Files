@@ -23,7 +23,23 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               The name of the scribe written down. Sometimes the purpose of such a signature is not clear (just a pen trial?). 
+            </p>
+            <p>An example is:
+            <ref type="mss" corresp="ESdd"/>, f. 2v:
+               <foreign xml:lang="gez">መምረይ᎓ ገብረ᎓ ጻድቅ᎓ እቃቤት። ዛቲ᎓ መጽሐፍ᎓ ዘጸሐፍዋ᎓ ሰርጸ᎓ ሚካኤል᎓ አሜን᎓ መምህርነ᎓ ዘዮሐንስ ይባርክ᎓ አሜን᎓ ለይኩን።</foreign></p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>

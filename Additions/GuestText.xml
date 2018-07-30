@@ -26,7 +26,32 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    Any literary work /text which has been added to the manuscript as an additional note, in part (excerpts) or in entirety. It can be a small size or even mid-size composition (frequently malkǝʾ).
+                    Typical cases are works written on guard leaves, sometimes even in the reversed direction or transgressing the codicological settings of the main texts in any different way. 
+                </p>
+                <p>Examples are:
+                    <list>
+                        <item><p><ref type="mss" corresp="ESdmd003"/>, f. 1r-2v: Malkәʾa Ṗeṭros wa-Ṗāwlos followed by an ʾarke-hymn, in a Four Gospel manuscript; the same text in 
+                            <ref type="mss" corresp="ESath002"/>, Acts of Takla Haymanot.</p></item>
+                        <item><p>Synaxarion entries, Creed of faith, theological treatises, dispersed miracles (<ref type="mss" corresp="ESdd025"/>, f. 165rv), hymns of the prefactory part
+                        of the miracles of Mary, Old Amharic compositions:</p></item>
+                        <item><p><ref type="mss" corresp="ESdd025"/>, f. 180rv;</p></item>
+                        <item><p><ref type="mss" corresp="ESakm020"/>, f. 1v-2r, 31r-34v;</p></item>
+                        <item><p><ref type="mss" corresp="ESma001"/>, despite the fact that the additional texts are written in calligraphic hands;</p></item>
+                        <item><p><ref type="mss" corresp="ESky023"/>, Psalter with an Amharic treatise on the Creation.</p></item>
+                    </list></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
         <revisionDesc>
+            <change when="2018-07-30" who="DR">Added definition</change>
             <change who="DR" when="2016-09-08">Created</change>
         </revisionDesc>
     </teiHeader>
