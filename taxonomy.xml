@@ -343,7 +343,6 @@
             <category>
                 <catDesc>Exhortation</catDesc>
             </category>
-
             <category>
                 <catDesc>Invocation</catDesc>
             </category>
@@ -363,7 +362,7 @@
                 <catDesc>ScribalNoteCompleting</catDesc>
             </category>
             <category>
-                <catDesc>ScribalNoteAssigningLang</catDesc>
+                <catDesc>ScribalNoteAssigningLand</catDesc>
             </category>
             <category>
                 <catDesc>ScribalNoteBequeathing</catDesc>
