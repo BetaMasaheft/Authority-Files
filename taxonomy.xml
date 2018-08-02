@@ -343,7 +343,6 @@
             <category>
                 <catDesc>Exhortation</catDesc>
             </category>
-
             <category>
                 <catDesc>Invocation</catDesc>
             </category>
@@ -363,7 +362,7 @@
                 <catDesc>ScribalNoteCompleting</catDesc>
             </category>
             <category>
-                <catDesc>ScribalNoteAssigningLang</catDesc>
+                <catDesc>ScribalNoteAssigningLand</catDesc>
             </category>
             <category>
                 <catDesc>ScribalNoteBequeathing</catDesc>
@@ -436,6 +435,21 @@
             </category>
             <category>
                 <catDesc>MalkeHymn</catDesc>
+            </category>
+            <category>
+                <catDesc>Directive</catDesc>
+            </category>
+            <category>
+                <catDesc>Asmat</catDesc>
+            </category>
+            <category>
+                <catDesc>CustomaryLaw</catDesc>
+            </category>
+            <category>
+                <catDesc>Statutes</catDesc>
+            </category>
+            <category>
+                <catDesc>MixedNote</catDesc>
             </category>
         </category>
 

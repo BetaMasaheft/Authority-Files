@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     type="auth"
-     xml:id="ScribalNoteAssigningLang">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Poem">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Scribal Note Assigning Lang</title>
+            <title>Poem</title>
             <editor key="ES"/>
             <editor key="AB" role="generalEditor"/>
             <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -23,14 +21,31 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               Rarely used without further specification, otherwise the term “hymn” is applied (seems to be more suitable for written religious poetry).
+            </p>
+            <p>Examples are:
+               <list>
+                  <item><p><ref type="mss" corresp="ESmr035"/>, f. 110v, a short verse on current historical events.</p></item>
+               </list></p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p>(Scribe’s) note on assigning of land</p>
+         <p/>
       </body>
    </text>
 </TEI>

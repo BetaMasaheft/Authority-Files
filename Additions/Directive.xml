@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
+schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
+   schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="auth"
+     xml:id="Directive">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Directive</title>
+                <editor key="DR"/>
+                <editor key="AB" role="generalEditor"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                        licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    Mostly in Amharic; usually addressed to the ministers as to how the texts should be read or how the church service/liturgy be carried out. 
+                    Technical directives only, other formulas. The words <foreign xml:lang="am">በል</foreign>, <foreign xml:lang="am">አንብ</foreign> are frequently included.
+                </p>
+                <p>Examples are:
+                    <list>
+                        <item><p><ref type="mss" corresp="ESqsm009"/>, f. 74va: <foreign xml:lang="gez">ተአምሩ፡ ሲነበብ፡ መጀመርያ፡ ነዓ፡ ኃቤየ፡ በብዝኃ፡ ፍሥሐ፡ ወኃሤት፡ ብፁዕ፡ ተጋደሊ፡ ኃያል፡ ሰማዕት፡ ጊዮርጊስ፡ መዋዒ፡ ዘብሔረ፡ ቢሩት፡ ሥቃይከ፡ ዘበትዕግሥት፡ መጠነ፡ ፯፡ ዓመት፡ ውስተ፡ ብሔረ፡ ሕይወት፡ ሰደኒ፡ ለበዊዕ፡ እሞት። በል። በፍጻሜ፡ ተአምር። ሰላም፡ ለሀገሩ፡ ወሰላም፡ ለደብሩ፡ ወሰላም፡ ለመቃብሩ፡ ፀዓደ፡ ፈረስ፡ ኃበ፤ ቆመ፡ ሰኰና፡ እግሩ፡ ይስዓመኒ፡ በከናፍሩ፡ ወይሰደኒ፡ ሀገሩ፡ ቅዱስ፡ ጊዮርጊስ፡ አደመኒ፡ ፍቅሩ። በል።</foreign>;</p></item>
+                    </list></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-07-30" who="DR">Added definition</change>
+            <change who="DR" when="2018-07-30">Created entity</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

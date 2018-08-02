@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="GuarantorsList">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guarantors List</title>
+            <editor key="ES"/>
+            <editor key="AB" role="generalEditor"/>
+            <funder>Akademie der Wissenschaften in Hamburg</funder>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+            <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
+            <pubPlace>Hamburg</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                            licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               Lists of individuals, sometimes independent from any other note or context, but with the word <foreign xml:lang="gez">wās</foreign>/<foreign xml:lang="gez">wāḥəs</foreign> used to describe their role. Sometimes a list of guarantors/witnesses may be included 
+               in  an acquisition note; normally into a litigation/reconciliation record.
+            </p>
+            <p>Examples are:
+               <list>
+                  <item><p><ref type="mss" corresp="ESdd019"/>, f. 1r: <foreign xml:lang="gez">ዋና፡ አባ፡ ጽጌ፡ አረጋዊ፡ ዋሕስ፡ አባ፡ አሥራተ፡ ማርያም። ለሰሎሞን፡ ዋሕሱ፡ አባ፡ ጽጌ፡ አረጋዊ፡</foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESsdsm002"/>, f. 149b: <foreign xml:lang="gez">የብርሸ፡ ዋኅስ፡ ንሻይ፡ መድኅን፡ ኽለቴ፡ ተጠለልፍዋል፡ የመረሳ፡ ዋስ፡ ዳስያ፡ ዓይኔ። የወ[ን]ድሙ፡ የሐጎስ፡ ዋስ፡ መረሳ፡ የተስፋይ፡ ዋስ፡ አቶ፡ ገብረ፡ ሕይወት። የረዳ፡ ዋስ፡ ብሩ፡ ተስፋይ። የአቶ፡ ዳስታ፡ </foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESsdm001"/>, f. 156v.</p></item>
+               </list></p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
+         <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
+         <change who="PL" when="2016-05-11">prepared XML file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>List of guarantors, Record concerning guarantors</p>
+      </body>
+   </text>
+</TEI>

@@ -4,13 +4,12 @@ schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
 <?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
    schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Correction">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="MalkeHymn">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Correction</title>
+                <title>Malkǝʾ Hymn</title>
                 <editor key="ES"/>
-                <editor key="DR"/>
                 <editor key="AB" role="generalEditor"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
@@ -27,10 +26,21 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    The hymn of composed of some 50 stanzas, describing the “limbs” of a saint (but there are also Malkǝʾ for the Trinity, Covenant of Mercy, Jesus, St. Mary, even for literary works, icons etc.).
+                </p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
         <revisionDesc>
-            <change who="ES" when="2016-05-06">Provided List in Issue 47</change>
-            <change who="PL" when="2016-05-11">prepared XML file</change>
-             <change who="DR" when="2016-06-16">prepared XML file</change>
+            <change when="2018-07-30" who="DR">Added definition</change>
+            <change who="DR" when="2017-08-14">Created record</change>
         </revisionDesc>
     </teiHeader>
     <text>

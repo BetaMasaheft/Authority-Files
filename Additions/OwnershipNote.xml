@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="OwnershipNote">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ownership Note</title>
+            <editor key="ES"/>
+            <editor key="AB" role="generalEditor"/>
+            <funder>Akademie der Wissenschaften in Hamburg</funder>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+            <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
+            <pubPlace>Hamburg</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                            licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               Indicating that the book belongs to 1) an institution; 2) an individual. Various shapes of these notes are possible, from rubricated and very regular, 
+               written in the main hands, to less formal notes in the margins, written in crude hands (also without the formula <foreign xml:lang="gez">ዝመጽሐፍ፡ ዘ</foreign>). 
+            </p>
+            <p>Examples are:
+               <list>
+                  <item><p><ref type="mss" corresp="ESaqg010"/>, f. 99v: <foreign xml:lang="gez">ገድለ፡ ሐዋርያት፡ ዘአድ፡ ቍልቋል፡</foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESmy002"/>, f. 2r: <foreign xml:lang="gez">ዝንቱ፡ መጽሐፍ፡ ዘደብረ፡ ማእጾ፡ ዘሰረቆ፡ ውጉዝ፡ ለይኩን፡ </foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESdd015a"/>, f. 211v: <foreign xml:lang="gez">ዝመጽሐፍ፡ ዘአባ፡ ሀብተ፡ ሚካኤል፡ ዘሠረቆ...</foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESmma008"/>, f. 121b: <foreign xml:lang="gez">ዝመጽሐፍ፡ ዘአቡነ፡ ወልደ፡ ስምዖን።</foreign>;</p></item>
+                  <item><p><ref type="mss" corresp="ESbmqm010"/>, f. 48ra: <foreign xml:lang="gez">አቡነ፡ ወልደ፡ አነንያ፡ ወምስለ፡ አመቱ፡ ወለተ፡ ሥላሴ፡</foreign>.</p></item>
+               </list></p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
+         <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
+         <change who="PL" when="2016-05-11">prepared XML file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>1. the book belongs to an individual, 2. the book belongs
+            to an institution.</p>
+      </body>
+   </text>
+</TEI>

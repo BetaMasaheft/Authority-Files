@@ -4,12 +4,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
 <?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
    schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="MalkeHymn">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Correction">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Malkǝʾ Hymn</title>
+                <title>Correction</title>
                 <editor key="ES"/>
+                <editor key="DR"/>
                 <editor key="AB" role="generalEditor"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
@@ -26,8 +27,28 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    Found in many manuscripts, sometimes in significant numbers. 
+                    Addition of omitted passages, words or letters (using various forms of the tamallas-sign), and corrections written over erasures seem to be the most frequent.
+                </p>
+                <p>An examples is:
+                    <list>
+                        <item><p><ref type="mss" corresp="ESky061"/>, f. 134va-151ra: numerous corrections, commentaries, glosses.</p></item>
+                    </list></p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
         <revisionDesc>
-            <change who="DR" when="2017-08-14">Created record</change>
+            <change when="2018-07-30" who="DR">Added definition</change>
+            <change who="ES" when="2016-05-06">Provided List in Issue 47</change>
+            <change who="PL" when="2016-05-11">prepared XML file</change>
+             <change who="DR" when="2016-06-16">prepared XML file</change>
         </revisionDesc>
     </teiHeader>
     <text>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="PoemArke">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="auth"
+     xml:id="ScribalNoteAssigningLand">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Poem Arke</title>
+            <title>Scribal Note Assigning Land</title>
             <editor key="ES"/>
             <editor key="AB" role="generalEditor"/>
             <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -28,7 +30,7 @@
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <p>(Scribe’s) note on assigning of land</p>
       </body>
    </text>
 </TEI>

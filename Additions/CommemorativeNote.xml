@@ -23,7 +23,29 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               The term stands for an extract from the Synaxarion (i.e., identified text), or a text close or similar to the Synaxarion notice.  
+               Also, some Synaxarion manuscripts have a number of added notices, mostly short, written in a secondary hand(s) in the margins, extending the local commemorative practice.
+               Sometimes they go with ʾarke-hymns (as they are in the regular Synaxarion), or are just ʾarke-hymns.
+            </p>
+            <p>Examples are:
+               <list>
+                  <item><p><ref type="mss" corresp="ESdmd002"/>;</p></item>
+                  <item><p><ref type="mss" corresp="ESdd025"/>;</p></item>
+                  <item><p><ref type="mss" corresp="ESqsm024"/>;</p></item>
+                  <item><p><ref type="mss" corresp="ESsm011"/>.</p></item>
+               </list></p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>

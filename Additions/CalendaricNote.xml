@@ -21,7 +21,26 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               Note in whatever way related to the calendar or computus, or reckoning time or calculating feasts; sometimes with such terms as <foreign xml:lang="gez">baḥra ḥassāb</foreign>, or
+               <foreign xml:lang="gez">sǝfra saʿāt</foreign>, or list of feasts with the dates, or lists of fasting periods. 
+               Some notes can be found also by means of the key-word “computus”. </p>
+            <p>Examples are:
+            <list>
+               <item><p><ref type="mss" corresp="ESdd028"/>, f. 159r: <foreign xml:lang="gez">አመ፡ ፩ለመስከረም፡ በርተሎሜዎስ፡ ወአመ፡ ፲፪ማቴዎስ፡</foreign>;</p></item>
+               <item><p><ref type="mss" corresp="ESqmm006"/>, f. 154r: <foreign xml:lang="gez">በዘተአምር፡ መፍቅደ፡ ጾም፡ ዘ፲ወ፪፡ አውራኅ</foreign>.</p></item>
+            </list></p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
+         <change when="2018-07-30" who="DR">Added definition</change>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>
