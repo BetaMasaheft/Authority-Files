@@ -57,6 +57,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <revisionDesc>
             <change who="ES" when="2018-03-13">Created entity</change>
             <change when="2018-04-23" who="JG">Changed title, edited abstract, added bibliography, relation, and textclass</change>
+            <change when="2018-08-03" who="ES">relation cleaned</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -68,8 +69,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   </bibl>
               </listBibl>
                 <listRelation>
-                    <relation name="saws:contains" active="AT1040Ancient" passive="PRS5684JesusCh PRS5741">
-                        <desc/>
+                    <relation name="saws:contains" active="AT1040Ancient" passive="PRS5684JesusCh">
+                        
+                    </relation>
+                    <relation name="saws:contains" active="AT1040Ancient" passive="PRS3697egziabe">
+                        
                     </relation>
                 </listRelation>
             </div>
