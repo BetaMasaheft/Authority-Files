@@ -656,6 +656,9 @@
         <category>
             <desc>Art Themes</desc>
             <category>
+                <catDesc>AT1068AdamandEveeatfruit</catDesc>
+            </category>
+            <category>
                 <catDesc>AT1001Agony</catDesc>
             </category>
             <category>
@@ -875,9 +878,6 @@
                 <catDesc>AT1067LastSupper</catDesc>
             </category>
             <category>
-                <catDesc>AT1068AdamandEveeatfruit</catDesc>
-            </category>
-            <category>
                 <catDesc>AT1101GodtheFather</catDesc>
             </category>
             <category>
@@ -886,7 +886,6 @@
             <category>
                 <catDesc>AT1106HolyWomen</catDesc>
             </category>
-
         </category>
 
 
