@@ -239,6 +239,12 @@
         <category>
             <desc>Periods</desc>
             <category>
+                <catDesc>PreAks</catDesc>
+            </category>
+            <category>
+                <catDesc>Eaks</catDesc>
+            </category>
+            <category>
                 <catDesc>Aks</catDesc>
             </category>
             <category>

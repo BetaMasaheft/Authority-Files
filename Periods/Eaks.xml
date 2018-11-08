@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Eaks">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Early Aksumite</title>
+                <editor key="AB" role="generalEditor"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                        licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    PeriodO permalink: <ref target="http://n2t.net/ark:/99152/p03tcsstdn7">http://n2t.net/ark:/99152/p03tcsstdn7</ref>
+                </p>
+            </sourceDesc>
+            
+        </fileDesc>
+        <revisionDesc>
+            <change who="AB" when="2017-03-28">Provided List in Issue 390</change>
+            <change who="PL" when="2018-11-07">prepared XML file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>1-300 CE</p>
+        </body>
+    </text>
+</TEI>
