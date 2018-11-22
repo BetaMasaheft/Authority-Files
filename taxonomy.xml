@@ -1212,18 +1212,12 @@
         <category>
             <desc>Subjects</desc>
             <category>
-                <catDesc>ApocryphaPseudoepigrapha</catDesc>
-            </category>
-            <category>
                 <catDesc>AmharicLiterature</catDesc>
             </category>
 
             <!--mycore-->
             <category>
                 <catDesc>Apocrypha</catDesc>
-            </category>
-            <category>
-                <catDesc>Pseudoepigrapha</catDesc>
             </category>
             <category>
                 <catDesc>Miracle</catDesc>
