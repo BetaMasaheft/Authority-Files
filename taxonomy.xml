@@ -32,6 +32,15 @@
                 </category>
             </category>
             <category>
+              <desc>Bookmarks</desc>
+              <category>
+                <catDesc>leafStringMark</catDesc>
+              </category>
+              <category>
+                <catDesc>leafTabMark</catDesc>
+              </category>
+            </category>
+            <category>
                 <desc>Endband Type</desc>
                 <category>
                   <catDesc>slitBraid</catDesc>
