@@ -30,7 +30,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>Bookmarker made by a thread which is sewn directly through a leaf in a bookblock.
+                <p>Bookmark made of a thread which is sewn directly through a leaf in a bookblock.
                 </p>
             </abstract>
             <langUsage>
