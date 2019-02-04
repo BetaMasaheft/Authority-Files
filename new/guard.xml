@@ -30,7 +30,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
               <p>A narrow strip of parchment used for reinforcing quires and leaves. It can be placed along the <ref corresp="spinefold" type="authFile"/>
-              or in the <ref corresp="centerfold" type="authFile"/> of a quire. It is held in its position by <ref corresp="sidestiches" type="authFile"/> or by threads
+              or in the <ref corresp="centerfold" type="authFile"/> of a quire. It is held in its position by <ref corresp="sidestitches" type="authFile"/> or by threads
               of the <ref corresp="mainSewing" type="authFile"/>.
               </p>
             </abstract>
