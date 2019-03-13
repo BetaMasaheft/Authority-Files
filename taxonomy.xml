@@ -3,10 +3,10 @@
     <taxonomy xml:id="ethioauthlist">
         <category>
             <desc>Special Manuscripts</desc>
-            <category xml:id="GoldenGospel">
+            <category>
                 <catDesc>GoldenGospel</catDesc>
             </category>
-            <category xml:id="miniatureCollection">
+            <category>
                 <catDesc>miniatureCollection</catDesc>
             </category>
         </category>
@@ -15,199 +15,199 @@
             <desc>Binding Description</desc>
             <category>
                 <desc>guards</desc>
-                <category xml:id="guard">
+                <category>
                   <catDesc>guard</catDesc>
                 </category>
-                <category xml:id="centerfold">
+                <category>
                   <catDesc>centerfold</catDesc>
                 </category>
-                <category xml:id="spinefold">
+                <category>
                   <catDesc>spinefold</catDesc>
                 </category>
-                <category xml:id="sidestitches">
+                <category>
                   <catDesc>sidestitches</catDesc>
                 </category>
-                <category xml:id="mainSewing">
+                <category>
                   <catDesc>mainSewing</catDesc>
                 </category>
             </category>
             <category>
               <desc>Bookmarks</desc>
-              <category xml:id="leafStringMark">
+              <category>
                 <catDesc>leafStringMark</catDesc>
               </category>
-              <category xml:id="leafTabMark">
+              <category>
                 <catDesc>leafTabMark</catDesc>
               </category>
             </category>
             <category>
                 <desc>Endband Type</desc>
-                <category xml:id="slitBraid">
+                <category>
                   <catDesc>slitBraid</catDesc>
                 </category>
-                <category xml:id="linkStitch">
+                <category>
                   <catDesc>linkStitch</catDesc>
                 </category>
             </category>
             <category>
                 <desc>Board Lining</desc>
-                <category xml:id="textile">
+                <category>
                   <catDesc>textile</catDesc>
                 </category>
-                <category xml:id="mirror">
+                <category>
                   <catDesc>mirror</catDesc>
                 </category>
-                <category xml:id="additionalLeatherPatch">
+                <category>
                   <catDesc>additionalLeatherPatch</catDesc>
                 </category>
             </category>
             <category>
                 <desc>Wood Type</desc>
-                <category xml:id="cordiaAfricana">
+                <category>
                   <catDesc>cordiaAfricana</catDesc>
                 </category>
-                <category xml:id="oleaAfricana">
+                <category>
                   <catDesc>oleaAfricana</catDesc>
                 </category>
-                <category xml:id="cedar">
+                <category>
                   <catDesc>cedar</catDesc>
                 </category>
-                <category xml:id="eucalyptus">
+                <category>
                   <catDesc>eucalyptus</catDesc>
                 </category>
-                <category xml:id="juniper">
+                <category>
                   <catDesc>juniper</catDesc>
                 </category>
-                <category xml:id="hageniaAbyssinica">
+                <category>
                   <catDesc>hageniaAbyssinica</catDesc>
                 </category>
-                <category xml:id="acacia">
+                <category>
                   <catDesc>acacia</catDesc>
                 </category>
-                <category xml:id="ficus">
+                <category>
                   <catDesc>ficus</catDesc>
                 </category>
-                <category xml:id="crotonMacrostachyus">
+                <category>
                   <catDesc>crotonMacrostachyus</catDesc>
                 </category>
-                <category xml:id="euphorbia">
+                <category>
                   <catDesc>euphorbia</catDesc>
                 </category>
-                <category xml:id="ekebergia">
+                <category>
                   <catDesc>ekebergia</catDesc>
                 </category>
-                <category xml:id="podocarpus">
+                <category>
                   <catDesc>podocarpus</catDesc>
                 </category>
-                <category xml:id="plywood">
+                <category>
                   <catDesc>plywood</catDesc>
                 </category>
             </category>
             <category>
               <desc>Sewing Pattern</desc>
-              <category xml:id="patternA">
+              <category>
                 <catDesc>patternA</catDesc>
               </category>
-              <category xml:id="patternA1">
+              <category>
                 <catDesc>patternA1</catDesc>
               </category>
-              <category xml:id="patternA2">
+              <category>
                 <catDesc>patternA2</catDesc>
               </category>
-              <category xml:id="patternA3">
+              <category>
                 <catDesc>patternA3</catDesc>
               </category>
-              <category xml:id="patternA4">
+              <category>
                 <catDesc>patternA4</catDesc>
               </category>
-              <category xml:id="patternA5">
+              <category>
                 <catDesc>patternA5</catDesc>
               </category>
-              <category xml:id="patternA6">
+              <category>
                 <catDesc>patternA6</catDesc>
               </category>
-              <category xml:id="patternA7">
+              <category>
                 <catDesc>patternA7</catDesc>
               </category>
-              <category xml:id="patternB">
+              <category>
                 <catDesc>patternB</catDesc>
               </category>
-              <category xml:id="patternC">
+              <category>
                 <catDesc>patternC</catDesc>
               </category>
-              <category xml:id="patternC1">
+              <category>
                 <catDesc>patternC1</catDesc>
               </category>
             </category>
             <category>
               <desc>Decoration Motives</desc>
-              <category xml:id="tripleStraightLine">
+              <category>
                 <catDesc>tripleStraightLine</catDesc>
               </category>
-              <category xml:id="doubleStraightLine">
+              <category>
                 <catDesc>doubleStraightLine</catDesc>
               </category>
-              <category xml:id="singleStraightLine">
+              <category>
                 <catDesc>singleStraightLine</catDesc>
               </category>
-              <category xml:id="crissCross">
+              <category>
                 <catDesc>crissCross</catDesc>
               </category>
-              <category xml:id="doubleCircle">
+              <category>
                 <catDesc>doubleCircle</catDesc>
               </category>
-              <category xml:id="singleCircle">
+              <category>
                 <catDesc>singleCircle</catDesc>
               </category>
-              <category xml:id="crescent">
+              <category>
                 <catDesc>crescent</catDesc>
               </category>
-              <category xml:id="XForm">
+              <category>
                 <catDesc>XForm</catDesc>
               </category>
-              <category xml:id="palmShape">
+              <category>
                 <catDesc>palmShape</catDesc>
               </category>
-              <category xml:id="rosette">
+              <category>
                 <catDesc>rosette</catDesc>
               </category>
-              <category xml:id="corniForm">
+              <category>
                 <catDesc>corniForm</catDesc>
               </category>
-              <category xml:id="grid">
+              <category>
                 <catDesc>grid</catDesc>
               </category>
-              <category xml:id="VForm">
+              <category>
                 <catDesc>VForm</catDesc>
               </category>
-              <category xml:id="wavyLine">
+              <category>
                 <catDesc>wavyLine</catDesc>
               </category>
-              <category xml:id="zigZag">
+              <category>
                 <catDesc>zigZag</catDesc>
               </category>
-              <category xml:id="motherOfWater">
+              <category>
                 <catDesc>motherOfWater</catDesc>
               </category>
-              <category xml:id="straightStrapwork">
+              <category>
                 <catDesc>straightStrapwork</catDesc>
               </category>
-              <category xml:id="curveStrapwork">
+              <category>
                 <catDesc>curveStrapwork</catDesc>
               </category>
             </category>
             <category>
               <desc>Thread Material</desc>
-              <category xml:id="animalThread">
+              <category>
                 <catDesc>animalThread</catDesc>
               </category>
-              <category xml:id="vegetableThread">
+              <category>
                 <catDesc>vegetableThread</catDesc>
               </category>
-              <category xml:id="syntheticThread">
+              <category>
                 <catDesc>syntheticThread</catDesc>
               </category>
-              <category xml:id="tannedSkin">
+              <category>
                 <catDesc>tannedSkin</catDesc>
               </category>
             </category>
@@ -215,31 +215,31 @@
 
         <category>
             <desc>Occupation</desc>
-            <category xml:id="ruler">
+            <category>
                 <catDesc>ruler</catDesc>
             </category>
-            <category xml:id="military">
+            <category>
                 <catDesc>military</catDesc>
             </category>
-            <category xml:id="academic">
+            <category>
                 <catDesc>academic</catDesc>
             </category>
-            <category xml:id="political">
+            <category>
                 <catDesc>political</catDesc>
             </category>
-            <category xml:id="literary">
+            <category>
                 <catDesc>literary</catDesc>
             </category>
-            <category xml:id="ecclesiastic">
+            <category>
                 <catDesc>ecclesiastic</catDesc>
             </category>
-            <category xml:id="medical">
+            <category>
                 <catDesc>medical</catDesc>
             </category>
-            <category xml:id="art">
+            <category>
                 <catDesc>art</catDesc>
             </category>
-            <category xml:id="Other">
+            <category>
                 <catDesc>Other</catDesc>
             </category>
         </category>
@@ -247,665 +247,665 @@
 
         <category>
             <desc>Periods</desc>
-            <category xml:id="PreAks">
+            <category>
                 <catDesc>PreAks</catDesc>
             </category>
-            <category xml:id="Eaks">
+            <category>
                 <catDesc>Eaks</catDesc>
             </category>
-            <category xml:id="Aks">
+            <category>
                 <catDesc>Aks</catDesc>
             </category>
-            <category xml:id="Paks1">
+            <category>
                 <catDesc>Paks1</catDesc>
             </category>
-            <category xml:id="Paks2">
+            <category>
                 <catDesc>Paks2</catDesc>
             </category>
-            <category xml:id="Gon">
+            <category>
                 <catDesc>Gon</catDesc>
             </category>
-            <category xml:id="ZaMa">
+            <category>
                 <catDesc>ZaMa</catDesc>
             </category>
-            <category xml:id="MoPe">
+            <category>
                 <catDesc>MoPe</catDesc>
             </category>
         </category>
         <category>
             <desc>Chant Modes</desc>
-            <category xml:id="ArarayMode">
+            <category>
                 <catDesc>ArarayMode</catDesc>
             </category>
-            <category xml:id="EzelMode">
+            <category>
                 <catDesc>EzelMode</catDesc>
             </category>
-            <category xml:id="GeezMode">
+            <category>
                 <catDesc>GeezMode</catDesc>
             </category>
         </category>
         <category>
             <desc>Additiones</desc>
-            <category xml:id="GuestText">
+            <category>
                 <catDesc>GuestText</catDesc>
             </category>
-            <category xml:id="AcquisitionNote">
+            <category>
                 <catDesc>AcquisitionNote</catDesc>
             </category>
-            <category xml:id="Excommunication">
+            <category>
                 <catDesc>Excommunication</catDesc>
             </category>
-            <category xml:id="Comment">
+            <category>
                 <catDesc>Comment</catDesc>
             </category>
-            <category xml:id="Gloss">
+            <category>
                 <catDesc>Gloss</catDesc>
             </category>
-            <category xml:id="Correction">
+            <category>
                 <catDesc>Correction</catDesc>
             </category>
-            <category xml:id="Letter">
+            <category>
                 <catDesc>Letter</catDesc>
             </category>
-            <category xml:id="Foundation">
+            <category>
                 <catDesc>Foundation</catDesc>
             </category>
-            <category xml:id="Headband">
+            <category>
                 <catDesc>Headband</catDesc>
             </category>
-            <category xml:id="Tailband">
+            <category>
                 <catDesc>Tailband</catDesc>
             </category>
-            <category xml:id="DonationNote">
+            <category>
                 <catDesc>DonationNote</catDesc>
             </category>
-            <category xml:id="Correction">
+            <category>
                 <catDesc>Correction</catDesc>
             </category>
-            <category xml:id="OwnershipNote">
+            <category>
                 <catDesc>OwnershipNote</catDesc>
             </category>
-            <category xml:id="PurchaseNote">
+            <category>
                 <catDesc>PurchaseNote</catDesc>
             </category>
-            <category xml:id="ReceiptNote">
+            <category>
                 <catDesc>ReceiptNote</catDesc>
             </category>
-            <category xml:id="Admonition">
+            <category>
                 <catDesc>Admonition</catDesc>
             </category>
-            <category xml:id="LandGrant">
+            <category>
                 <catDesc>LandGrant</catDesc>
             </category>
-            <category xml:id="FoundationCharter">
+            <category>
                 <catDesc>FoundationCharter</catDesc>
             </category>
-            <category xml:id="Genealogy">
+            <category>
                 <catDesc>Genealogy</catDesc>
             </category>
-            <category xml:id="ScribalSignature">
+            <category>
                 <catDesc>ScribalSignature</catDesc>
             </category>
-            <category xml:id="Supplication">
+            <category>
                 <catDesc>Supplication</catDesc>
             </category>
-            <category xml:id="Subscription">
+            <category>
                 <catDesc>Subscription</catDesc>
             </category>
-            <category xml:id="Doxology">
+            <category>
                 <catDesc>Doxology</catDesc>
             </category>
-            <category xml:id="Exhortation">
+            <category>
                 <catDesc>Exhortation</catDesc>
             </category>
-            <category xml:id="Invocation">
+            <category>
                 <catDesc>Invocation</catDesc>
             </category>
-            <category xml:id="Inventory">
+            <category>
                 <catDesc>Inventory</catDesc>
             </category>
-            <category xml:id="ScribalNoteCommencing">
+            <category>
                 <catDesc>ScribalNoteCommencing</catDesc>
             </category>
-            <category xml:id="ScribalNoteOrdering">
+            <category>
                 <catDesc>ScribalNoteOrdering</catDesc>
             </category>
-            <category xml:id="ScribalNoteCommissioning">
+            <category>
                 <catDesc>ScribalNoteCommissioning</catDesc>
             </category>
-            <category xml:id="ScribalNoteCompleting">
+            <category>
                 <catDesc>ScribalNoteCompleting</catDesc>
             </category>
-            <category xml:id="ScribalNoteAssigningLand">
+            <category>
                 <catDesc>ScribalNoteAssigningLand</catDesc>
             </category>
-            <category xml:id="ScribalNoteBequeathing">
+            <category>
                 <catDesc>ScribalNoteBequeathing</catDesc>
             </category>
-            <category xml:id="RecordReconciliation">
+            <category>
                 <catDesc>RecordReconciliation</catDesc>
             </category>
-            <category xml:id="RecordLitigation">
+            <category>
                 <catDesc>RecordLitigation</catDesc>
             </category>
-            <category xml:id="RecordTransaction">
+            <category>
                 <catDesc>RecordTransaction</catDesc>
             </category>
-            <category xml:id="RecordDistribution">
+            <category>
                 <catDesc>RecordDistribution</catDesc>
             </category>
-            <category xml:id="RecordGuarantors">
+            <category>
                 <catDesc>RecordGuarantors</catDesc>
             </category>
-            <category xml:id="Record">
+            <category>
                 <catDesc>Record</catDesc>
             </category>
-            <category xml:id="ScribalSupplication">
+            <category>
                 <catDesc>ScribalSupplication</catDesc>
             </category>
-            <category xml:id="Unclear">
+            <category>
                 <catDesc>Unclear</catDesc>
             </category>
-            <category xml:id="GuarantorsList">
+            <category>
                 <catDesc>GuarantorsList</catDesc>
             </category>
-            <category xml:id="CommemorativeNote">
+            <category>
                 <catDesc>CommemorativeNote</catDesc>
             </category>
-            <category xml:id="Condemnation">
+            <category>
                 <catDesc>Condemnation</catDesc>
             </category>
-            <category xml:id="ProtectivePrayer">
+            <category>
                 <catDesc>ProtectivePrayer</catDesc>
             </category>
-            <category xml:id="Poem">
+            <category>
                 <catDesc>Poem</catDesc>
             </category>
-            <category xml:id="PoemQene">
+            <category>
                 <catDesc>PoemQene</catDesc>
             </category>
-            <category xml:id="PoemSalam">
+            <category>
                 <catDesc>PoemSalam</catDesc>
             </category>
-            <category xml:id="PoemArke">
+            <category>
                 <catDesc>PoemArke</catDesc>
             </category>
-            <category xml:id="StampExlibris">
+            <category>
                 <catDesc>StampExlibris</catDesc>
             </category>
-            <category xml:id="CalendaricNote">
+            <category>
                 <catDesc>CalendaricNote</catDesc>
             </category>
-            <category xml:id="Excerpt">
+            <category>
                 <catDesc>Excerpt</catDesc>
             </category>
-            <category xml:id="MagicFormula">
+            <category>
                 <catDesc>MagicFormula</catDesc>
             </category>
-            <category xml:id="MagicText">
+            <category>
                 <catDesc>MagicText</catDesc>
             </category>
-            <category xml:id="Excommunication">
+            <category>
                 <catDesc>Excommunication</catDesc>
             </category>
-            <category xml:id="MalkeHymn">
+            <category>
                 <catDesc>MalkeHymn</catDesc>
             </category>
-            <category xml:id="Directive">
+            <category>
                 <catDesc>Directive</catDesc>
             </category>
-            <category xml:id="Asmat">
+            <category>
                 <catDesc>Asmat</catDesc>
             </category>
-            <category xml:id="CustomaryLaw">
+            <category>
                 <catDesc>CustomaryLaw</catDesc>
             </category>
-            <category xml:id="Statutes">
+            <category>
                 <catDesc>Statutes</catDesc>
             </category>
-            <category xml:id="MixedNote">
+            <category>
                 <catDesc>MixedNote</catDesc>
             </category>
         </category>
 
         <category>
             <desc>Art Keywords</desc>
-            <category xml:id="AksumiteStyle">
+            <category>
                 <catDesc>AksumiteStyle</catDesc>
             </category>
-            <category xml:id="FirstSolomonicStyle">
+            <category>
                 <catDesc>FirstSolomonicStyle</catDesc>
             </category>
-            <category xml:id="SecondSolomonicStyle">
+            <category>
                 <catDesc>SecondSolomonicStyle</catDesc>
             </category>
-            <category xml:id="ThirdSolomonicStyle">
+            <category>
                 <catDesc>ThirdSolomonicStyle</catDesc>
             </category>
-            <category xml:id="FirstGondarineStyle">
+            <category>
                 <catDesc>FirstGondarineStyle</catDesc>
             </category>
-            <category xml:id="SecondGondarineStyle">
+            <category>
                 <catDesc>SecondGondarineStyle</catDesc>
             </category>
-            <category xml:id="PostGondarineStyle">
+            <category>
                 <catDesc>PostGondarineStyle</catDesc>
             </category>
-            <category xml:id="ModernStyle">
+            <category>
                 <catDesc>ModernStyle</catDesc>
             </category>
-            <category xml:id="ShortCycle">
+            <category>
                 <catDesc>ShortCycle</catDesc>
             </category>
-            <category xml:id="LongCycle">
+            <category>
                 <catDesc>LongCycle</catDesc>
             </category>
-            <category xml:id="angel">
+            <category>
                 <catDesc>angel</catDesc>
             </category>
-            <category xml:id="attribute">
+            <category>
                 <catDesc>attribute</catDesc>
             </category>
-            <category xml:id="bearded">
+            <category>
                 <catDesc>bearded</catDesc>
             </category>
-            <category xml:id="beardless">
+            <category>
                 <catDesc>beardless</catDesc>
             </category>
-            <category xml:id="deadjesus">
+            <category>
                 <catDesc>deadjesus</catDesc>
             </category>
-            <category xml:id="demon">
+            <category>
                 <catDesc>demon</catDesc>
             </category>
-            <category xml:id="donordepiction">
+            <category>
                 <catDesc>donordepiction</catDesc>
             </category>
-            <category xml:id="emptycross">
+            <category>
                 <catDesc>emptycross</catDesc>
             </category>
-            <category xml:id="livingjesus">
+            <category>
                 <catDesc>livingjesus</catDesc>
             </category>
-            <category xml:id="interlace">
+            <category>
                 <catDesc>interlace</catDesc>
             </category>
-            <category xml:id="gesture">
+            <category>
                 <catDesc>gesture</catDesc>
             </category>
-            <category xml:id="gestureblessing">
+            <category>
                 <catDesc>gestureblessing</catDesc>
             </category>
-            <category xml:id="gesturecrossed">
+            <category>
                 <catDesc>gesturecrossed</catDesc>
             </category>
-            <category xml:id="gesturefoldedhands">
+            <category>
                 <catDesc>gesturefoldedhands</catDesc>
             </category>
-            <category xml:id="gesturegrief">
+            <category>
                 <catDesc>gesturegrief</catDesc>
             </category>
-            <category xml:id="gestureorans">
+            <category>
                 <catDesc>gestureorans</catDesc>
             </category>
-            <category xml:id="gesturewitnessing">
+            <category>
                 <catDesc>gesturewitnessing</catDesc>
             </category>
-            <category xml:id="halo">
+            <category>
                 <catDesc>halo</catDesc>
             </category>
-            <category xml:id="handGod">
+            <category>
                 <catDesc>handGod</catDesc>
             </category>
-            <category xml:id="HolySpirit">
+            <category>
                 <catDesc>HolySpirit</catDesc>
             </category>
-            <category xml:id="mandorla">
+            <category>
                 <catDesc>mandorla</catDesc>
             </category>
-            <category xml:id="saluspopuli">
+            <category>
                 <catDesc>saluspopuli</catDesc>
             </category>
-            <category xml:id="hodegetria">
+            <category>
                 <catDesc>hodegetria</catDesc>
             </category>
-            <category xml:id="SealofSolomon">
+            <category>
                 <catDesc>SealofSolomon</catDesc>
             </category>
-            <category xml:id="seated">
+            <category>
                 <catDesc>seated</catDesc>
             </category>
-            <category xml:id="standing">
+            <category>
                 <catDesc>standing</catDesc>
             </category>
-            <category xml:id="spinning">
+            <category>
                 <catDesc>spinning</catDesc>
             </category>
-            <category xml:id="sunandmoon">
+            <category>
                 <catDesc>sunandmoon</catDesc>
             </category>
-            <category xml:id="tetramorph">
+            <category>
                 <catDesc>tetramorph</catDesc>
             </category>
-            <category xml:id="twothieves">
+            <category>
                 <catDesc>twothieves</catDesc>
             </category>
-            <category xml:id="scabbard">
+            <category>
                 <catDesc>scabbard</catDesc>
             </category>
         </category>
 
         <category>
             <desc>Objects and Animals</desc>
-            <category xml:id="animal">
+            <category>
                 <catDesc>animal</catDesc>
             </category>
-            <category xml:id="arch">
+            <category>
                 <catDesc>arch</catDesc>
             </category>
-            <category xml:id="architecture">
+            <category>
                 <catDesc>architecture</catDesc>
             </category>
-            <category xml:id="bird">
+            <category>
                 <catDesc>bird</catDesc>
             </category>
-            <category xml:id="canopy">
+            <category>
                 <catDesc>canopy</catDesc>
             </category>
-            <category xml:id="censer">
+            <category>
                 <catDesc>censer</catDesc>
             </category>
-            <category xml:id="codex">
+            <category>
                 <catDesc>codex</catDesc>
             </category>
-            <category xml:id="column">
+            <category>
                 <catDesc>column</catDesc>
             </category>
-            <category xml:id="cross">
+            <category>
                 <catDesc>cross</catDesc>
             </category>
-            <category xml:id="crown">
+            <category>
                 <catDesc>crown</catDesc>
             </category>
-            <category xml:id="curtain">
+            <category>
                 <catDesc>curtain</catDesc>
             </category>
-            <category xml:id="dragon">
+            <category>
                 <catDesc>dragon</catDesc>
             </category>
-            <category xml:id="eucharist">
+            <category>
                 <catDesc>eucharist</catDesc>
             </category>
-            <category xml:id="globe">
+            <category>
                 <catDesc>globe</catDesc>
             </category>
-            <category xml:id="maniple">
+            <category>
                 <catDesc>maniple</catDesc>
             </category>
-            <category xml:id="prayerstaff">
+            <category>
                 <catDesc>prayerstaff</catDesc>
             </category>
-            <category xml:id="rod">
+            <category>
                 <catDesc>rod</catDesc>
             </category>
-            <category xml:id="scale">
+            <category>
                 <catDesc>scale</catDesc>
             </category>
-            <category xml:id="scroll">
+            <category>
                 <catDesc>scroll</catDesc>
             </category>
-            <category xml:id="shield">
+            <category>
                 <catDesc>shield</catDesc>
             </category>
-            <category xml:id="spear">
+            <category>
                 <catDesc>spear</catDesc>
             </category>
-            <category xml:id="sponge">
+            <category>
                 <catDesc>sponge</catDesc>
             </category>
-            <category xml:id="sword">
+            <category>
                 <catDesc>sword</catDesc>
             </category>
-            <category xml:id="vestment">
+            <category>
                 <catDesc>vestment</catDesc>
             </category>
         </category>
 
         <category>
             <desc>Art Themes</desc>
-            <category xml:id="AT1068AdamandEveeatfruit">
+            <category>
                 <catDesc>AT1068AdamandEveeatfruit</catDesc>
             </category>
-            <category xml:id="AT1001Agony">
+            <category>
                 <catDesc>AT1001Agony</catDesc>
             </category>
-            <category xml:id="AT1082Angel">
+            <category>
                 <catDesc>AT1082Angel</catDesc>
             </category>
-            <category xml:id="AT1002Annunciation">
+            <category>
                 <catDesc>AT1002Annunciation</catDesc>
             </category>
-            <category xml:id="AT1054AnnunciationZaccharia">
+            <category>
                 <catDesc>AT1054AnnunciationZaccharia</catDesc>
             </category>
-            <category xml:id="AT1046Apostle">
+            <category>
                 <catDesc>AT1046Apostle</catDesc>
             </category>
-            <category xml:id="AT1047Apostles">
+            <category>
                 <catDesc>AT1047Apostles</catDesc>
             </category>
-            <category xml:id="AT1003Arrest">
+            <category>
                 <catDesc>AT1003Arrest</catDesc>
             </category>
-            <category xml:id="AT1033Ascension">
+            <category>
                 <catDesc>AT1033Ascension</catDesc>
             </category>
-            <category xml:id="AT1038Baptism">
+            <category>
                 <catDesc>AT1038Baptism</catDesc>
             </category>
-            <category xml:id="AT1004Bitter">
+            <category>
                 <catDesc>AT1004Bitter</catDesc>
             </category>
-            <category xml:id="AT1062CoronationMary">
+            <category>
                 <catDesc>AT1062CoronationMary</catDesc>
             </category>
-            <category xml:id="AT1036MercyCovenant">
+            <category>
                 <catDesc>AT1036MercyCovenant</catDesc>
             </category>
-            <category xml:id="AT1005Crucifixion">
+            <category>
                 <catDesc>AT1005Crucifixion</catDesc>
             </category>
-            <category xml:id="AT1071Cross">
+            <category>
                 <catDesc>AT1071Cross</catDesc>
             </category>
-            <category xml:id="AT1079DavidGoliath">
+            <category>
                 <catDesc>AT1079DavidGoliath</catDesc>
             </category>
-            <category xml:id="AT1066DavidHarp">
+            <category>
                 <catDesc>AT1066DavidHarp</catDesc>
             </category>
-            <category xml:id="AT1006Denial">
+            <category>
                 <catDesc>AT1006Denial</catDesc>
             </category>
-            <category xml:id="AT1007Deposition">
+            <category>
                 <catDesc>AT1007Deposition</catDesc>
             </category>
-            <category xml:id="AT1008Descent">
+            <category>
                 <catDesc>AT1008Descent</catDesc>
             </category>
-            <category xml:id="AT1058DormitionMary">
+            <category>
                 <catDesc>AT1058DormitionMary</catDesc>
             </category>
-            <category xml:id="AT1009Doubting">
+            <category>
                 <catDesc>AT1009Doubting</catDesc>
             </category>
-            <category xml:id="AT1010Entombment">
+            <category>
                 <catDesc>AT1010Entombment</catDesc>
             </category>
-            <category xml:id="AT1011Entry">
+            <category>
                 <catDesc>AT1011Entry</catDesc>
             </category>
-            <category xml:id="AT1012Equestrian">
+            <category>
                 <catDesc>AT1012Equestrian</catDesc>
             </category>
-            <category xml:id="AT1013EvaPortrait">
+            <category>
                 <catDesc>AT1013EvaPortrait</catDesc>
             </category>
-            <category xml:id="AT1014Evangelists">
+            <category>
                 <catDesc>AT1014Evangelists</catDesc>
             </category>
-            <category xml:id="AT1015Flagellation">
+            <category>
                 <catDesc>AT1015Flagellation</catDesc>
             </category>
-            <category xml:id="AT1016Flight">
+            <category>
                 <catDesc>AT1016Flight</catDesc>
             </category>
-            <category xml:id="AT1101GodtheFather">
+            <category>
                 <catDesc>AT1101GodtheFather</catDesc>
             </category>
-            <category xml:id="AT1042HagiographicScene">
+            <category>
                 <catDesc>AT1042HagiographicScene</catDesc>
             </category>
-            <category xml:id="AT1051HistoricalPerson">
+            <category>
                 <catDesc>AT1051HistoricalPerson</catDesc>
             </category>
-            <category xml:id="AT1052HistoricalPersons">
+            <category>
                 <catDesc>AT1052HistoricalPersons</catDesc>
             </category>
-            <category xml:id="AT1053HistoricalScene">
+            <category>
                 <catDesc>AT1053HistoricalScene</catDesc>
             </category>
-            <category xml:id="AT1035HolyMan">
+            <category>
                 <catDesc>AT1035HolyMan</catDesc>
             </category>
-            <category xml:id="AT1041HolyMen">
+            <category>
                 <catDesc>AT1041HolyMen</catDesc>
             </category>
-            <category xml:id="AT1105HolyWoman">
+            <category>
                 <catDesc>AT1105HolyWoman</catDesc>
             </category>
-            <category xml:id="AT1106HolyWomen">
+            <category>
                 <catDesc>AT1106HolyWomen</catDesc>
             </category>
-            <category xml:id="AT1017WomenAtTomb">
+            <category>
                 <catDesc>AT1017WomenAtTomb</catDesc>
             </category>
-            <category xml:id="AT1018JBefPilate">
+            <category>
                 <catDesc>AT1018JBefPilate</catDesc>
             </category>
-            <category xml:id="AT1084JesusChrist">
+            <category>
                 <catDesc>AT1084JesusChrist</catDesc>
             </category>
-            <category xml:id="AT1070JesushealstheBlind">
+            <category>
                 <catDesc>AT1070JesushealstheBlind</catDesc>
             </category>
-            <category xml:id="AT1048Lamentation">
+            <category>
                 <catDesc>AT1048Lamentation</catDesc>
             </category>
-            <category xml:id="AT1057LastJudgement">
+            <category>
                 <catDesc>AT1057LastJudgement</catDesc>
             </category>
-            <category xml:id="AT1067LastSupper">
+            <category>
                 <catDesc>AT1067LastSupper</catDesc>
             </category>
-            <category xml:id="AT1019Cana">
+            <category>
                 <catDesc>AT1019Cana</catDesc>
             </category>
-            <category xml:id="AT1033Maiestas">
+            <category>
                 <catDesc>AT1033Maiestas</catDesc>
             </category>
-            <category xml:id="AT1061SaintMartyrdom">
+            <category>
                 <catDesc>AT1061SaintMartyrdom</catDesc>
             </category>
-            <category xml:id="AT1063AngelFeedsMary">
+            <category>
                 <catDesc>AT1063AngelFeedsMary</catDesc>
             </category>
-            <category xml:id="AT1099Mary">
+            <category>
                 <catDesc>AT1099Mary</catDesc>
             </category>
-            <category xml:id="AT1020Massacre">
+            <category>
                 <catDesc>AT1020Massacre</catDesc>
             </category>
-            <category xml:id="AT1021MiraclesOfJesus">
+            <category>
                 <catDesc>AT1021MiraclesOfJesus</catDesc>
             </category>
-            <category xml:id="AT1022MiraclesOfMary">
+            <category>
                 <catDesc>AT1022MiraclesOfMary</catDesc>
             </category>
-            <category xml:id="AT1023Mocking">
+            <category>
                 <catDesc>AT1023Mocking</catDesc>
             </category>
-            <category xml:id="AT1024MosesLaw">
+            <category>
                 <catDesc>AT1024MosesLaw</catDesc>
             </category>
-            <category xml:id="AT1025NativityJesus">
+            <category>
                 <catDesc>AT1025NativityJesus</catDesc>
             </category>
-            <category xml:id="AT1026NativityMary">
+            <category>
                 <catDesc>AT1026NativityMary</catDesc>
             </category>
-            <category xml:id="AT1050ApparitionResur">
+            <category>
                 <catDesc>AT1050ApparitionResur</catDesc>
             </category>
-            <category xml:id="AT1043PresentationMary">
+            <category>
                 <catDesc>AT1043PresentationMary</catDesc>
             </category>
-            <category xml:id="AT1027PresentationJesus">
+            <category>
                 <catDesc>AT1027PresentationJesus</catDesc>
             </category>
-            <category xml:id="AT1044Prophet">
+            <category>
                 <catDesc>AT1044Prophet</catDesc>
             </category>
-            <category xml:id="AT1045Prophets">
+            <category>
                 <catDesc>AT1045Prophets</catDesc>
             </category>
-            <category xml:id="AT1049Resurrection">
+            <category>
                 <catDesc>AT1049Resurrection</catDesc>
             </category>
-            <category xml:id="AT1065RoadtoCalvary">
+            <category>
                 <catDesc>AT1065RoadtoCalvary</catDesc>
             </category>
-            <category xml:id="AT1092SacrificeIsaac">
+            <category>
                 <catDesc>AT1092SacrificeIsaac</catDesc>
             </category>
-            <category xml:id="AT1096SavioroftheWorld">
+            <category>
                 <catDesc>AT1096SavioroftheWorld</catDesc>
             </category>
-            <category xml:id="AT1086StrikingHead">
+            <category>
                 <catDesc>AT1086StrikingHead</catDesc>
             </category>
-            <category xml:id="AT1028HebrewsFurnace">
+            <category>
                 <catDesc>AT1028HebrewsFurnace</catDesc>
             </category>
-            <category xml:id="AT1093TakingRobeofJesus">
+            <category>
                 <catDesc>AT1093TakingRobeofJesus</catDesc>
             </category>
-            <category xml:id="AT1034Tempietto">
+            <category>
                 <catDesc>AT1034Tempietto</catDesc>
             </category>
-            <category xml:id="AT1060TemptationJesus">
+            <category>
                 <catDesc>AT1060TemptationJesus</catDesc>
             </category>
-            <category xml:id="AT1029Transfiguration">
+            <category>
                 <catDesc>AT1029Transfiguration</catDesc>
             </category>
-            <category xml:id="AT1030Trinity">
+            <category>
                 <catDesc>AT1030Trinity</catDesc>
             </category>
-            <category xml:id="AT1031VirginAndChild">
+            <category>
                 <catDesc>AT1031VirginAndChild</catDesc>
             </category>
-            <category xml:id="AT1064Visitation">
+            <category>
                 <catDesc>AT1064Visitation</catDesc>
             </category>
-            <category xml:id="AT1032Washing">
+            <category>
                 <catDesc>AT1032Washing</catDesc>
             </category>
-            <category xml:id="AT1059WeighingOfSouls">
+            <category>
                 <catDesc>AT1059WeighingOfSouls</catDesc>
             </category>
             
-            <category xml:id="AT1107Synaxis">
+            <category>
                 <catDesc>AT1107Synaxis</catDesc>
             </category>
         </category>
@@ -913,235 +913,235 @@
 
         <category>
             <desc>Place types</desc>
-            <category xml:id="tabiya">
+            <category>
                 <catDesc>tabiya</catDesc>
             </category>
-            <category xml:id="dabr">
+            <category>
                 <catDesc>dabr</catDesc>
             </category>
-            <category xml:id="gadam">
+            <category>
                 <catDesc>gadam</catDesc>
             </category>
-            <category xml:id="gatar">
+            <category>
                 <catDesc>gatar</catDesc>
             </category>
-            <category xml:id="warada">
+            <category>
                 <catDesc>warada</catDesc>
             </category>
-            <category xml:id="settlement">
+            <category>
                 <catDesc>settlement</catDesc>
             </category>
-            <category xml:id="archaeologicalSite">
+            <category>
                 <catDesc>archaeologicalSite</catDesc>
             </category>
-            <category xml:id="shrine">
+            <category>
                 <catDesc>shrine</catDesc>
             </category>
-            <category xml:id="town">
+            <category>
                 <catDesc>town</catDesc>
             </category>
-            <category xml:id="region">
+            <category>
                 <catDesc>region</catDesc>
             </category>
-            <category xml:id="RegionalState">
+            <category>
                 <catDesc>RegionalState</catDesc>
             </category>
-            <category xml:id="monastery">
+            <category>
                 <catDesc>monastery</catDesc>
             </category>
-            <category xml:id="church">
+            <category>
                 <catDesc>church</catDesc>
             </category>
-            <category xml:id="lake">
+            <category>
                 <catDesc>lake</catDesc>
             </category>
-            <category xml:id="area">
+            <category>
                 <catDesc>area</catDesc>
             </category>
-            <category xml:id="river">
+            <category>
                 <catDesc>river</catDesc>
             </category>
-            <category xml:id="mountain">
+            <category>
                 <catDesc>mountain</catDesc>
             </category>
-            <category xml:id="mosque">
+            <category>
                 <catDesc>mosque</catDesc>
             </category>
-            <category xml:id="district">
+            <category>
                 <catDesc>district</catDesc>
             </category>
-            <category xml:id="valley">
+            <category>
                 <catDesc>valley</catDesc>
             </category>
-            <category xml:id="state">
+            <category>
                 <catDesc>state</catDesc>
             </category>
-            <category xml:id="port">
+            <category>
                 <catDesc>port</catDesc>
             </category>
-            <category xml:id="religiousSite">
+            <category>
                 <catDesc>religiousSite</catDesc>
             </category>
-            <category xml:id="zone">
+            <category>
                 <catDesc>zone</catDesc>
             </category>
-            <category xml:id="country">
+            <category>
                 <catDesc>country</catDesc>
             </category>
-            <category xml:id="qushat">
+            <category>
                 <catDesc>qushat</catDesc>
             </category>
-            <category xml:id="pass">
+            <category>
                 <catDesc>pass</catDesc>
             </category>
-            <category xml:id="island">
+            <category>
                 <catDesc>island</catDesc>
             </category>
-            <category xml:id="cataract">
+            <category>
                 <catDesc>cataract</catDesc>
             </category>
-            <category xml:id="kingdom">
+            <category>
                 <catDesc>kingdom</catDesc>
             </category>
-            <category xml:id="spring">
+            <category>
                 <catDesc>spring</catDesc>
             </category>
-            <category xml:id="plateau">
+            <category>
                 <catDesc>plateau</catDesc>
             </category>
-            <category xml:id="forest">
+            <category>
                 <catDesc>forest</catDesc>
             </category>
-            <category xml:id="administrativeUnit">
+            <category>
                 <catDesc>administrativeUnit</catDesc>
             </category>
-            <category xml:id="emirate">
+            <category>
                 <catDesc>emirate</catDesc>
             </category>
-            <category xml:id="plain">
+            <category>
                 <catDesc>plain</catDesc>
             </category>
-            <category xml:id="rockSite">
+            <category>
                 <catDesc>rockSite</catDesc>
             </category>
-            <category xml:id="volcano">
+            <category>
                 <catDesc>volcano</catDesc>
             </category>
-            <category xml:id="city">
+            <category>
                 <catDesc>city</catDesc>
             </category>
-            <category xml:id="falls">
+            <category>
                 <catDesc>falls</catDesc>
             </category>
-            <category xml:id="amba">
+            <category>
                 <catDesc>amba</catDesc>
             </category>
-            <category xml:id="sultanate">
+            <category>
                 <catDesc>sultanate</catDesc>
             </category>
-            <category xml:id="sea">
+            <category>
                 <catDesc>sea</catDesc>
             </category>
-            <category xml:id="cape">
+            <category>
                 <catDesc>cape</catDesc>
             </category>
-            <category xml:id="chapel">
+            <category>
                 <catDesc>chapel</catDesc>
             </category>
-            <category xml:id="zoba">
+            <category>
                 <catDesc>zoba</catDesc>
             </category>
-            <category xml:id="wadi">
+            <category>
                 <catDesc>wadi</catDesc>
             </category>
-            <category xml:id="dam">
+            <category>
                 <catDesc>dam</catDesc>
             </category>
-            <category xml:id="quarter">
+            <category>
                 <catDesc>quarter</catDesc>
             </category>
-            <category xml:id="well">
+            <category>
                 <catDesc>well</catDesc>
             </category>
-            <category xml:id="awragga">
+            <category>
                 <catDesc>awragga</catDesc>
             </category>
-            <category xml:id="site">
+            <category>
                 <catDesc>site</catDesc>
             </category>
-            <category xml:id="katama">
+            <category>
                 <catDesc>katama</catDesc>
             </category>
-            <category xml:id="oasis">
+            <category>
                 <catDesc>oasis</catDesc>
             </category>
-            <category xml:id="gorge">
+            <category>
                 <catDesc>gorge</catDesc>
             </category>
-            <category xml:id="strait">
+            <category>
                 <catDesc>strait</catDesc>
             </category>
-            <category xml:id="station">
+            <category>
                 <catDesc>station</catDesc>
             </category>
-            <category xml:id="post">
+            <category>
                 <catDesc>post</catDesc>
             </category>
-            <category xml:id="market">
+            <category>
                 <catDesc>market</catDesc>
             </category>
-            <category xml:id="temple">
+            <category>
                 <catDesc>temple</catDesc>
             </category>
-            <category xml:id="planet">
+            <category>
                 <catDesc>planet</catDesc>
             </category>
-            <category xml:id="fort">
+            <category>
                 <catDesc>fort</catDesc>
             </category>
-            <category xml:id="farm">
+            <category>
                 <catDesc>farm</catDesc>
             </category>
-            <category xml:id="desert">
+            <category>
                 <catDesc>desert</catDesc>
             </category>
-            <category xml:id="cave">
+            <category>
                 <catDesc>cave</catDesc>
             </category>
-            <category xml:id="gulf">
+            <category>
                 <catDesc>gulf</catDesc>
             </category>
-            <category xml:id="qabale">
+            <category>
                 <catDesc>qabale</catDesc>
             </category>
-            <category xml:id="peninsula">
+            <category>
                 <catDesc>peninsula</catDesc>
             </category>
-            <category xml:id="castle">
+            <category>
                 <catDesc>castle</catDesc>
             </category>
-            <category xml:id="bay">
+            <category>
                 <catDesc>bay</catDesc>
             </category>
-            <category xml:id="academicInstitution">
+            <category>
                 <catDesc>academicInstitution</catDesc>
             </category>
-            <category xml:id="library">
+            <category>
                 <catDesc>library</catDesc>
             </category>
-            <category xml:id="museum">
+            <category>
                 <catDesc>museum</catDesc>
             </category>
-            <category xml:id="province">
+            <category>
                 <catDesc>province</catDesc>
             </category>
-            <category xml:id="depression">
+            <category>
                 <catDesc>depression</catDesc>
             </category>
-            <category xml:id="privateHouse">
+            <category>
                 <catDesc>privateHouse</catDesc>
             </category>
-            <category xml:id="ford">
+            <category>
                 <catDesc>ford</catDesc>
             </category>
         </category>
@@ -1149,76 +1149,76 @@
 
         <category>
             <desc>Confessions</desc>
-            <category xml:id="Christianity">
+            <category>
                 <catDesc>Christianity</catDesc>
-                <category xml:id="EOTC">
+                <category>
                     <catDesc>EOTC</catDesc>
                 </category>
-                <category xml:id="Catholicism">
+                <category>
                     <catDesc>Catholicism</catDesc>
                 </category>
-                <category xml:id="Protestantism">
+                <category>
                     <catDesc>Protestantism</catDesc>
                 </category>
-                <category xml:id="Anglican">
+                <category>
                     <catDesc>Anglican</catDesc>
                 </category>
-                <category xml:id="Coptic">
+                <category>
                     <catDesc>Coptic</catDesc>
                 </category>
-                <category xml:id="Orthodox">
+                <category>
                     <catDesc>Orthodox</catDesc>
 
-                    <category xml:id="Syriac">
+                    <category>
                         <catDesc>Syriac</catDesc>
                     </category>
-                    <category xml:id="Greek">
+                    <category>
                         <catDesc>Greek</catDesc>
                     </category>
-                    <category xml:id="Russian">
+                    <category>
                         <catDesc>Russian</catDesc>
                     </category>
-                    <category xml:id="Armenian">
+                    <category>
                         <catDesc>Armenian</catDesc>
                     </category>
                 </category>
             </category>
-            <category xml:id="Islam">
+            <category>
                 <catDesc>Islam</catDesc>
 
-                <category xml:id="Sunni">
+                <category>
                     <catDesc>Sunni</catDesc>
                 </category>
 
-                <category xml:id="Shia">
+                <category>
                     <catDesc>Shia</catDesc>
                 </category>
             </category>
 
 
 
-            <category xml:id="Judaism">
+            <category>
                 <catDesc>Judaism</catDesc>
             </category>
-            <category xml:id="Ethiopian">
+            <category>
                 <catDesc>Ethiopian</catDesc>
             </category>
-            <category xml:id="Traditional">
+            <category>
                 <catDesc>Traditional</catDesc>
             </category>
-            <category xml:id="Aksumite">
+            <category>
                 <catDesc>Aksumite</catDesc>
             </category>
-            <category xml:id="Oromo">
+            <category>
                 <catDesc>Oromo</catDesc>
             </category>
-            <category xml:id="Gurage">
+            <category>
                 <catDesc>Gurage</catDesc>
             </category>
-            <category xml:id="church">
+            <category>
                 <catDesc>church</catDesc>
             </category>
-            <category xml:id="notSpecified">
+            <category>
                 <catDesc>notSpecified</catDesc>
             </category>
 
@@ -1227,135 +1227,135 @@
 
         <category>
             <desc>Subjects</desc>
-            <category xml:id="AmharicLiterature">
+            <category>
                 <catDesc>AmharicLiterature</catDesc>
             </category>
 
             <!--mycore-->
-            <category xml:id="Apocrypha">
+            <category>
                 <catDesc>Apocrypha</catDesc>
             </category>
-            <category xml:id="Miracle">
+            <category>
                 <catDesc>Miracle</catDesc>
             </category>
-            <category xml:id="NewTestament">
+            <category>
                 <catDesc>NewTestament</catDesc>
             </category>
-            <category xml:id="OldTestament">
+            <category>
                 <catDesc>OldTestament</catDesc>
             </category>
-            <category xml:id="BetaEsraelLiterature">
+            <category>
                 <catDesc>BetaEsraelLiterature</catDesc>
             </category>
-            <category xml:id="Bible">
+            <category>
                 <catDesc>Bible</catDesc>
             </category>
-            <category xml:id="Biography">
+            <category>
                 <catDesc>Biography</catDesc>
             </category>
-            <category xml:id="CanonLaw">
+            <category>
                 <catDesc>CanonLaw</catDesc>
             </category>
-            <category xml:id="Commentary">
+            <category>
                 <catDesc>Commentary</catDesc>
             </category>
-            <category xml:id="ChristianLiterature">
+            <category>
                 <catDesc>ChristianLiterature</catDesc>
             </category>
-            <category xml:id="Chronography">
+            <category>
                 <catDesc>Chronography</catDesc>
             </category>
-            <category xml:id="Crucifixion">
+            <category>
                 <catDesc>Crucifixion</catDesc>
             </category>
-            <category xml:id="Fiction">
+            <category>
                 <catDesc>Fiction</catDesc>
             </category>
-            <category xml:id="Hagiography">
+            <category>
                 <catDesc>Hagiography</catDesc>
             </category>
-            <category xml:id="HistoryAndHistoriography">
+            <category>
                 <catDesc>HistoryAndHistoriography</catDesc>
             </category>
-            <category xml:id="Chronicles">
+            <category>
                 <catDesc>Chronicles</catDesc>
             </category>
-            <category xml:id="Homily">
+            <category>
                 <catDesc>Homily</catDesc>
             </category>
-            <category xml:id="IslamicLiterature">
+            <category>
                 <catDesc>IslamicLiterature</catDesc>
             </category>
-            <category xml:id="Koran">
+            <category>
                 <catDesc>Koran</catDesc>
             </category>
-            <category xml:id="LegalDocument">
+            <category>
                 <catDesc>LegalDocument</catDesc>
             </category>
-            <category xml:id="Liturgy">
+            <category>
                 <catDesc>Liturgy</catDesc>
             </category>
-            <category xml:id="Chants">
+            <category>
                 <catDesc>Chants</catDesc>
             </category>
-            <category xml:id="Lectionary">
+            <category>
                 <catDesc>Lectionary</catDesc>
             </category>
-            <category xml:id="Missal">
+            <category>
                 <catDesc>Missal</catDesc>
             </category>
-            <category xml:id="Rituals">
+            <category>
                 <catDesc>Rituals</catDesc>
             </category>
-            <category xml:id="RitualsAndRites">
+            <category>
                 <catDesc>RitualsAndRites</catDesc>
             </category>
-            <category xml:id="TigrinyaLiterature">
+            <category>
                 <catDesc>TigrinyaLiterature</catDesc>
             </category>
-            <category xml:id="Translation">
+            <category>
                 <catDesc>Translation</catDesc>
             </category>
-            <category xml:id="Vocabulary">
+            <category>
                 <catDesc>Vocabulary</catDesc>
             </category>
-            <category xml:id="Magic">
+            <category>
                 <catDesc>Magic</catDesc>
             </category>
-            <category xml:id="Medicine">
+            <category>
                 <catDesc>Medicine</catDesc>
             </category>
-            <category xml:id="Miscellanea">
+            <category>
                 <catDesc>Miscellanea</catDesc>
             </category>
-            <category xml:id="MonasticLiterature">
+            <category>
                 <catDesc>MonasticLiterature</catDesc>
             </category>
-            <category xml:id="NaturalSciences">
+            <category>
                 <catDesc>NaturalSciences</catDesc>
             </category>
-            <category xml:id="Other">
+            <category>
                 <catDesc>Other</catDesc>
             </category>
-            <category xml:id="Philosophy">
+            <category>
                 <catDesc>Philosophy</catDesc>
             </category>
-            <category xml:id="Poetry">
+            <category>
                 <catDesc>Poetry</catDesc>
             </category>
-            <category xml:id="Prayers">
+            <category>
                 <catDesc>Prayers</catDesc>
             </category>
-            <category xml:id="Religion">
+            <category>
                 <catDesc>Religion</catDesc>
             </category>
-            <category xml:id="Theology">
+            <category>
                 <catDesc>Theology</catDesc>
             </category>
-            <category xml:id="ChristianContent">
+            <category>
                 <catDesc>ChristianContent</catDesc>
             </category>
-            <category xml:id="Letter">
+            <category>
                 <catDesc>Letter</catDesc>
             </category>
         </category>
@@ -1364,227 +1364,227 @@
 
         <category>
             <desc>Feasts</desc>
-            <category xml:id="Christian">
+            <category>
                 <catDesc>Christian</catDesc>
-                <category xml:id="AbrehawaAsbeha">
+                <category>
                     <catDesc>AbrehawaAsbeha</catDesc>
                 </category>
-                <category xml:id="Advent">
+                <category>
                     <catDesc>Advent</catDesc>
                 </category>
-                <category xml:id="Amanuel">
+                <category>
                     <catDesc>Amanuel</catDesc>
                 </category>
-                <category xml:id="Astamhero">
+                <category>
                     <catDesc>Astamhero</catDesc>
                 </category>
-                <category xml:id="Astareeyo">
+                <category>
                     <catDesc>Astareeyo</catDesc>
                 </category>
-                <category xml:id="Astasreyo">
+                <category>
                     <catDesc>Astasreyo</catDesc>
                 </category>
 
-                <category xml:id="Aynakwellu">
+                <category>
                     <catDesc>Aynakwellu</catDesc>
                 </category>
-                <category xml:id="BaalaEgzi">
+                <category>
                     <catDesc>BaalaEgzi</catDesc>
                 </category>
-                <category xml:id="BaalaNegestu">
+                <category>
                     <catDesc>BaalaNegestu</catDesc>
                 </category>
-                <category xml:id="Baata">
+                <category>
                     <catDesc>Baata</catDesc>
                 </category>
-                <category xml:id="BaataGebs">
+                <category>
                     <catDesc>BaataGebs</catDesc>
                 </category>
-                <category xml:id="Baptism">
+                <category>
                     <catDesc>Baptism</catDesc>
                 </category>
-                <category xml:id="Barakaegziena">
+                <category>
                     <catDesc>Barakaegziena</catDesc>
                 </category>
-                <category xml:id="Berhansaraqa">
+                <category>
                     <catDesc>Berhansaraqa</catDesc>
                 </category>
-                <category xml:id="BezuhanMaryam">
+                <category>
                     <catDesc>BezuhanMaryam</catDesc>
                 </category>
-                <category xml:id="Berhan">
+                <category>
                     <catDesc>Berhan</catDesc>
                 </category>
-                <category xml:id="CanaofGalilee">
+                <category>
                     <catDesc>CanaofGalilee</catDesc>
                 </category>
-                <category xml:id="ChristmasLedat">
+                <category>
                     <catDesc>ChristmasLedat</catDesc>
                 </category>
-                <category xml:id="CrucifixionSeqlat">
+                <category>
                     <catDesc>CrucifixionSeqlat</catDesc>
                 </category>
-                <category xml:id="DabraMetmaq">
+                <category>
                     <catDesc>DabraMetmaq</catDesc>
                 </category>
-                <category xml:id="DabraQwesqwam">
+                <category>
                     <catDesc>DabraQwesqwam</catDesc>
                 </category>
-                <category xml:id="DabraSeyon">
+                <category>
                     <catDesc>DabraSeyon</catDesc>
                 </category>
-                <category xml:id="DabraTabor">
+                <category>
                     <catDesc>DabraTabor</catDesc>
                 </category>
-                <category xml:id="DabraZayt">
+                <category>
                     <catDesc>DabraZayt</catDesc>
                 </category>
-                <category xml:id="Daqseyos">
+                <category>
                     <catDesc>Daqseyos</catDesc>
                 </category>
-                <category xml:id="Easter">
+                <category>
                     <catDesc>Easter</catDesc>
                 </category>
-                <category xml:id="Erafta">
+                <category>
                     <catDesc>Erafta</catDesc>
                 </category>
-                <category xml:id="Ergata">
+                <category>
                     <catDesc>Ergata</catDesc>
                 </category>
-                <category xml:id="Felsata">
+                <category>
                     <catDesc>Felsata</catDesc>
                 </category>
-                <category xml:id="FlightintoEgypt">
+                <category>
                     <catDesc>FlightintoEgypt</catDesc>
                 </category>
-                <category xml:id="Ganna">
+                <category>
                     <catDesc>Ganna</catDesc>
                 </category>
-                <category xml:id="Gezrat">
+                <category>
                     <catDesc>Gezrat</catDesc>
                 </category>
-                <category xml:id="Gubaeqana">
+                <category>
                     <catDesc>Gubaeqana</catDesc>
                 </category>
-                <category xml:id="Hanna">
+                <category>
                     <catDesc>Hanna</catDesc>
                 </category>
-                <category xml:id="Lebbamedr">
+                <category>
                     <catDesc>Lebbamedr</catDesc>
                 </category>
-                <category xml:id="Mabraq">
+                <category>
                     <catDesc>Mabraq</catDesc>
                 </category>
-                <category xml:id="MadhaneAlam">
+                <category>
                     <catDesc>MadhaneAlam</catDesc>
                 </category>
-                <category xml:id="Maedot">
+                <category>
                     <catDesc>Maedot</catDesc>
                 </category>
-                <category xml:id="Maerar">
+                <category>
                     <catDesc>Maerar</catDesc>
                 </category>
-                <category xml:id="MaryamSeyon">
+                <category>
                     <catDesc>MaryamSeyon</catDesc>
                 </category>
-                <category xml:id="Masqal">
+                <category>
                     <catDesc>Masqal</catDesc>
                 </category>
-                <category xml:id="NativityofMary">
+                <category>
                     <catDesc>NativityofMary</catDesc>
                 </category>
-                <category xml:id="CNewYear">
+                <category>
                     <catDesc>CNewYear</catDesc>
                 </category>
-                <category xml:id="Nineveh">
+                <category>
                     <catDesc>Nineveh</catDesc>
                 </category>
-                <category xml:id="PalmSunday">
+                <category>
                     <catDesc>PalmSunday</catDesc>
                 </category>
-                <category xml:id="Pentecost">
+                <category>
                     <catDesc>Pentecost</catDesc>
                 </category>
-                <category xml:id="Qedameseur">
+                <category>
                     <catDesc>Qedameseur</catDesc>
                 </category>
-                <category xml:id="Qeddasebeta">
+                <category>
                     <catDesc>Qeddasebeta</catDesc>
                 </category>
-                <category xml:id="Sawit">
+                <category>
                     <catDesc>Sawit</catDesc>
                 </category>
-                <category xml:id="Seddat">
+                <category>
                     <catDesc>Seddat</catDesc>
                 </category>
-                <category xml:id="Tadewos">
+                <category>
                     <catDesc>Tadewos</catDesc>
                 </category>
-                <category xml:id="Tentasomaledat">
+                <category>
                     <catDesc>Tentasomaledat</catDesc>
                 </category>
-                <category xml:id="Tesbeet">
+                <category>
                     <catDesc>Tesbeet</catDesc>
                 </category>
-                <category xml:id="Tomas">
+                <category>
                     <catDesc>Tomas</catDesc>
                 </category>
             </category>
-            <category xml:id="Islamic">
+            <category>
                 <catDesc>Islamic</catDesc>
-                <category xml:id="Arafa">
+                <category>
                     <catDesc>Arafa</catDesc>
                 </category>
-                <category xml:id="Ashura">
+                <category>
                     <catDesc>Ashura</catDesc>
                 </category>
-                <category xml:id="Ayyamattashriq">
+                <category>
                     <catDesc>Ayyamattashriq</catDesc>
                 </category>
-                <category xml:id="Idaladha">
+                <category>
                     <catDesc>Idaladha</catDesc>
                 </category>
-                <category xml:id="Idalfitr">
+                <category>
                     <catDesc>Idalfitr</catDesc>
                 </category>
-                <category xml:id="LaylatalBaraat">
+                <category>
                     <catDesc>LaylatalBaraat</catDesc>
                 </category>
-                <category xml:id="Laylatalqadr">
+                <category>
                     <catDesc>Laylatalqadr</catDesc>
                 </category>
-                <category xml:id="Mawlid">
+                <category>
                     <catDesc>Mawlid</catDesc>
                 </category>
-                <category xml:id="INewYear">
+                <category>
                     <catDesc>INewYear</catDesc>
                 </category>
-                <category xml:id="Ramadan">
+                <category>
                     <catDesc>Ramadan</catDesc>
                 </category>
             </category>
 
-            <category xml:id="Jewish">
+            <category>
                 <catDesc>Jewish</catDesc>
-                <category xml:id="Hanukkah">
+                <category>
                     <catDesc>Hanukkah</catDesc>
                 </category>
-                <category xml:id="JNewYear">
+                <category>
                     <catDesc>JNewYear</catDesc>
                 </category>
-                <category xml:id="Passover">
+                <category>
                     <catDesc>Passover</catDesc>
                 </category>
-                <category xml:id="Purim">
+                <category>
                     <catDesc>Purim</catDesc>
                 </category>
-                <category xml:id="Shavuot">
+                <category>
                     <catDesc>Shavuot</catDesc>
                 </category>
-                <category xml:id="Tabernacles">
+                <category>
                     <catDesc>Tabernacles</catDesc>
                 </category>
-                <category xml:id="Yomkippur">
+                <category>
                     <catDesc>Yomkippur</catDesc>
                 </category>
             </category>
