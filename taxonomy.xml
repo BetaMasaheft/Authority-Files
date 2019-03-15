@@ -246,6 +246,23 @@
 
 
         <category>
+            <desc>Person Types</desc>
+            <category>
+                <catDesc>saint</catDesc>
+            </category>
+            <category>
+                <catDesc>biblical</catDesc>
+            </category>
+            <category>
+                <catDesc>prophet</catDesc>
+            </category>
+            <category>
+                <catDesc>angel</catDesc>
+            </category>
+        </category>
+        
+
+        <category>
             <desc>Periods</desc>
             <category>
                 <catDesc>PreAks</catDesc>

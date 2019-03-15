@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
 schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AT1035HolyMan"
+     xml:id="biblical"
      xml:lang="en"
      type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Holy Man Portrait</title>
+                <title>Biblical</title>
                 <editor role="generalEditor" key="AB"/>
-                <editor key="JG"/>
+                <editor key="DR"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -34,9 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>From the fourteenth century onwards Ethiopic manuscripts frequently feature portraits of standing saints. Some figures, such as 
-                    <persName ref="PRS9162TaklaHa"/> or <persName ref="PRS4306GabraMa"/>, have specific iconographic features, whereas others have generic ecclesiastical attributes.
-                </p>
+                <p/>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -47,18 +45,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="JG" when="2017-12-04">Created entity</change>
+            <change who="DR" when="2019-03-15">Created entity</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography">
-                    <listBibl type="secondary">
-                        <bibl>
-                            <ptr target="bm:Balicka2010PaintingSubjects"/>
-                        </bibl>    
-                    </listBibl>
-            </div>
+            <div type="bibliography"/>
         </body>
     </text>
 </TEI>
