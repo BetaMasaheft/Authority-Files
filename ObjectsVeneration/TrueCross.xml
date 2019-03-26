@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
 schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xml:id="Masqal"
-   xml:lang="en"
-   type="auth">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="TrueCross">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Masqal</title>
-            <editor role="generalEditor" key="AB"/>
+            <title xml:id="t1">True Cross</title>
+            <title xml:id="t2">Masqal</title>
             <editor key="ES"/>
+            <editor key="AB" role="generalEditor"/>
             <funder>Akademie der Wissenschaften in Hamburg</funder>
          </titleStmt>
          <publicationStmt>
@@ -21,20 +19,17 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <pubPlace>Hamburg</pubPlace>
             <availability>
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
-                  licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                            licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <p/>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <p>A digital born TEI file</p>
-      </encodingDesc>
       <profileDesc>
          <creation/>
          <abstract>
-            <p> The Feast celebrating the <ref corresp="TrueCross" type="authFile">True Cross</ref> .
+            <p> The True Cross (Masqal) as object of veneration.
             </p>
          </abstract>
          <langUsage>
@@ -46,13 +41,18 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
-         <change who="PL" when="2016-05-11">prepared XML file</change>
+         <change who="ES" when="2019-03-26">created</change>
+         
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <ab/>
+                  <listRelation>
+                     <relation name="saws:isRelatedTo" active="TrueCross" passive="Masqal"></relation>
+                     <relation name="saws:isRelatedTo" active="TrueCross" passive="AT1071Cross"></relation>
+                  </listRelation>
       </body>
+      
    </text>
 </TEI>

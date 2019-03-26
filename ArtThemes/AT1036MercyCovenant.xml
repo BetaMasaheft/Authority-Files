@@ -34,7 +34,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p> The artistic representation of the <ref corresp="CovenantMercy" type="authFile">Covenant of Mercy</ref> .
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>

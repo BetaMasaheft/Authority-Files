@@ -1,19 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
-schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT1071Cross" xml:lang="en" type="auth">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="CovenantMercy"
+     xml:lang="en"
+     type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cross</title>
+                <title xml:id="t1">Kidāna Mǝḥrat</title>
+                <title xml:id="t2">Covenant of Mercy</title>
+                <title xml:id="t3">Pact of Mercy</title>
                 <editor role="generalEditor" key="AB"/>
-                <editor key="RL"/>
+                <editor key="ES"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
                 <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
-                <publisher>Die Schriftkultur des christlichen Äthiopiens: Eine multimediale
-                            Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
                 <pubPlace>Hamburg</pubPlace>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
@@ -30,8 +36,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p> The artistic representation of the <ref corresp="TrueCross" type="authFile">True Cross</ref> .
-                </p>
+                <p>The Pact of Mercy: the agreement with Virgin Mary; depicted in art as <ref corresp="AT1036MercyCovenant" type="authFile"></ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -42,12 +47,16 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="RL" when="2018-06-25">Created entity</change>
+            <change who="ES" when="2019-03-26">Created entity</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <div type="bibliography"/>
+            <listRelation>
+                <relation name="saws:isRelatedTo" active="CovenantMercy" passive="AT1036MercyCovenant"></relation>
+                <relation name="saws:isRelatedTo" active="CovenantMercy" passive="LIT1718Kidana LIT1939Mashaf"></relation>
+            </listRelation>
         </body>
     </text>
 </TEI>
