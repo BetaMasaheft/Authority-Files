@@ -1184,9 +1184,7 @@
             <desc>Confessions</desc>
             <category>
                 <catDesc>Christianity</catDesc>
-                <category>
-                    <catDesc>EOTC</catDesc>
-                </category>
+            
                 <category>
                     <catDesc>Catholicism</catDesc>
                 </category>
@@ -1196,12 +1194,16 @@
                 <category>
                     <catDesc>Anglican</catDesc>
                 </category>
-                <category>
-                    <catDesc>Coptic</catDesc>
-                </category>
+            
                 <category>
                     <catDesc>Orthodox</catDesc>
 
+                    <category>
+                        <catDesc>EOTC</catDesc>
+                    </category>
+                    <category>
+                        <catDesc>Coptic</catDesc>
+                    </category>
                     <category>
                         <catDesc>Syriac</catDesc>
                     </category>
@@ -1234,9 +1236,6 @@
                 <catDesc>Judaism</catDesc>
             </category>
             <category>
-                <catDesc>Ethiopian</catDesc>
-            </category>
-            <category>
                 <catDesc>Traditional</catDesc>
             </category>
             <category>
@@ -1247,9 +1246,6 @@
             </category>
             <category>
                 <catDesc>Gurage</catDesc>
-            </category>
-            <category>
-                <catDesc>church</catDesc>
             </category>
             <category>
                 <catDesc>notSpecified</catDesc>
