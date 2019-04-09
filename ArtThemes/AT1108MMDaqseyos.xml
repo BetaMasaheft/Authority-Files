@@ -8,6 +8,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>Miracle of Mary: Daqsǝyos</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="DR"/>
+                <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -29,12 +30,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p>Two miniatures illustrating <ref type="work" corresp="LIT3586Miracle"/> in several episodes. The first miniature depicts in the first episode  <persName ref="PRS5555Ildefons"/> handing over to <persName ref="PRS6819Mary"/>
-                    the finished book of the <ref type="work" corresp="LIT2384Taamme"/>, which she blesses and returns to him. In the second episode, <persName ref="PRS6819Mary"/> presents
-                    to <persName ref="PRS5555Ildefons"/> a throne and garment. In the first episode of the second miniature, <persName ref="PRS5555Ildefons"/>
-                    is represented sitting on the throne and reading from the <ref type="work" corresp="LIT2384Taamme"/>. The second episode shows the stripped throne and garment after the fall 
-                    of <persName ref="PRS5555Ildefons"/>'s successor. In the last episode, <persName ref="PRS5555Ildefons"/>'s successor is depicted fallen and being smitten by
-                    the <term key="angel">angel</term>. All episodes are accompanied by legends and captions.</p>
+                <p>A miniature illustrating <ref type="work" corresp="LIT3586Miracle"/> typically 
+                    with as a sequence of three episodes/events, showing: first, <persName ref="PRS5555Ildefons"/> handing 
+                    over to <persName ref="PRS6819Mary"/> the finished book of the <ref type="work" corresp="LIT2384Taamme"/>, which she blesses and returns to him;  second, 
+                    <persName ref="PRS6819Mary"/> presenting to <persName ref="PRS5555Ildefons"/> a throne and garment; and third, Hildephonsus of Toledo's 
+                    successor falling and being smitten by an <term key="angel">angel</term> for having touched Mary's gifts to Hildephonsus without 
+                    permission.
+                    </p>
             </abstract>
             <textClass>
                 <keywords>
@@ -54,11 +56,17 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-04-09">Created entity</change>
+            <change who="JG" when="2019-04-09">Edited entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+            <listBibl type="secondary">
+                <bibl>
+                    <ptr target="bm:1972Annequin"/>
+                </bibl>  
+</listBibl>
             <listRelation>
                 <relation name="ecrm:P129_is_about" active="AT1108MMDaqseyos" passive="LIT3586Miracle"/>
                 <relation name="ecrm:P129_is_about" active="AT1108MMDaqseyos" passive="PRS5555Ildefons"/>
