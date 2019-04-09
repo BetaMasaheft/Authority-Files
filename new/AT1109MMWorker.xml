@@ -1,0 +1,65 @@
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT1109MMWorker" xml:lang="en" type="auth">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Miracle of Mary: Mary speaks to a worker</title>
+                <editor role="generalEditor" key="AB"/>
+                <editor key="DR"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens: Eine multimediale
+                            Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                                licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>A digital born TEI file</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <abstract>
+                <p>Miniature illustrating <ref type="work" corresp="LIT3588Miracle"/>. The miniature shows the worker standing at the right and <persName ref="PRS6819Mary"/>, 
+                    who performs a <term key="gestureblessing"/>,
+                sitting on a throne at the left, holding her son. It is accompanied by captions and legends.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="ar">Arabic</language>
+                <language ident="it">Italian</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term key="Apocrypha"/>
+                    <term key="Miracle"/>
+                    <term key="Hagiography"/>
+                    <term key="ChristianContent"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="DR" when="2019-04-09">Created entity</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="bibliography"/>
+            <listRelation>
+                <relation name="ecrm:P129_is_about" active="AT1109MMWorker" passive="LIT3588Miracle"/>
+            </listRelation>
+        </body>
+    </text>
+</TEI>

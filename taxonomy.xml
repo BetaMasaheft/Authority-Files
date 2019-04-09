@@ -941,6 +941,12 @@
             <category>
                 <catDesc>AT1107Synaxis</catDesc>
             </category>
+            <category>
+                <catDesc>AT1108MMDaqseyos</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1109MMWorker</catDesc>
+            </category>
         </category>
 
 
