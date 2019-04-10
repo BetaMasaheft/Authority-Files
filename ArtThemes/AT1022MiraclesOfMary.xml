@@ -10,7 +10,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Miracles of Mary</title>
+                <title>Miracle of Mary: Unidentified miracle</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>A miniature illustrating a yet unidentified Miracle of Mary.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -48,12 +48,15 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <change who="JG" when="2017-11-07">Created entity</change>
             <change when="2018-03-21" who="ES">added Temple  miracle</change>
             <change when="2018-04-05" who="ES">removed Temple  miracle</change>
+            <change when="2019-04-10" who="DR">Changed title to unidentified, added relation and abstract</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <div type="bibliography"/>
-            
+            <listRelation>
+                <relation name="ecrm:P129_is_about" active="AT1022MiraclesOfMary" passive="LIT2384Taamme"/>
+            </listRelation>
         </body>
     </text>
 </TEI>
