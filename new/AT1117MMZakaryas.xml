@@ -1,0 +1,65 @@
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT1117MMZakaryas" xml:lang="en" type="auth">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Miracle of Mary: Zakāryās, who used to bring roses to the icon of St Mary</title>
+                <editor role="generalEditor" key="AB"/>
+                <editor key="DR"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens: Eine multimediale
+                            Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                                licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>A digital born TEI file</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <abstract>
+                <p>A miniature illustrating <ref type="work" corresp="LIT3596Miracle"/> typically 
+                    with as a sequence of seven episodes/events, showing: first, the youth Zakāryās fastening a crown of roses to an icon of <persName ref="PRS6819Mary"/>; Zakāryās
+                    praying the greeting of the angel before the icon of Mary, Zakāryās prosterning himself; the chief of the thieves hiding behind a tree; Zakāryās standing before
+                    <persName ref="PRS6819Mary"/>, who is sitting on a throne surrounded by angels, and collects roses out of his mouth; the thieves hiding behind trees;
+                    the thieves being consecrated as monks.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="ar">Arabic</language>
+                <language ident="it">Italian</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change who="DR" when="2019-04-26">Created entity</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:1972Annequin"/>
+                    </bibl>  
+                </listBibl>
+                <listRelation>
+                    <relation name="ecrm:P129_is_about" active="AT1117MMZakaryas" passive="LIT3596Miracle"/>
+                </listRelation>
+            </div>
+        </body>
+    </text>
+</TEI>
