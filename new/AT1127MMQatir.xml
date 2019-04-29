@@ -1,0 +1,64 @@
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT1127MMQatir" xml:lang="en" type="auth">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Miracle of Mary: Kaṭir, the old priest at ʾƎlkǝsus</title>
+                <editor role="generalEditor" key="AB"/>
+                <editor key="DR"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens: Eine multimediale
+                            Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                                licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>A digital born TEI file</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <abstract>
+                <p>A miniature illustrating <ref type="work" corresp="LIT3606Miracle"/> typically 
+                    with as a sequence of three episodes/events, showing: first, the custodian of the church standing in front of the sitting Kaṭir ordering him to leave the church;
+                    second, <persName ref="PRS6819Mary"/> sitting on a throne surrounded by two <term key="angel">angels</term> with the custodian of the church 
+                    sitting before her; third, Kaṭir standing before <persName ref="PRS6819Mary"/>, who is sitting on throne and performs a <term key="gestureblessing">blessing gesture</term>.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="ar">Arabic</language>
+                <language ident="it">Italian</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change who="DR" when="2019-04-29">Created entity</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:1972Annequin"/>
+                    </bibl>  
+                </listBibl>
+                <listRelation>
+                    <relation name="ecrm:P129_is_about" active="AT1127MMQatir" passive="LIT3606Miracle"/>
+                </listRelation>
+            </div>
+        </body>
+    </text>
+</TEI>
