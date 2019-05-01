@@ -1,0 +1,65 @@
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT1129MMFrank" xml:lang="en" type="auth">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Miracle of Mary: The stone-footed man from France</title>
+                <editor role="generalEditor" key="AB"/>
+                <editor key="DR"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens: Eine multimediale
+                            Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                                licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>A digital born TEI file</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <abstract>
+                <p>A miniature illustrating <ref type="work" corresp="LIT3608Miracle"/> typically 
+                    with as a sequence of three episodes/events, showing: first, the bishop sitting on a throne before the people, who
+                are gathered in a church, and amongst whom is the man with the petrified foot; second, the man with the petrified foot
+                standing and praying before an icon of <persName ref="PRS6819Mary"/> holding Christ while his foot is healed; third, the man showing 
+                his healed foot to the bishop with the people standing in the background.</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="ar">Arabic</language>
+                <language ident="it">Italian</language>
+                <language ident="am">Amharic</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change who="DR" when="2019-05-01">Created entity</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:1972Annequin"/>
+                    </bibl>  
+                </listBibl>
+                <listRelation>
+                    <relation name="ecrm:P129_is_about" active="AT1129MMFrank" passive="LIT3608Miracle"/>
+                </listRelation>
+            </div>
+        </body>
+    </text>
+</TEI>
