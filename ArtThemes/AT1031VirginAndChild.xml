@@ -39,9 +39,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     the infant <persName ref="PRS5684JesusCh"/>.  It frequently features two 
                     angels in the background, generally identified as <persName ref="PRS4377Gabriel"/>
                     and <persName ref="PRS7049Michael"/>. In examples of the Second Gondarine Style
-                    and Post Gondarine Style it is common to find a donor 
+                    and Post Gondarine Style it is common to find a donor. 
                     The theme is one of the most frequently depicted subjects in Ethiopian manuscript illustration. 
-                    It is not suprising, then, a number of typologies are attested in the Ethiopian tradition.
+                    It is not surprising, then, that a number of typologies are attested in the Ethiopian tradition.
                     These are:
                     <list>
                         <item>Type I <desc>  Eleusa, Eleousa, Virgin of Tenderness, Madonna Eleusa, 
@@ -95,7 +95,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </bibl>
                 </listBibl>
                 <listRelation>
-               <relation name="saws:contains"  active="AT1031VirginAndChild" passive="PRS6819Mary PRS5684JesusCh">
+               <relation name="ecrm:P129_is_about"  active="AT1031VirginAndChild" passive="PRS6819Mary PRS5684JesusCh">
                         <desc/>
                     </relation>
             </listRelation>

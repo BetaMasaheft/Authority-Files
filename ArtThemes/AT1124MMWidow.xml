@@ -32,7 +32,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3603Miracle"/> typically 
                     with as a sequence of three episodes/events, showing: first, the poor widow praying before the 
-                    icon of <persName ref="PRS6819Mary"/> holding Christ, below which her three daughters are sitting; second, the funeral of the eldest daugher, who is wrappen in a shroud and surrounded
+                    the icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>, below which her three daughters are sitting; second, the funeral of the eldest daugher, who is wrappen in a shroud and surrounded
                     by persons; third, the two other daughters standing next to the blacksmith.</p>
             </abstract>
             <langUsage>

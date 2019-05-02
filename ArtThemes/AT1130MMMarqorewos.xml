@@ -33,8 +33,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3609Miracle"/> typically 
                     with as a sequence of five episodes/events, showing: first, the leprous bishop standing before the sitting patriarch and showing him his leprosy;
                     second, the bishop praying
-                    before an icon of <persName ref="PRS6819Mary"/>, who performs a <term key="gestureblessing">blessing gesture</term>, and is
-                    holding Christ; third the bishop showing himself healed to his student; fourth, the bishop showing himself healed to the
+                    before the icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>; third the bishop showing himself healed to his student; fourth, the bishop showing himself healed to the
                 patriarch and fifth, the healed bishop distributing the Eucharist.</p>
             </abstract>
             <langUsage>

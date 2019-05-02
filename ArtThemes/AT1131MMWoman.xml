@@ -32,7 +32,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3610Miracle"/> typically 
                     with as a sequence of five episodes/events, showing: first, two men carrying the woman with a broken foot on a stretcher;
-                    second, the woman lying below an icon of <persName ref="PRS6819Mary"/>   holding Christ; second, <persName ref="PRS6819Mary"/>
+                    second, the woman lying below the icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>; second, <persName ref="PRS6819Mary"/>
                 extending her foot to touch the woman lying below her; third, the custodian of the church and the healed woman standing before
                 the icon of <persName ref="PRS6819Mary"/>, who is extending her hand.</p>
             </abstract>

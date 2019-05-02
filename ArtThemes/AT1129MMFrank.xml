@@ -33,7 +33,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3608Miracle"/> typically 
                     with as a sequence of three episodes/events, showing: first, the bishop sitting on a throne before the people, who
                 are gathered in a church, and amongst whom is the man with the petrified foot; second, the man with the petrified foot
-                standing and praying before an icon of <persName ref="PRS6819Mary"/> holding Christ while his foot is healed; third, the man showing 
+                standing and praying before an icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref> while his foot is healed; third, the man showing 
                 his healed foot to the bishop with the people standing in the background.</p>
             </abstract>
             <langUsage>

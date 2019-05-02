@@ -31,7 +31,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3600Miracle"/> typically 
-                    with as a sequence of two episodes/events, showing: first, the priest Yoḥannǝs is depicted standing praying before the icon of <persName ref="PRS6819Mary"/> holding Christ;
+                    with as a sequence of two episodes/events, showing: first, the priest Yoḥannǝs is depicted standing praying before the icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>;
                     second, <persName ref="PRS6819Mary"/> is taking out a breast and dropping her milk into the eyes of Yoḥannǝs.</p>
             </abstract>
             <langUsage>

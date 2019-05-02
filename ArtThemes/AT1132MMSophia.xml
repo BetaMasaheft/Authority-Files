@@ -31,7 +31,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3611Miracle"/> typically 
-                    with as a sequence of six episodes/events, showing: first, Sofyā lying on top of a building before an icon of <persName ref="PRS6819Mary"/>   holding Christ
+                    with as a sequence of six episodes/events, showing: first, Sofyā lying on top of a building before the icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>
                     while an <term key="angel">angel</term> carries away the child from her womb; second, the <term key="angel">angel</term>
                 handing the child to Finkǝs; third, the bishop sitting on a throne in front of a group of women accusing Sofyā; fourth, the bishop and Sofyā
                 sitting next to each other; fifth, the bishop sitting next to Finkǝs and the child; sixth, the child as a grown man surrounded by two persons.</p>

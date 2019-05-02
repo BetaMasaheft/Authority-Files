@@ -32,7 +32,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3612Miracle"/> typically 
                     with as a sequence of six episodes/events, showing: first, Bārok sitting in his house surrounded by those for whom he makes a feast; second, his guests
-                    sitting and drinking wine; third, the icon of <persName ref="PRS6819Mary"/> holding Christ; fourth, Bārok being consecrated as a monk; fifth,
+                    sitting and drinking wine; third, the icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>; fourth, Bārok being consecrated as a monk; fifth,
                 Bārok surrounded by his attackers who are holding various weapons; sixth, the funeral of Bārok.</p>
             </abstract>
             <langUsage>
@@ -52,7 +52,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <div type="bibliography">
                 <listBibl type="secondary">
                     <bibl>
-                        <ptr target="bm:1972Annequin"/>
+                        <ptr target="bm:1972Annequin"/><citedRange unit="page">201</citedRange>
                     </bibl>  
                 </listBibl>
                 <listRelation>

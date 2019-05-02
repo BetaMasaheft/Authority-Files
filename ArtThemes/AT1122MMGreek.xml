@@ -32,8 +32,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3601Miracle"/> typically 
                     with as a sequence of three episodes/events, showing: first, the rich man from Qʷalāsis travelling with his companions on a ship; second, 
-                the rich man fallen after his eye has been pierced by arrows from a group of enemies; third, the rich man standing next to a small statue of himself in front of the 
-                icon of <persName ref="PRS6819Mary"/> holding Christ.</p>
+                the rich man fallen after his eye has been pierced by arrows from a group of enemies; third, the rich man standing next to a small statue of himself in front of  
+                the icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
