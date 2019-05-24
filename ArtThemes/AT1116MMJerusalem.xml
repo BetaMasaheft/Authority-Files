@@ -32,7 +32,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3595Miracle"/> typically in six episodes/scenes, showing, from the bottom left to the right:
                     the sick pilgrim lying in bed; the sick pilgrim standing before the places to which Mary carries him: in varying sequence Golgotha, Jerualem, the mount of Olives,
-                    Bethlehem and the Jordan. In the middle, <persName ref="PRS6819Mary"/> is standing.
+                    Bethlehem and the Jordan. <persName ref="PRS6819Mary"/> is standing in the middle.
                 </p>
             </abstract>
             <langUsage>
