@@ -8,6 +8,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>Miracle of Mary: ʾAbbās, bishop of Rome</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="DR"/>
+                <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -33,8 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3591Miracle"/> typically 
                     with as a sequence of three episodes/events, showing: first, the bishop ʾAbbās standing and distributing communion surrounded by the faithful, among whom is the woman who kisses his hand;
                     second, the bishop sitting and cutting off his hand; third, the bishop and the faithful standing in front of the icon of the
-                    <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>, which has healed his hand. In the background,
-                    elements of a church structure are depicted.
+                    <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>, which has healed his hand.
                 </p>
             </abstract>
             <langUsage>
@@ -47,6 +47,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-04-26">Created entity</change>
+            <change who="JG" when="2019-05-24">Broadened descriptive vocabulary</change>
         </revisionDesc>
     </teiHeader>
     <text>
