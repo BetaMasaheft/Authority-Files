@@ -8,6 +8,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>Miracle of Mary: Māryām of Dafrā</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="DR"/>
+                <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -31,7 +32,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3593Miracle"/> typically 
-                    showing <persName ref="PRS6819Mary"/> standing in the middle with the girl Māryām standing to the right and the church to the left.
+                    showing <persName ref="PRS6819Mary"/> standing next to Māryām of Dafrā.
                 </p>
             </abstract>
             <langUsage>
@@ -44,6 +45,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-04-26">Created entity</change>
+            <change who="JG" when="2019-05-24">Broadened descriptive vocabulary</change>
         </revisionDesc>
     </teiHeader>
     <text>
