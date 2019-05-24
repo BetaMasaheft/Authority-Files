@@ -8,6 +8,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>Miracle of Mary: Yolyānā and Barbārā from Bethlehem</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="DR"/>
+                <editor key="JG"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -31,9 +32,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
                 <abstract>
                     <p>A miniature illustrating <ref type="work" corresp="LIT3597Miracle"/> typically 
-                        with as a sequence of two episodes/events, showing: first, the two thieves attempting to eat the bread they stole from Yolyānā and Barbārā, who are standing
-                        in the middle of the miniature to their right; second, the two thieves standing before an icon of <persName ref="PRS6819Mary"/> placed in an architectural structure.
-                        The thieves' discarded <term key="spear">spears</term> and <term key="shield">shields</term> lie on the ground.</p>
+                        with as a sequence of two episodes/events, showing: first, the two thieves attempting to eat the bread they stole from Yolyānā and Barbārā; second, the two thieves standing before an icon of <persName ref="PRS6819Mary"/>.
+                        </p>
                 </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -45,6 +45,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-04-29">Created entity</change>
+             <change who="JG" when="2019-05-24">Broadened descriptive vocabulary</change>
         </revisionDesc>
     </teiHeader>
     <text>
