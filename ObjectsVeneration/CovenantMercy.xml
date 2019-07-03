@@ -4,10 +4,10 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xml:id="CovenantMercy"
+     xml:id="CovenantMercy"
      xml:lang="en"
      type="auth">
-    <teiHeader>
+    <teiHeader xml:base="https://betamasaheft.eu/">
         <fileDesc>
             <titleStmt>
                 <title xml:id="t1">Kidāna Mǝḥrat</title>
@@ -32,11 +32,18 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </fileDesc>
         <encodingDesc>
             <p>A digital born TEI file</p>
-        </encodingDesc>
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>The Pact of Mercy: the agreement with Virgin Mary; depicted in art as <ref corresp="AT1036MercyCovenant" type="authFile"></ref></p>
+                <p>The Pact of Mercy: the agreement with Virgin Mary; depicted in art as <ref corresp="AT1036MercyCovenant" type="authFile"/>
+            </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -50,12 +57,16 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <change who="ES" when="2019-03-26">Created entity</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text xml:base="https://betamasaheft.eu/">
         <body>
             <div type="bibliography"/>
             <listRelation>
-                <relation name="saws:isRelatedTo" active="CovenantMercy" passive="AT1036MercyCovenant"></relation>
-                <relation name="saws:isRelatedTo" active="CovenantMercy" passive="LIT1718Kidana LIT1939Mashaf"></relation>
+                <relation name="saws:isRelatedTo"
+                      active="CovenantMercy"
+                      passive="AT1036MercyCovenant"/>
+                <relation name="saws:isRelatedTo"
+                      active="CovenantMercy"
+                      passive="LIT1718Kidana LIT1939Mashaf"/>
             </listRelation>
         </body>
     </text>

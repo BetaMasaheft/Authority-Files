@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      type="auth"
      xml:id="CommemorativeNote">
-   <teiHeader>
+   <teiHeader xml:base="https://betamasaheft.eu/">
       <fileDesc>
          <titleStmt>
             <title>Commemorative Note</title>
@@ -23,6 +23,14 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
       <profileDesc>
          <abstract>
             <p>
@@ -32,11 +40,24 @@
             </p>
             <p>Examples are:
                <list>
-                  <item><p><ref type="mss" corresp="ESdmd002"/>;</p></item>
-                  <item><p><ref type="mss" corresp="ESdd025"/>;</p></item>
-                  <item><p><ref type="mss" corresp="ESqsm024"/>;</p></item>
-                  <item><p><ref type="mss" corresp="ESsm011"/>.</p></item>
-               </list></p>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESdmd002"/>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESdd025"/>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESqsm024"/>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESsm011"/>.</p>
+                  </item>
+               </list>
+            </p>
          </abstract>
          <langUsage>
             <language ident="en">English</language>
@@ -50,7 +71,7 @@
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text xml:base="https://betamasaheft.eu/">
       <body>
          <p>Commemorative notice on __ (mainly for the
             Synaxarion)</p>

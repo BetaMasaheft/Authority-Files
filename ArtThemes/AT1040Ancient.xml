@@ -7,7 +7,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
      xml:id="AT1040Ancient"
      xml:lang="en"
      type="auth">
-    <teiHeader>
+    <teiHeader xml:base="https://betamasaheft.eu/">
         <fileDesc>
             <titleStmt>
                 <title>Maiestas Dei</title>
@@ -31,7 +31,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </fileDesc>
         <encodingDesc>
             <p>A digital born TEI file</p>
-        </encodingDesc>
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
         <profileDesc>
             <creation/>
             <abstract>
@@ -60,19 +66,23 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <change when="2018-08-03" who="ES">relation cleaned</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text xml:base="https://betamasaheft.eu/">
         <body>
             <div type="bibliography">
               <listBibl type="secondary">
-                  <bibl >
-                      <ptr target="bm:1959RicciMaiestas"></ptr>
+                  <bibl>
+                      <ptr target="bm:1959RicciMaiestas"/>
                   </bibl>
               </listBibl>
                 <listRelation>
-                    <relation name="saws:contains" active="AT1040Ancient" passive="PRS5684JesusCh">
+                    <relation name="saws:contains"
+                         active="AT1040Ancient"
+                         passive="PRS5684JesusCh">
                         
                     </relation>
-                    <relation name="saws:contains" active="AT1040Ancient" passive="PRS3697egziabe">
+                    <relation name="saws:contains"
+                         active="AT1040Ancient"
+                         passive="PRS3697egziabe">
                         
                     </relation>
                 </listRelation>

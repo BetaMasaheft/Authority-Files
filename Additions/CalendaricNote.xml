@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="CalendaricNote">
-   <teiHeader>
+   <teiHeader xml:base="https://betamasaheft.eu/">
       <fileDesc>
          <titleStmt> 
             <title>Calendaric Note</title>
@@ -21,6 +21,14 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
       <profileDesc>
          <abstract>
             <p>
@@ -29,9 +37,16 @@
                Some notes can be found also by means of the key-word “computus”. </p>
             <p>Examples are:
             <list>
-               <item><p><ref type="mss" corresp="ESdd028"/>, f. 159r: <foreign xml:lang="gez">አመ፡ ፩ለመስከረም፡ በርተሎሜዎስ፡ ወአመ፡ ፲፪ማቴዎስ፡</foreign>;</p></item>
-               <item><p><ref type="mss" corresp="ESqmm006"/>, f. 154r: <foreign xml:lang="gez">በዘተአምር፡ መፍቅደ፡ ጾም፡ ዘ፲ወ፪፡ አውራኅ</foreign>.</p></item>
-            </list></p>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESdd028"/>, f. 159r: <foreign xml:lang="gez">አመ፡ ፩ለመስከረም፡ በርተሎሜዎስ፡ ወአመ፡ ፲፪ማቴዎስ፡</foreign>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESqmm006"/>, f. 154r: <foreign xml:lang="gez">በዘተአምር፡ መፍቅደ፡ ጾም፡ ዘ፲ወ፪፡ አውራኅ</foreign>.</p>
+                  </item>
+               </list>
+            </p>
          </abstract>
          <langUsage>
             <language ident="en">English</language>
@@ -45,7 +60,7 @@
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text xml:base="https://betamasaheft.eu/">
       <body>
          <p/>
       </body>

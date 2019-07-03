@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="PreAks">
-    <teiHeader>
+    <teiHeader xml:base="https://betamasaheft.eu/">
         <fileDesc>
             <titleStmt>
                 <title>South-Arabian, Pre-Aksumite and Proto-Aksumite</title>
@@ -23,12 +23,20 @@
             </sourceDesc>
             
         </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
         <revisionDesc>
             <change who="AB" when="2017-03-28">Provided List in Issue 390</change>
             <change who="PL" when="2018-11-07">prepared XML file</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text xml:base="https://betamasaheft.eu/">
         <body>
             <p>1000-1 BCE</p>
         </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Genealogy">
-   <teiHeader>
+   <teiHeader xml:base="https://betamasaheft.eu/">
       <fileDesc>
          <titleStmt>
             <title>Genealogy</title>
@@ -21,6 +21,14 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
       <profileDesc>
          <abstract>
             <p>
@@ -29,10 +37,20 @@
             </p>
             <p>Examples are:
                <list>
-                  <item><p><ref type="mss" corresp="ESaqg003"/>, f. 7v: <foreign xml:lang="gez">ከመ፡ ኢይትረሥዖ፡ ደቂቀ፡ ስንበት። ወልደ፡ ደመና፡ በድኅሬ፡ ሰሙኤል፡ በድ፡ ተጠምቃይ፡ በድኅ፡ ወልደ፡ ጴጥሮስ፡ በድኅ፡ ወልደ፡ ጐሪጽ፡ በድ፡ ብርሃና፡ በድኅ፡ ገብረ፡ መስቀል፡ በድ፡ ወልደ፡ ፍሥሓ፡ በድ፡ ፍሬ፡ ሕይወት፡ በድኅ፡ እንድርያስ፡ በድ፡ ጴጥሮስ፡ በድ፡ ብእሴ፡ በድ፡ ምሑር፡  በድኅ፡  ወልደ፡ አይዶሌ፡ በድ፡ ወልደ፡ ዓሊ፡ በድ፡ መናይ፡ በድኅ፡ ኬረ፡  እግዚእ፡  በድ፡ ተክለ፡ ሥሉስ፡ በድ፡  ወልደ፡ ቈፃይ፡ በድ፡ ወልደ፡ ራእስ፡ በድ፡ አብርሃመ፡ በድ፡ ገብረ፡ ሥላሴ፡ በድ፡ ስዩም፡ እስጢፋኖስ፡ በድ፡ ሱም፡ ርባ፡ በድ፡ ኅሥዩም፡ ቴዎድሮስ፡ በድ፡ አባ፡ አውያት፡ በድ፡ ዕቁብ፡ በድ፡ [n.l.] በድ፡ መረኬ፡ በድ፡ ዓረይ፡ በድ፡ ገብረ፡ ክርስቶስ፡ በድ፡ ካባዕ።</foreign>;</p></item>
-                  <item><p><ref type="mss" corresp="ESwq002"/>, f. : <foreign xml:lang="am">ከዚህች፡ መጽሐፍ፡ ያጸፍኋቸው፡ ልጆቸ፡ በኋላም፡ ክፋት፡ ከአገኘኝ፡ ተረግዘው፡ ኑረው፡ የተወለዱ፡ ልጆቸ፡ ዘመ[…]ትም፡ ሁሉ፡ ጠይማን፡ ሐራ፡ አውጥቻት፡ አለሁ: ብትወድ፡ ከልጆቸ፡ ጋራ፡ ትቀመጥ፡ አመታቴን፡ እየጠበቀች፡ ከልጆችዋ፡ ጋራ፡ የዚህን፡ ሁሉ፡ የተቈጠረ፡ ወላጅ፡ እራስ፡ ጊዮርጊስ፡ ናቸው። እራስ፡ ጊዮርጊስም፡ እራስ፡ ዘርዓት፡ ይወልዳሉ፡ እራስ፡ ዘርዓትም፡ ዓምዶምን፡ ይወልዳሉ፡ ዓምዶም፡ አቶ፡ ሀጎስን፡ ይወልዳሉ፡ ሀጎስ፡ ገብረ፡ መስቀልን፡ ይወልዳሉ፡ ገብረ፡ መስቀልም፡ ብላታ፡ ካሳን፡ ይወልዳሉ፡ ብላታ፡ ካሳም፡ ብዋልታኡን፡ ዘርአትን፡</foreign>;</p></item>
-                  <item><p><ref type="mss" corresp="ESnsm005"/>.</p></item>
-               </list></p>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESaqg003"/>, f. 7v: <foreign xml:lang="gez">ከመ፡ ኢይትረሥዖ፡ ደቂቀ፡ ስንበት። ወልደ፡ ደመና፡ በድኅሬ፡ ሰሙኤል፡ በድ፡ ተጠምቃይ፡ በድኅ፡ ወልደ፡ ጴጥሮስ፡ በድኅ፡ ወልደ፡ ጐሪጽ፡ በድ፡ ብርሃና፡ በድኅ፡ ገብረ፡ መስቀል፡ በድ፡ ወልደ፡ ፍሥሓ፡ በድ፡ ፍሬ፡ ሕይወት፡ በድኅ፡ እንድርያስ፡ በድ፡ ጴጥሮስ፡ በድ፡ ብእሴ፡ በድ፡ ምሑር፡  በድኅ፡  ወልደ፡ አይዶሌ፡ በድ፡ ወልደ፡ ዓሊ፡ በድ፡ መናይ፡ በድኅ፡ ኬረ፡  እግዚእ፡  በድ፡ ተክለ፡ ሥሉስ፡ በድ፡  ወልደ፡ ቈፃይ፡ በድ፡ ወልደ፡ ራእስ፡ በድ፡ አብርሃመ፡ በድ፡ ገብረ፡ ሥላሴ፡ በድ፡ ስዩም፡ እስጢፋኖስ፡ በድ፡ ሱም፡ ርባ፡ በድ፡ ኅሥዩም፡ ቴዎድሮስ፡ በድ፡ አባ፡ አውያት፡ በድ፡ ዕቁብ፡ በድ፡ [n.l.] በድ፡ መረኬ፡ በድ፡ ዓረይ፡ በድ፡ ገብረ፡ ክርስቶስ፡ በድ፡ ካባዕ።</foreign>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESwq002"/>, f. : <foreign xml:lang="am">ከዚህች፡ መጽሐፍ፡ ያጸፍኋቸው፡ ልጆቸ፡ በኋላም፡ ክፋት፡ ከአገኘኝ፡ ተረግዘው፡ ኑረው፡ የተወለዱ፡ ልጆቸ፡ ዘመ[…]ትም፡ ሁሉ፡ ጠይማን፡ ሐራ፡ አውጥቻት፡ አለሁ: ብትወድ፡ ከልጆቸ፡ ጋራ፡ ትቀመጥ፡ አመታቴን፡ እየጠበቀች፡ ከልጆችዋ፡ ጋራ፡ የዚህን፡ ሁሉ፡ የተቈጠረ፡ ወላጅ፡ እራስ፡ ጊዮርጊስ፡ ናቸው። እራስ፡ ጊዮርጊስም፡ እራስ፡ ዘርዓት፡ ይወልዳሉ፡ እራስ፡ ዘርዓትም፡ ዓምዶምን፡ ይወልዳሉ፡ ዓምዶም፡ አቶ፡ ሀጎስን፡ ይወልዳሉ፡ ሀጎስ፡ ገብረ፡ መስቀልን፡ ይወልዳሉ፡ ገብረ፡ መስቀልም፡ ብላታ፡ ካሳን፡ ይወልዳሉ፡ ብላታ፡ ካሳም፡ ብዋልታኡን፡ ዘርአትን፡</foreign>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESnsm005"/>.</p>
+                  </item>
+               </list>
+            </p>
          </abstract>
          <langUsage>
             <language ident="en">English</language>
@@ -46,7 +64,7 @@
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text xml:base="https://betamasaheft.eu/">
       <body>
          <p/>
       </body>

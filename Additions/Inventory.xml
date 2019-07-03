@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Inventory">
-   <teiHeader>
+   <teiHeader xml:base="https://betamasaheft.eu/">
       <fileDesc>
          <titleStmt>
             <title>Inventory</title>
@@ -21,6 +21,14 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
       <profileDesc>
          <abstract>
             <p>
@@ -28,10 +36,20 @@
             </p>
             <p>Examples are:
                <list>
-                  <item><p><ref type="mss" corresp="ESky004"/>, f. 74va: <foreign xml:lang="gez">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ አ፩ምላክ፡ የደብረ፡ ቤቴል፡ ገንዘብ፡ ይህ፡ ነው፡ ገበዙ፡ ተስፋይ፡ ኰኰሎ፡ ነው፡ ካህኑ፡ ዘአልቦ፡ ሑልቊ፡ ነው፡ የኰኰሎ፡ ዮሐንስ፡ መጥምቅ፡ ከቁጥር፡ የገባ፡ ገንዘብ፡ ሃምሣ፡ አራት፡ ነው፡ ፶፬ ምንናምን፡ ቢሉ፡ ፩ኦሪት፡ ገድለ፡ ሰማዕታት፡ ሀይማኖተ፡ ዓበው፡፡ ግብረ፡ ህማማት፡ {፫} ወንጌል። ድርሳነ፡ ማርያም፡ {፪}ስንክሥር፡ ግንዘት፡ ሃዲሳት፡ ጾመድጓ፡ ምዕራፍ {፪}፡ መዝሙር። ፪፡ ተአምረ፡ ኢየሱስ፡ ፪፡ ተአምረ፡ ሚካኤል፡ ፪፡ ገድለ፡ ገብረ፡ መንፈስ፡ ቅዱስ፡ ፪፡ ዳዊት፡ ፪፡ ቅዳሴ፡ ፬፡ ፀሎተ፡ እጣን፡ ፩አርጋኖን፡ {፪}ገድለ፡ ዮሐንስ፡ ፪፡ አሥልጢ፡ ፩፡ መጽሐፈ፡ ክርስትና።፩ ፍትሐ፡ ነገሥት፡ ፬ኪዳናት፡ ፬ድበብ፡ ድጓ፡ ፩፡ መስቀል፡ ፬ ቃለ፡ አዋዲ። ፬ እርፈ፡ መስቀል፡ ፫፡ ጽዋዕ፡ ፬፡ ፅንሐ፡ ፪፡ ፃሕል፡ ፩፡ የባህር፡ ፅዋዕ፡ ፩፡ አትሮ፡ ንስ፡ ፩፡ ቀስተ፡ ደመና፡ ፩፡ መፅሐርያ፡ ፩፡ መክፈቻ፡ የደብረ፡ ቤቴል፡ ደግሞም፡ ፬፡ ምንፃፍ፡ ግምጃ፡ ቀሚስ፡ ወበርኖስ። ዘአልቦ፡ ሁልቁ፡ ፪፡ ከበሮ፡ ፀናጽል፡ ወመቋሚያ፡ ዘአልቦ፡ ሑልቁ፡</foreign>;</p></item>
-                  <item><p><ref type="mss" corresp="ESsmm001"/>, f. 214v: <foreign xml:lang="gez">: ፫ት᎓ ቀሚስ᎓ ወርቅ᎓ ዘቦ᎓ ፫ት᎓ ወርቅ᎓ ዘቦ᎓ በርኖስ᎓ ሁለት᎓ ሐር᎓ በርኖስ᎓ ፩ግስላ᎓፩መስቀል። ፩ ምንጻፍ᎓ ፩ስዕል᎓ ምስለ᎓ ፍቁር ወልዳ።… </foreign>;</p></item>
-                  <item><p><ref type="mss" corresp="ESmhg004"/>, f. 14va: <foreign xml:lang="gez">: ንዋየ፡ ቅድሳት፡ ወመጻሕፍት፡ ዘጊደሬ፡ ወዘ፡ ፈልፈል፡ … ወተጽሕፈት፡ ዛቲ፡ መጽሐፍ፡ በመዋዕለ፡ ዮሐንስ፡ ወንጌላዊ፡ ፸፻፳ዓመተ፡ ምኅረት፡ አመ፡ ዓሱሩ፡ ወ፯ለወርኀጥር፡ በዘመነ፡ ለተክለ፡ ነብያት፡ አብነ፡</foreign>;</p></item>
-               </list></p>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESky004"/>, f. 74va: <foreign xml:lang="gez">በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ አ፩ምላክ፡ የደብረ፡ ቤቴል፡ ገንዘብ፡ ይህ፡ ነው፡ ገበዙ፡ ተስፋይ፡ ኰኰሎ፡ ነው፡ ካህኑ፡ ዘአልቦ፡ ሑልቊ፡ ነው፡ የኰኰሎ፡ ዮሐንስ፡ መጥምቅ፡ ከቁጥር፡ የገባ፡ ገንዘብ፡ ሃምሣ፡ አራት፡ ነው፡ ፶፬ ምንናምን፡ ቢሉ፡ ፩ኦሪት፡ ገድለ፡ ሰማዕታት፡ ሀይማኖተ፡ ዓበው፡፡ ግብረ፡ ህማማት፡ {፫} ወንጌል። ድርሳነ፡ ማርያም፡ {፪}ስንክሥር፡ ግንዘት፡ ሃዲሳት፡ ጾመድጓ፡ ምዕራፍ {፪}፡ መዝሙር። ፪፡ ተአምረ፡ ኢየሱስ፡ ፪፡ ተአምረ፡ ሚካኤል፡ ፪፡ ገድለ፡ ገብረ፡ መንፈስ፡ ቅዱስ፡ ፪፡ ዳዊት፡ ፪፡ ቅዳሴ፡ ፬፡ ፀሎተ፡ እጣን፡ ፩አርጋኖን፡ {፪}ገድለ፡ ዮሐንስ፡ ፪፡ አሥልጢ፡ ፩፡ መጽሐፈ፡ ክርስትና።፩ ፍትሐ፡ ነገሥት፡ ፬ኪዳናት፡ ፬ድበብ፡ ድጓ፡ ፩፡ መስቀል፡ ፬ ቃለ፡ አዋዲ። ፬ እርፈ፡ መስቀል፡ ፫፡ ጽዋዕ፡ ፬፡ ፅንሐ፡ ፪፡ ፃሕል፡ ፩፡ የባህር፡ ፅዋዕ፡ ፩፡ አትሮ፡ ንስ፡ ፩፡ ቀስተ፡ ደመና፡ ፩፡ መፅሐርያ፡ ፩፡ መክፈቻ፡ የደብረ፡ ቤቴል፡ ደግሞም፡ ፬፡ ምንፃፍ፡ ግምጃ፡ ቀሚስ፡ ወበርኖስ። ዘአልቦ፡ ሁልቁ፡ ፪፡ ከበሮ፡ ፀናጽል፡ ወመቋሚያ፡ ዘአልቦ፡ ሑልቁ፡</foreign>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESsmm001"/>, f. 214v: <foreign xml:lang="gez">: ፫ት᎓ ቀሚስ᎓ ወርቅ᎓ ዘቦ᎓ ፫ት᎓ ወርቅ᎓ ዘቦ᎓ በርኖስ᎓ ሁለት᎓ ሐር᎓ በርኖስ᎓ ፩ግስላ᎓፩መስቀል። ፩ ምንጻፍ᎓ ፩ስዕል᎓ ምስለ᎓ ፍቁር ወልዳ።… </foreign>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESmhg004"/>, f. 14va: <foreign xml:lang="gez">: ንዋየ፡ ቅድሳት፡ ወመጻሕፍት፡ ዘጊደሬ፡ ወዘ፡ ፈልፈል፡ … ወተጽሕፈት፡ ዛቲ፡ መጽሐፍ፡ በመዋዕለ፡ ዮሐንስ፡ ወንጌላዊ፡ ፸፻፳ዓመተ፡ ምኅረት፡ አመ፡ ዓሱሩ፡ ወ፯ለወርኀጥር፡ በዘመነ፡ ለተክለ፡ ነብያት፡ አብነ፡</foreign>;</p>
+                  </item>
+               </list>
+            </p>
          </abstract>
          <langUsage>
             <language ident="en">English</language>
@@ -45,7 +63,7 @@
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text xml:base="https://betamasaheft.eu/">
       <body>
          <p/>
       </body>

@@ -5,7 +5,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
 <?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
    schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="GuestText">
-    <teiHeader>
+    <teiHeader xml:base="https://betamasaheft.eu/">
         <fileDesc>
             <titleStmt>
                 <title>Guest Text</title>
@@ -26,6 +26,14 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p/>
             </sourceDesc>
         </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
         <profileDesc>
             <abstract>
                 <p>
@@ -34,15 +42,33 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 </p>
                 <p>Examples are:
                     <list>
-                        <item><p><ref type="mss" corresp="ESdmd003"/>, f. 1r-2v: Malkәʾa Ṗeṭros wa-Ṗāwlos followed by an ʾarke-hymn, in a Four Gospel manuscript; the same text in 
-                            <ref type="mss" corresp="ESath002"/>, Acts of Takla Haymanot.</p></item>
-                        <item><p>Synaxarion entries, Creed of faith, theological treatises, dispersed miracles (<ref type="mss" corresp="ESdd025"/>, f. 165rv), hymns of the prefactory part
-                        of the miracles of Mary, Old Amharic compositions:</p></item>
-                        <item><p><ref type="mss" corresp="ESdd025"/>, f. 180rv;</p></item>
-                        <item><p><ref type="mss" corresp="ESakm020"/>, f. 1v-2r, 31r-34v;</p></item>
-                        <item><p><ref type="mss" corresp="ESma001"/>, despite the fact that the additional texts are written in calligraphic hands;</p></item>
-                        <item><p><ref type="mss" corresp="ESky023"/>, Psalter with an Amharic treatise on the Creation.</p></item>
-                    </list></p>
+                        <item>
+                     <p>
+                        <ref type="mss" corresp="ESdmd003"/>, f. 1r-2v: Malkәʾa Ṗeṭros wa-Ṗāwlos followed by an ʾarke-hymn, in a Four Gospel manuscript; the same text in 
+                            <ref type="mss" corresp="ESath002"/>, Acts of Takla Haymanot.</p>
+                  </item>
+                        <item>
+                     <p>Synaxarion entries, Creed of faith, theological treatises, dispersed miracles (<ref type="mss" corresp="ESdd025"/>, f. 165rv), hymns of the prefactory part
+                        of the miracles of Mary, Old Amharic compositions:</p>
+                  </item>
+                        <item>
+                     <p>
+                        <ref type="mss" corresp="ESdd025"/>, f. 180rv;</p>
+                  </item>
+                        <item>
+                     <p>
+                        <ref type="mss" corresp="ESakm020"/>, f. 1v-2r, 31r-34v;</p>
+                  </item>
+                        <item>
+                     <p>
+                        <ref type="mss" corresp="ESma001"/>, despite the fact that the additional texts are written in calligraphic hands;</p>
+                  </item>
+                        <item>
+                     <p>
+                        <ref type="mss" corresp="ESky023"/>, Psalter with an Amharic treatise on the Creation.</p>
+                  </item>
+                    </list>
+            </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -55,7 +81,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
             <change who="DR" when="2016-09-08">Created</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text xml:base="https://betamasaheft.eu/">
         <body>
             <p/>
         </body>

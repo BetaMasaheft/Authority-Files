@@ -3,8 +3,11 @@
 schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/SChAth/schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT1002Annunciation" xml:lang="en" type="auth">
-    <teiHeader>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AT1002Annunciation"
+     xml:lang="en"
+     type="auth">
+    <teiHeader xml:base="https://betamasaheft.eu/">
         <fileDesc>
             <titleStmt>
                 <title>Annunciation</title>
@@ -28,7 +31,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </fileDesc>
         <encodingDesc>
             <p>A digital born TEI file</p>
-        </encodingDesc>
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
         <profileDesc>
             <creation/>
             <abstract>
@@ -64,7 +73,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <change who="JG" when="2018-04-16">Updated Content</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text xml:base="https://betamasaheft.eu/">
         <body>
             <div type="bibliography">
                 <listBibl type="secondary">
@@ -77,7 +86,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </bibl>
                 </listBibl>
                 <listRelation>
-                    <relation name="saws:contains"  active="AT1002Annunciation" passive="PRS6819Mary PRS4377Gabriel">
+                    <relation name="saws:contains"
+                         active="AT1002Annunciation"
+                         passive="PRS6819Mary PRS4377Gabriel">
                         <desc/>
                     </relation>
                 </listRelation>

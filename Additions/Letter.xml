@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Letter">
-   <teiHeader>
+   <teiHeader xml:base="https://betamasaheft.eu/">
       <fileDesc>
          <titleStmt>
             <title>Letter</title>
@@ -21,6 +21,14 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
       <profileDesc>
          <abstract>
             <p>
@@ -29,9 +37,16 @@
             </p>
             <p>Examples are:
                <list>
-                  <item><p><ref type="mss" corresp="ESgbq001"/>, f. 15va: <foreign xml:lang="gez">: ምልአክት፡ ዘራስ፡ ሥዩም፡ ይድረስ፡ ከማኅበረ፡ ኢየሱስ፡ ጓኅጎት። ጃንሆይ፡ ላባቴ፡ ወልደ፡ ዮሐንስ፡ ያነን፡ ክላዎን፡ ይዘው፡ ኢየሱስና፡ ወለተ፡ ጊዮርጊስ፡ የተጐለትወን፡ ጭቃውና፡ ገባሩ{ን}፡ ይካፈሉ፡ የማይ፡ ላባይም፡ የሚሰማማዎ፡ ሹም፡ ይሹሙ። እንዳሉ፡ እኔም፡ እንደ፡ ዮሐንስ፡ ብየዋልሁ። በ፲፱፻፡ ፲፪፡ ዓመተ፡ ምህረት።</foreign>;</p></item>
-                  <item><p><ref type="mss" corresp="ESkae013"/>, f. 1v-2v: letter of ʾəččage Tewoflos to the churches of Tamben.</p></item>
-               </list></p>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESgbq001"/>, f. 15va: <foreign xml:lang="gez">: ምልአክት፡ ዘራስ፡ ሥዩም፡ ይድረስ፡ ከማኅበረ፡ ኢየሱስ፡ ጓኅጎት። ጃንሆይ፡ ላባቴ፡ ወልደ፡ ዮሐንስ፡ ያነን፡ ክላዎን፡ ይዘው፡ ኢየሱስና፡ ወለተ፡ ጊዮርጊስ፡ የተጐለትወን፡ ጭቃውና፡ ገባሩ{ን}፡ ይካፈሉ፡ የማይ፡ ላባይም፡ የሚሰማማዎ፡ ሹም፡ ይሹሙ። እንዳሉ፡ እኔም፡ እንደ፡ ዮሐንስ፡ ብየዋልሁ። በ፲፱፻፡ ፲፪፡ ዓመተ፡ ምህረት።</foreign>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESkae013"/>, f. 1v-2v: letter of ʾəččage Tewoflos to the churches of Tamben.</p>
+                  </item>
+               </list>
+            </p>
          </abstract>
          <langUsage>
             <language ident="en">English</language>
@@ -45,7 +60,7 @@
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text xml:base="https://betamasaheft.eu/">
       <body>
          <p/>
       </body>

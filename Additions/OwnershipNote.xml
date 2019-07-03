@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="OwnershipNote">
-   <teiHeader>
+   <teiHeader xml:base="https://betamasaheft.eu/">
       <fileDesc>
          <titleStmt>
             <title>Ownership Note</title>
@@ -21,6 +21,14 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
       <profileDesc>
          <abstract>
             <p>
@@ -29,12 +37,28 @@
             </p>
             <p>Examples are:
                <list>
-                  <item><p><ref type="mss" corresp="ESaqg010"/>, f. 99v: <foreign xml:lang="gez">ገድለ፡ ሐዋርያት፡ ዘአድ፡ ቍልቋል፡</foreign>;</p></item>
-                  <item><p><ref type="mss" corresp="ESmy002"/>, f. 2r: <foreign xml:lang="gez">ዝንቱ፡ መጽሐፍ፡ ዘደብረ፡ ማእጾ፡ ዘሰረቆ፡ ውጉዝ፡ ለይኩን፡ </foreign>;</p></item>
-                  <item><p><ref type="mss" corresp="ESdd015a"/>, f. 211v: <foreign xml:lang="gez">ዝመጽሐፍ፡ ዘአባ፡ ሀብተ፡ ሚካኤል፡ ዘሠረቆ...</foreign>;</p></item>
-                  <item><p><ref type="mss" corresp="ESmma008"/>, f. 121b: <foreign xml:lang="gez">ዝመጽሐፍ፡ ዘአቡነ፡ ወልደ፡ ስምዖን።</foreign>;</p></item>
-                  <item><p><ref type="mss" corresp="ESbmqm010"/>, f. 48ra: <foreign xml:lang="gez">አቡነ፡ ወልደ፡ አነንያ፡ ወምስለ፡ አመቱ፡ ወለተ፡ ሥላሴ፡</foreign>.</p></item>
-               </list></p>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESaqg010"/>, f. 99v: <foreign xml:lang="gez">ገድለ፡ ሐዋርያት፡ ዘአድ፡ ቍልቋል፡</foreign>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESmy002"/>, f. 2r: <foreign xml:lang="gez">ዝንቱ፡ መጽሐፍ፡ ዘደብረ፡ ማእጾ፡ ዘሰረቆ፡ ውጉዝ፡ ለይኩን፡ </foreign>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESdd015a"/>, f. 211v: <foreign xml:lang="gez">ዝመጽሐፍ፡ ዘአባ፡ ሀብተ፡ ሚካኤል፡ ዘሠረቆ...</foreign>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESmma008"/>, f. 121b: <foreign xml:lang="gez">ዝመጽሐፍ፡ ዘአቡነ፡ ወልደ፡ ስምዖን።</foreign>;</p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESbmqm010"/>, f. 48ra: <foreign xml:lang="gez">አቡነ፡ ወልደ፡ አነንያ፡ ወምስለ፡ አመቱ፡ ወለተ፡ ሥላሴ፡</foreign>.</p>
+                  </item>
+               </list>
+            </p>
          </abstract>
          <langUsage>
             <language ident="en">English</language>
@@ -48,7 +72,7 @@
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text xml:base="https://betamasaheft.eu/">
       <body>
          <p>1. the book belongs to an individual, 2. the book belongs
             to an institution.</p>

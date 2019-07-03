@@ -7,7 +7,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
      xml:id="AT1028HebrewsFurnace"
      xml:lang="en"
      type="auth">
-    <teiHeader>
+    <teiHeader xml:base="https://betamasaheft.eu/">
         <fileDesc>
             <titleStmt>
                 <title>Three Hebrews</title>
@@ -30,7 +30,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </fileDesc>
         <encodingDesc>
             <p>A digital born TEI file</p>
-        </encodingDesc>
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
         <profileDesc>
             <creation/>
             <abstract>
@@ -43,8 +49,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     
                     The main typologies attested in the Ethiopian tradition are:
                     <list>
-                        <item>Type 1 <desc>The Angel stands behind the youths</desc> </item>
-                        <item>Type 2 <desc>The Angel stands to the side of the youths</desc> </item>
+                        <item>Type 1 <desc>The Angel stands behind the youths</desc> 
+                  </item>
+                        <item>Type 2 <desc>The Angel stands to the side of the youths</desc> 
+                  </item>
                     </list>
                 </p>
             </abstract>
@@ -61,7 +69,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <change who="JG" when="2018-04-07">Added bibliography</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text xml:base="https://betamasaheft.eu/">
         <body>
             <div type="bibliography">
                 <listBibl type="secondary">

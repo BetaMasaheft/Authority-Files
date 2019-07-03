@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="Supplication">
-   <teiHeader>
+   <teiHeader xml:base="https://betamasaheft.eu/">
       <fileDesc>
          <titleStmt>
             <title>Supplication</title>
@@ -21,6 +21,14 @@
             <p/>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
       <profileDesc>
          <abstract>
             <p>
@@ -30,19 +38,36 @@
             </p>
             <p>Examples are:
             <list>
-               <item><p><ref type="mss" corresp="ESgmg003"/>, f. 107r (rhymed): 
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESgmg003"/>, f. 107r (rhymed): 
                   <foreign xml:lang="gez">ለተስፋ፡ ማርያም፡ መክብበ፡ ላዕሉ፡ ወታሕቱ፡ ወለአቅሌስያ፡ እናቱ፡
                      ወለወለተ፡ ሕይወት፡ እኅቱ።
                      ወለኲሎሙ፡ እለ፡ ያፈቅርዎ፡ ሠራዊቱ፡ 
                      እግዚአብሔር፡ ይክፍሎሙ፡ በረከተ፡ ማርያም፡ ወላዲቱ፡
                      ወይሰውሮሙ፡ እሞተ፡ ከንቱ፡ ወይጸግዎሙ፡ ገነተ፡ ቅዱሳን፡ ፱ቱ፡
                      ለዓለመ፡ ዓለም፡ አሜን።
-                  </foreign></p></item>
-               <item><p><ref type="mss" corresp="ESdma001"/>, f. 24va: <foreign xml:lang="gez">ለእለ፡ ወሀቡ፡ ዛቲ፡ መጽሐፍ፡ ስመ፡ ክርስቲይናሆሙ፡ <gap reason="omitted"/>
-                  [ኢይ]ርስዕዎሙ፡ በጊዜ፡ ቍርባን፡ ወዕጣን፡ ወጊዜ፡ ጸሎት። ብሂለክሙ፡ ይጽሐፍ፡ ስሞሙ፡ ኀበ፡ ዐምደ፡ ወርቅ፡ ወተጽሒፎ፡ ኢይደምሰስ፡ ለዓለም፡ አሜን።</foreign></p></item>
-               <item><p><ref type="mss" corresp="ESamg002"/>, f. 156r: <foreign xml:lang="gez">አቀባ᎓ ለዓመትከ᎓ ወለተ᎓ መድህን። </foreign></p></item>
-               <item><p><ref type="mss" corresp="ESqmm007"/>, f. 62vb: <foreign xml:lang="gez">እ-አድኅነኒ፡ እግዚኦ፡ እመከራ፡ ሥጋ፡ ወነፍስ፡ ወእሞተ፡ ሥጋ፡ ወፀር።</foreign></p></item>
-            </list></p>
+                  </foreign>
+                     </p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESdma001"/>, f. 24va: <foreign xml:lang="gez">ለእለ፡ ወሀቡ፡ ዛቲ፡ መጽሐፍ፡ ስመ፡ ክርስቲይናሆሙ፡ <gap reason="omitted"/>
+                  [ኢይ]ርስዕዎሙ፡ በጊዜ፡ ቍርባን፡ ወዕጣን፡ ወጊዜ፡ ጸሎት። ብሂለክሙ፡ ይጽሐፍ፡ ስሞሙ፡ ኀበ፡ ዐምደ፡ ወርቅ፡ ወተጽሒፎ፡ ኢይደምሰስ፡ ለዓለም፡ አሜን።</foreign>
+                     </p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESamg002"/>, f. 156r: <foreign xml:lang="gez">አቀባ᎓ ለዓመትከ᎓ ወለተ᎓ መድህን። </foreign>
+                     </p>
+                  </item>
+                  <item>
+                     <p>
+                        <ref type="mss" corresp="ESqmm007"/>, f. 62vb: <foreign xml:lang="gez">እ-አድኅነኒ፡ እግዚኦ፡ እመከራ፡ ሥጋ፡ ወነፍስ፡ ወእሞተ፡ ሥጋ፡ ወፀር።</foreign>
+                     </p>
+                  </item>
+               </list>
+            </p>
          </abstract>
       </profileDesc>
       <revisionDesc>
@@ -51,7 +76,7 @@
          <change who="PL" when="2016-05-11">prepared XML file</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text xml:base="https://betamasaheft.eu/">
       <body>
          <p/>
       </body>
