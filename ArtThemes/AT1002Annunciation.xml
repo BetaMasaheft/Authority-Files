@@ -44,7 +44,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <p> A miniature showing an <term key="angel">Angel</term>, typically <persName ref="PRS4377Gabriel"/>,  in the act of informing the Virgin <persName ref="PRS6819Mary"/> 
                     that she will become the mother of <term>Jesus</term> (<ref cRef="urn:cts:greekLit:tlg0031.tlg003.perseus-grc1:1.28">Lk    1:28</ref>), with additional details informed 
                     by apocryphal sources such as the Protoevangelium of James (11-12). The main typologies attested in the Ethiopian tradition are: 
-                    <list type="ordered">
+                    <list>
                         <item>Type 1 <desc>Mary is portrayed in the act of spinning. </desc>
                         </item>
                         <item>Type 2 <desc>Mary is portrayed in the act of praying. </desc>
