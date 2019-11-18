@@ -41,11 +41,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p> A miniature showing <persName ref="PRS5684JesusCh">Jesus</persName>
-                 in the act of freeing <persName ref="PRS1385Adam">Adam</persName>
+                    in the act of freeing <persName ref="PRS1386Adam">Adam</persName>
                   and <persName ref="PRS3926Eve">Eve</persName> from Hell,
                   an episode alluded to in the New Testament and expanded upon in the apocrypha,
                     typically featuring him in the act of trampling over
-                     Satan or a personifiaction of 
+                     Satan or a personification of 
                     <persName ref="PRS2494Barbanos">Hades</persName>.
                 </p>
             </abstract>
