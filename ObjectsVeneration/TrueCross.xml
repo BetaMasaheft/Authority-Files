@@ -57,8 +57,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <body>
          <ab/>
                   <listRelation>
-                     <relation name="saws:isRelatedTo" active="TrueCross" passive="Masqal"/>
-                     <relation name="saws:isRelatedTo" active="TrueCross" passive="AT1071Cross"/>
+                     <relation name="dcterms:relation" active="TrueCross" passive="Masqal"/>
+                     <relation name="ecrm:P129i_is_subject_of" active="TrueCross" passive="AT1071Cross"/>
                   </listRelation>
       </body>
       
