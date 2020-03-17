@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>Style of painting used between the third quarter of the 18th and the middle of the ninteenth centuries.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
