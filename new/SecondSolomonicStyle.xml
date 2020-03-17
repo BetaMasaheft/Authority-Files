@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>Style of painting used approximately between the beginning of the 15th century and the first quarter of the 16th century.</p>
+                <p>Style of painting used approximately between the beginning of the 15th and the first quarter of the 16th centuries.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
