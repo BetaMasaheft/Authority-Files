@@ -57,7 +57,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listRelation>
+                    <relation name="skos:exactMatch" active="overCover" passive="http://www.ligatus.org.uk/lob/concept/1252"/>
+           </listRelation> 
+            </div>
         </body>
     </text>
 </TEI>

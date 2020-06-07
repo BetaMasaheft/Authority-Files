@@ -25,6 +25,30 @@
         <category>
             <desc>Binding Description</desc>
             <category>
+                <desc>Turn-ins and Cover</desc>
+                <category>
+                    <catDesc>overCover</catDesc>
+                </category>
+                <category>
+                    <catDesc>overlappingCornerFO</catDesc>
+                </category>
+                <category>
+                    <catDesc>overlappingCornerHTO</catDesc>
+                </category>
+                <category>
+                    <catDesc>tonguedCorner</catDesc>
+                </category>
+                <category>
+                    <catDesc>stitchedCorner</catDesc>
+                </category>
+                <category>
+                    <catDesc>mitredCorner</catDesc>
+                </category>
+                <category>
+                    <catDesc>openMitredCorner</catDesc>
+                </category>
+            </category>
+            <category>
                 <desc>guards</desc>
                 <category>
                   <catDesc>guard</catDesc>
