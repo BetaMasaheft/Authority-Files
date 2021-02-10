@@ -1511,7 +1511,39 @@
             </category>
         </category>
 
-
+<category>
+    <desc>rubrication</desc>
+    <category>
+        <catDesc>beginnings</catDesc>
+    </category>
+    <category>
+        <catDesc>titles</catDesc>
+    </category>
+    <category>
+        <catDesc>runningTitles</catDesc>
+    </category>
+    <category>
+        <catDesc>abbreviations</catDesc>
+    </category>
+    <category>
+        <catDesc>divineNames</catDesc>
+    </category>
+    <category>
+        <catDesc>donorsNames</catDesc>
+    </category>
+    <category>
+        <catDesc>elementsOfPunctuation</catDesc>
+    </category>
+    <category>
+        <catDesc>elementsOfDigits</catDesc>
+    </category>
+    <category>
+        <catDesc>otherNames</catDesc>
+    </category>
+    <category>
+        <catDesc>otherWords</catDesc>
+    </category>
+</category>
 
         <category>
             <desc>Feasts</desc>
