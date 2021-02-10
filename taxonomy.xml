@@ -1532,6 +1532,9 @@
         <catDesc>donorsNames</catDesc>
     </category>
     <category>
+        <catDesc>nameOfProtagonist</catDesc>
+    </category>
+    <category>
         <catDesc>elementsOfPunctuation</catDesc>
     </category>
     <category>
