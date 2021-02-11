@@ -5,6 +5,7 @@
          <titleStmt>
             <title>Land Grant</title>
             <editor key="ES"/>
+            <editor key="DN"/>
             <editor key="AB" role="generalEditor"/>
             <funder>Akademie der Wissenschaften in Hamburg</funder>
          </titleStmt>
@@ -29,9 +30,25 @@
             </xi:fallback>
          </xi:include>
       </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               Following some scholars, the land grants can be issued by sovereigns (the majority) and individuals; 
+               Recipients are the churches and monasteries (the majority) and individuals. 
+               Reworked and copies of the documents related to important churches are quite common.    
+               
+            </p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
+         <change who="PL" when="2021-02-11">added information from https://github.com/BetaMasaheft/Documentation/issues/917</change>
       </revisionDesc>
    </teiHeader>
    <text xml:base="https://betamasaheft.eu/">

@@ -387,10 +387,46 @@
                 <catDesc>Admonition</catDesc>
             </category>
             <category>
-                <catDesc>LandGrant</catDesc>
+                <catDesc>DocumentaryText</catDesc>
             </category>
             <category>
+                <desc>Land Ownership</desc>
+            <category>
+                <desc>Land Charters</desc>
+                <category>
+                    <catDesc>LandGrant</catDesc>
+                </category>
+                <category>
+                    <catDesc>GweltDeed</catDesc>
+                </category>
+                <category>
+                    <catDesc>RestDeed</catDesc>
+                </category>
+                <category>
+                    <catDesc>RestaGweltDeed</catDesc>
+                </category>
+            </category>
+                <category>
+                    <catDesc>Rim</catDesc>
+                </category>
+                <category>
+                    <catDesc>siso</catDesc>
+                </category>
+                <category>
+                    <catDesc>Tazkar</catDesc>
+                </category>
+                <category>
+                    <catDesc>Renovation</catDesc>
+                </category>
+                <category>
+                    <catDesc>Confirmation</catDesc>
+                </category>
+            <category>
                 <catDesc>FoundationCharter</catDesc>
+            </category>
+                <category>
+                    <catDesc>unclearOwnershipDocument</catDesc>
+                </category>
             </category>
             <category>
                 <catDesc>Genealogy</catDesc>

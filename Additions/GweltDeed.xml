@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
+schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
+   schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="auth"
+     xml:id="GweltDeed">
+    <teiHeader xml:base="https://betamasaheft.eu/">
+        <fileDesc>
+            <titleStmt>
+                <title>Gwəlt Deed</title>
+                <editor key="DN"/>
+                <editor key="AB" role="generalEditor"/>
+                <funder>Akademie der Wissenschaften in Hamburg</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                        licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    In its “classical form”, the gwəlt-document has as its core wording something 
+                    like <foreign xml:lang="gez">ጐለትኩ፡</foreign> or <foreign xml:lang="gez">ወሀብኩ᎓ … ጕለ(ተ)᎓</foreign> or 
+                    of the like (ancient variant: <foreign xml:lang="gez">አክሰምኩ᎓</foreign> etc.). 
+                    Many of the documents of this classical type are found in the Liber Axumae. They are in Ge’ez; later in Amharic, or some mix two languages. 
+                </p>
+                <p>There are documents which only include the formula <foreign xml:lang="gez">ወሀብኩ᎓</foreign>, 
+                    but do not specify the type of the land ownership, even if they contain a precise register of the locations i
+                    nvolved (e.g., Liber axumae nos. 77, 80, EDL no. 32). Sometimes 
+                    we can only assume that the document is about gwəlt since the term is not clearly mentioned 
+                    (<ref corresp="BLorient481" type="mss">BritLib Or. 481</ref>, f. 92r, 124v; seems to be very frequent in the “copies” of the charters).</p>
+            </abstract>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="gez">Gǝʿǝz</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change who="PL" when="2021-02-11">added information from https://github.com/BetaMasaheft/Documentation/issues/917</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:base="https://betamasaheft.eu/">
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
