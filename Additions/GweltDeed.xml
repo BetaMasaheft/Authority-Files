@@ -42,14 +42,9 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                     In its “classical form”, the gwəlt-document has as its core wording something
                     like <foreign xml:lang="gez">ጐለትኩ፡</foreign> or <foreign xml:lang="gez">ወሀብኩ᎓ … ጕለ(ተ)᎓</foreign> or
                     of the like (ancient variant: <foreign xml:lang="gez">አክሰምኩ᎓</foreign> etc.).
-                    Many of the documents of this classical type are found in the Liber Axumae or Golden Gospel of Dabra Libānos za-Ham in Eritrea. They are in Ge’ez; later in Amharic, or some mix two languages. 
+                    Many of the documents of this classical type are found in the Liber Axumae or Golden Gospel of Dabra Libānos za-Ham in Eritrea. They are in Ge’ez; later in Amharic, or some mix two languages.
                 </p>
-                <p>There are documents which only include the formula <foreign xml:lang="gez">ወሀብኩ᎓</foreign>,
-                    but do not specify the type of the land ownership, even if they contain a precise register of the locations i
-                    nvolved (e.g., Liber axumae nos. 77, 80, EDL no. 32). Sometimes
-                    we can only assume that the document is about gwəlt since the term is not clearly mentioned
-                    (<ref corresp="BLorient481" type="mss">BritLib Or. 481</ref>, f. 92r, 124v; seems to be very frequent in the “copies” of the charters).</p>
-            </abstract>
+                </abstract>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="gez">Gǝʿǝz</language>
