@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
 schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
    schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
     type="auth"
@@ -38,11 +38,10 @@ schematypens="http://relaxng.org/ns/structure/1.0"
         <profileDesc>
             <abstract>
                 <p>
-                    A sub-type of <ref type="authFile" corresp="GweltDeed">gwəlt-document</ref> which is clearly identifiable is the “renovation” 
-                    of the former grant with the formula 
-                    <foreign xml:lang="gez">ሐደስኩ᎓…</foreign> etc. 
-                    The former grant may also be repeated in whatever form, with the name of the king 
-                    (should it be encoded in a special way?), with the word  <foreign xml:lang="gez">ጐለተ</foreign>. 
+                    A sub-type of <ref type="authFile" corresp="GweltDeed">gwəlt-document</ref> which is clearly identifiable is the “renovation”
+                    of the former grant with the formula
+                    <foreign xml:lang="gez">ሐደስኩ᎓…</foreign> or ቅግባእኩ፡ ... etc.
+                    The former grant may also be repeated in whatever form, with the name of the king, with the word  <foreign xml:lang="gez">ጐለተ</foreign>.
                     The Liber axumae includes quite a number of them. 
                 </p>
             </abstract>
@@ -61,4 +60,3 @@ schematypens="http://relaxng.org/ns/structure/1.0"
         </body>
     </text>
 </TEI>
-
