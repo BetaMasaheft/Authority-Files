@@ -64,6 +64,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">173</citedRange>
                </bibl>
             </listBibl>
+            <listRelation>
+                <relation active="mirror" passive="http://w3id.org/lob/concept/1219" name="skos:broadMatch"/>
+            </listRelation>
         </div>
       </body>
     </text>

@@ -74,6 +74,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">25</citedRange>
                </bibl>
             </listBibl>
+             <listRelation>
+                 <relation active="textile" passive="http://w3id.org/lob/concept/1219" name="skos:broadMatch"/>
+                 <relation active="textile" passive="http://w3id.org/lob/concept/2470" name="skos:exactMatch"/>
+             </listRelation>
          </div>
       </body>
     </text>

@@ -68,6 +68,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">38</citedRange>
                </bibl>
             </listBibl>
+            <listRelation>
+                <relation active="linkStitch" passive="http://w3id.org/lob/concept/2540" name="skos:broader"/>
+            </listRelation>
         </div>
       </body>
     </text>

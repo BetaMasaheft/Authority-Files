@@ -64,6 +64,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">78</citedRange>
                </bibl>
             </listBibl>
+             <listRelation>
+                 <relation active="additionalLeatherPatch" passive="http://w3id.org/lob/node/2426" name="skos:broader"/>
+             </listRelation>
          </div>
       </body>
     </text>
