@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>The thread is of animal origin (i.e. sinews or gut).
+                <p>Thread of animal origin (i.e. sinews or gut).
                 </p>
             </abstract>
             <langUsage>
@@ -72,6 +72,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">173</citedRange>
                </bibl>
             </listBibl>
+            <listRelation>
+                <relation active="animalThread" passive="http://w3id.org/lob/concept/2474" name="skos:broader"/>
+            </listRelation>
           </div>
         </body>
     </text>

@@ -10,7 +10,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader xml:base="https://betamasaheft.eu/">
         <fileDesc>
             <titleStmt>
-                <title>Centerfold</title>
+                <title>Centre-fold</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="EDS"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -65,7 +65,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </bibl>
             </listBibl>
             <listRelation>
-                <relation active="centerfold" passive="http://w3id.org/lob/concept/1379" name="skos:broader"/>
+                <relation active="centerfold" passive="http://w3id.org/lob/concept/3282" name="skos:broadMatch"/>
+                <!-- LoB sewing guards are inserted in the centres of the quires. The BM concept refers to guards inserted in the central bifolium -->
             </listRelation>
         </div>
       </body>

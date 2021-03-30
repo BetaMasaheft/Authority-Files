@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p>Stripe of leather, separated from the cover, pasted in the area between the turn-ins, along the boards’ inner edge.
+              <p>Strip of leather separated from the cover pasted in the area between the turn-ins, along the boards’ inner border.
               </p>
             </abstract>
             <langUsage>
@@ -65,7 +65,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </bibl>
             </listBibl>
              <listRelation>
-                 <relation active="additionalLeatherPatch" passive="http://w3id.org/lob/node/2426" name="skos:broader"/>
+                 <relation active="additionalLeatherPatch" passive="http://w3id.org/lob/concept/1219" name="skos:broadMatch"/>
+                 <!-- An additional leather patch is added after the book is covered. The function is to neaten up the board surface, covering the board holes.-->
              </listRelation>
          </div>
       </body>

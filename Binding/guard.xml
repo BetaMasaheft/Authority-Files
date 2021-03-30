@@ -61,7 +61,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <body>
             <div type="bibliography">
                 <listRelation>
-                    <relation active="guard" passive="http://w3id.org/lob/concept/1379" name="skos:broadMatch"/>
+                    <relation active="guard" passive="http://w3id.org/lob/concept/1379" name="skos:exactMatch"/>
                 </listRelation>
             </div>
         </body>

@@ -40,8 +40,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p>Tooled design used by bookbinders for the decoration of the leather cover.
-              The tool is similar to ram's horn.
+              <p>Blind-tooled design to decorate leather covers.
+              The tool is similar to a ram's horn.
               </p>
             </abstract>
             <langUsage>
@@ -73,6 +73,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">251</citedRange>
                </bibl>
             </listBibl>
+            <listRelation>
+                <relation name="skos:broader" active="corniForm" passive="http://w3id.org/lob/concept/2288"/>
+            </listRelation>
           </div>
         </body>
     </text>
