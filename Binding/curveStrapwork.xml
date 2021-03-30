@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p>Tooled design used by bookbinders for the decoration of the leather cover.
+              <p>Blind-tooled design used to decorate leather covers.
               Strapwork made up by single curved elements.
               </p>
             </abstract>
@@ -65,6 +65,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">124 - 125</citedRange>
                </bibl>
             </listBibl>
+            <listRelation>
+                <relation name="skos:broader" active="curveStrapwork" passive="http://w3id.org/lob/concept/2288"/>
+            </listRelation>
           </div>
         </body>
     </text>

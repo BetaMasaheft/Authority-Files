@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p>Tooled design used by bookbinders for the decoration of the leather cover.
+              <p>Blind-tooled design used to decorate leather covers.
               A network of lines that cross each other to form a series of rhombuses. Dots may be included.
               </p>
             </abstract>
@@ -69,6 +69,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">25</citedRange>
                </bibl>
             </listBibl>
+            <listRelation>
+                <relation name="skos:broader" active="crissCross" passive="http://w3id.org/lob/concept/2288"/>
+            </listRelation>
           </div>
         </body>
     </text>

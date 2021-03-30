@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p>Tooled design used by bookbinders for the decoration of the leather cover.
+              <p>Blind-tooled design used to decorate leather covers.
               Single curved element.
               </p>
             </abstract>
@@ -68,7 +68,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <ptr target="bm:Sergew1981Bookmaking"/>
                   <citedRange unit="page">25</citedRange>
                </bibl>
-            </listBibl>
+           </listBibl>
+           <listRelation>
+                   <relation name="skos:broader" active="crescent" passive="http://w3id.org/lob/concept/2288"/>
+          </listRelation>
           </div>
         </body>
     </text>
