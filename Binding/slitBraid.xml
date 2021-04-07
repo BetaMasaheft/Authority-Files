@@ -54,6 +54,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="EDS" when="2018-02-19">Created entity</change>
+            <change when="2021-04-02" who="EDS">Ligatus alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
@@ -73,7 +74,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </bibl>
             </listBibl>
             <listRelation>
-                <relation active="slitBraid" passive="http://w3id.org/lob/concept/2540" name="skos:broader"/>
+                <relation active="slitBraid" passive="http://w3id.org/lob/concept/2538" name="skos:broader"/>
             </listRelation>
         </div>
       </body>

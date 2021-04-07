@@ -56,6 +56,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="EDS" when="2018-02-19">Created entity</change>
+            <change when="2021-04-02" who="EDS">Ligatus alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
@@ -67,6 +68,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">53</citedRange>
                </bibl>
             </listBibl>
+            <listRelation>
+              <relation name="skos:broader" active="patternC" passive="http://w3id.org/lob/concept/2953"></relation>
+            </listRelation>
           </div>
         </body>
     </text>

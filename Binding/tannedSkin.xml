@@ -25,7 +25,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p>Stripes of tanned skin are used as thread.
+                <p>Strips of tanned skin used for sewing.
                 </p>
             </sourceDesc>
         </fileDesc>
@@ -52,7 +52,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="EDS" when="2018-02-19">Created entity</change>
+          <change when="2018-02-19" who="EDS">Created entity</change>
+          <change when="2021-04-02" who="EDS">Ligatus alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
@@ -63,6 +64,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <ptr target="bm:DiBellaSarris2014Field"/>
                </bibl>
             </listBibl>
+            <listRelation>
+                <relation active="tannedSkin" passive="http://w3id.org/lob/concept/1658" name="skos:exactMatch"/>
+            </listRelation>
           </div>
         </body>
     </text>

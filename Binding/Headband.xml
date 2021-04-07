@@ -32,11 +32,15 @@
       <revisionDesc>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
+         <change who="EDS" when="2021-04-02">Ligatus alignment</change>
       </revisionDesc>
    </teiHeader>
    <text xml:base="https://betamasaheft.eu/">
       <body>
          <p>For use in binding description</p>
+         <listRelation>
+             <relation active="Headband" passive="http://w3id.org/lob/concept/2544" name="skos:exactMatch"/>
+         </listRelation>
       </body>
    </text>
 </TEI>

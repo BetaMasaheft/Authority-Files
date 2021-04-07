@@ -68,7 +68,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </bibl>
             </listBibl>
             <listRelation>
-                <relation name="skos:broader" active="juniper" passive="http://w3id.org/lob/concept/1386"/>
+                <relation name="skos:broader" active="juniper" passive="http://w3id.org/lob/concept/1611"/>
             </listRelation>
         </div>
       </body>

@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p>Blind-tooled design used to decorate leather covers.
+              <p>Blind-tooled design used to decorate leather.
               A network of lines that cross each other to form a series of rhombuses. Dots may be included.
               </p>
             </abstract>
@@ -53,7 +53,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="EDS" when="2018-02-19">Created entity</change>
+            <change when="2018-02-19" who="EDS">Created entity</change>
+            <change when="2021-03-31" who="EDS">Ligatus alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

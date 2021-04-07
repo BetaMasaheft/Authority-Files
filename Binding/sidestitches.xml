@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p>It indicates that the <ref corresp="guard" type="authFile"/> is held on the <ref corresp="spinefold" type="authFile"/>
+              <p>Stitches sewn in a line by passing a needle in and out of the leaf. It is used to indicate that the <ref corresp="guard" type="authFile"/> is held on the <ref corresp="spinefold" type="authFile"/>
                of the quire by threads led through slits, through one or more leaves on each side of the quire.
               </p>
             </abstract>
@@ -54,6 +54,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="EDS" when="2018-02-19">Created entity</change>
+            <change when="2021-04-02" who="EDS">AAT alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
@@ -65,9 +66,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">85-86</citedRange>
                </bibl>
             </listBibl>
-            
             <listRelation>
-                <relation active="sidestitches" passive="http://w3id.org/lob/concept/1379" name="skos:broader"/>
+                <relation active="sidestitches" passive="http://vocab.getty.edu/page/aat/300310098" name="skos:broader"/>
+                <!-- AAT running stitches are specific for textile. -->
             </listRelation>
         </div>
       </body>

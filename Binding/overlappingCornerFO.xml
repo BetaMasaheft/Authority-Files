@@ -41,7 +41,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>Corners where the fore-edge turn-ins lay on top of head and tail ones.
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -53,6 +54,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="EDS" when="2019-02-02">Created entity</change>
+            <change when="2021-04-02" who="EDS">Ligatus alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

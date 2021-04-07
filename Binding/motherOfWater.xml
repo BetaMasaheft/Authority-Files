@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>Tooled design used by bookbinders for the decoration of the leather cover.
+                <p>Blind-tooled design used to decorate leather.
                   Two concentric oval pattern, named after a water insect with a similar shape.
                 </p>
             </abstract>
@@ -53,7 +53,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="EDS" when="2018-02-19">Created entity</change>
+          <change who="EDS" when="2018-02-19">Created entity</change>
+          <change who="EDS" when="2021-04-02">Ligatus alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
@@ -73,6 +74,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">251</citedRange>
                </bibl>
             </listBibl>
+            <listRelation>
+                <relation name="skos:broader" active="motherOfWater" passive="http://w3id.org/lob/concept/2288"/>
+            </listRelation>
           </div>
         </body>
     </text>

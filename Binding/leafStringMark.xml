@@ -41,7 +41,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>Bookmark made of a thread which is sewn directly through a leaf in a bookblock.
+                <p>Bookmark made of a thread which is sewn directly through a leaf.
                 </p>
             </abstract>
             <langUsage>
@@ -54,13 +54,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="EDS" when="2018-12-04">Created entity</change>
+            <change when="2021-04-02" who="EDS">Ligatus alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
         <body>
             <div type="bibliography">
                 <listRelation>
-                    <relation active="leafStringMark" passive="http://w3id.org/lob/concept/2944" name="skos:exactMatch"/>
+                    <relation active="leafStringMark" passive="http://w3id.org/lob/concept/2944" name="skos:broader"/>
                 </listRelation>
             </div>
         </body>

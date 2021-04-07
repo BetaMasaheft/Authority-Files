@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p>It indicates that the <ref corresp="guard" type="authFile"/> is placed in the central bifolium of a quire.
+              <p>Central bifolium of a quire. It is used to specify the position of a <ref corresp="guard" type="authFile"/>.
               </p>
             </abstract>
             <langUsage>
@@ -53,6 +53,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="EDS" when="2018-02-19">Created entity</change>
+            <change when="2021-04-02" who="EDS">Ligatus alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
@@ -65,8 +66,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </bibl>
             </listBibl>
             <listRelation>
-                <relation active="centerfold" passive="http://w3id.org/lob/concept/3282" name="skos:broadMatch"/>
-                <!-- LoB sewing guards are inserted in the centres of the quires. The BM concept refers to guards inserted in the central bifolium -->
+                <relation active="centerfold" passive="http://w3id.org/lob/concept/1246" name="skos:exactMatch"/>
             </listRelation>
         </div>
       </body>

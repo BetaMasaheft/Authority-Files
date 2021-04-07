@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p>It indicates that the <ref corresp="guard" type="authFile"/> is held on the <ref corresp="spinefold" type="authFile"/> 
+              <p>It is used to indicate that the <ref corresp="guard" type="authFile"/> is held on the <ref corresp="spinefold" type="authFile"/>
               or in the <ref corresp="centerfold" type="authFile"/> of the quire by threads of the main sewing only.
               </p>
             </abstract>
@@ -54,6 +54,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="EDS" when="2018-02-19">Created entity</change>
+            <change when="2021-04-02" who="EDS">Ligatus alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
@@ -66,7 +67,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </bibl>
             </listBibl>
             <listRelation>
-                <relation active="mainSewing" passive="http://w3id.org/lob/concept/1379" name="skos:broader"/>
+                <relation active="mainSewing" passive="http://w3id.org/lob/concept/2362" name="skos:exactMatch"/>
             </listRelation>
         </div>
       </body>

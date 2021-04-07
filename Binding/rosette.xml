@@ -40,8 +40,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-              <p>Tooled design used by bookbinders for the decoration of the leather cover.
-              Small circular or rhomboidal tool, resembling a flower.
+              <p>Blind-tooled design used to decorate leather covers.
+              Small circular or rhomboid tool, resembling a flower.
             </p>
             </abstract>
             <langUsage>
@@ -53,7 +53,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="EDS" when="2018-02-19">Created entity</change>
+          <change when="2018-02-19" who="EDS">Created entity</change>
+          <change when="2021-04-02" who="EDS">Ligatus alignment</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
@@ -69,6 +70,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">25</citedRange>
                </bibl>
             </listBibl>
+            <listRelation>
+                <relation name="skos:broader" active="rosette" passive="http://w3id.org/lob/concept/2288"/>
+            </listRelation>
           </div>
         </body>
     </text>
