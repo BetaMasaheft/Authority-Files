@@ -299,7 +299,7 @@
                 <catDesc>martyr</catDesc>
             </category>
         </category>
-        
+
 
         <category>
             <desc>Periods</desc>
@@ -522,6 +522,9 @@
             <category>
                 <catDesc>findingAid</catDesc>
             </category>
+            <category>
+              <catDesc>RoyalInscription</catDesc>
+              </category>
         </category>
 
         <category>
@@ -870,7 +873,7 @@
             <category>
                 <catDesc>AT1019Cana</catDesc>
             </category>
-            
+
             <category>
                 <catDesc>AT1061SaintMartyrdom</catDesc>
             </category>
@@ -961,7 +964,7 @@
             <category>
                 <catDesc>AT1059WeighingOfSouls</catDesc>
             </category>
-            
+
             <category>
                 <catDesc>AT1107Synaxis</catDesc>
             </category>
@@ -1307,7 +1310,7 @@
             <desc>Confessions</desc>
             <category>
                 <catDesc>Christianity</catDesc>
-            
+
                 <category>
                     <catDesc>Catholicism</catDesc>
                 </category>
@@ -1317,7 +1320,7 @@
                 <category>
                     <catDesc>Anglican</catDesc>
                 </category>
-            
+
                 <category>
                     <catDesc>Orthodox</catDesc>
 
