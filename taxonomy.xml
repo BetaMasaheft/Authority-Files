@@ -2,6 +2,13 @@
 <classDecl xmlns="http://www.tei-c.org/ns/1.0">
     <taxonomy xml:id="ethioauthlist">
         <category>
+          <desc>types of inscription</desc>
+          <category>
+            <catDesc>Royal</catDesc>
+          </category>
+          </category>
+
+        <category>
             <desc>Special Manuscripts</desc>
             <category>
                 <catDesc>GoldenGospel</catDesc>
@@ -522,10 +529,7 @@
             <category>
                 <catDesc>findingAid</catDesc>
             </category>
-            <category>
-              <catDesc>RoyalInscription</catDesc>
-              </category>
-        </category>
+          </category>
 
         <category>
             <desc>Art Keywords</desc>
