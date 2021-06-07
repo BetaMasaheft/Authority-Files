@@ -2,6 +2,13 @@
 <classDecl xmlns="http://www.tei-c.org/ns/1.0">
     <taxonomy xml:id="ethioauthlist">
         <category>
+          <desc>types of inscription</desc>
+          <category>
+            <catDesc>Royal</catDesc>
+          </category>
+          </category>
+
+        <category>
             <desc>Special Manuscripts</desc>
             <category>
                 <catDesc>GoldenGospel</catDesc>
@@ -299,7 +306,7 @@
                 <catDesc>martyr</catDesc>
             </category>
         </category>
-        
+
 
         <category>
             <desc>Periods</desc>
@@ -522,7 +529,7 @@
             <category>
                 <catDesc>findingAid</catDesc>
             </category>
-        </category>
+          </category>
 
         <category>
             <desc>Art Keywords</desc>
@@ -870,7 +877,7 @@
             <category>
                 <catDesc>AT1019Cana</catDesc>
             </category>
-            
+
             <category>
                 <catDesc>AT1061SaintMartyrdom</catDesc>
             </category>
@@ -961,7 +968,7 @@
             <category>
                 <catDesc>AT1059WeighingOfSouls</catDesc>
             </category>
-            
+
             <category>
                 <catDesc>AT1107Synaxis</catDesc>
             </category>
@@ -1307,7 +1314,7 @@
             <desc>Confessions</desc>
             <category>
                 <catDesc>Christianity</catDesc>
-            
+
                 <category>
                     <catDesc>Catholicism</catDesc>
                 </category>
@@ -1317,7 +1324,7 @@
                 <category>
                     <catDesc>Anglican</catDesc>
                 </category>
-            
+
                 <category>
                     <catDesc>Orthodox</catDesc>
 
