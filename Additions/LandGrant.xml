@@ -5,6 +5,7 @@
          <titleStmt>
             <title>Land Grant</title>
             <editor key="ES"/>
+            <editor key="DN"/>
             <editor key="AB" role="generalEditor"/>
             <funder>Akademie der Wissenschaften in Hamburg</funder>
          </titleStmt>
@@ -29,9 +30,25 @@
             </xi:fallback>
          </xi:include>
       </encodingDesc>
+      <profileDesc>
+         <abstract>
+
+            <p>There are documents which only include the formula <foreign xml:lang="gez">ወሀብኩ᎓</foreign>,
+                but do not specify the type of the land ownership, even if they contain a precise register of the locations
+              involved (e.g., Liber axumae nos. 77, 80, EDL no. 32). Sometimes
+                we can only assume that the document is about gwəlt since the term is not clearly mentioned
+                (<ref corresp="BLorient481" type="mss">BritLib Or. 481</ref>, f. 92r, 124v; seems to be very frequent in the “copies” of the charters).</p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="am">Amharic</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
+         <change who="PL" when="2021-02-11">added information from https://github.com/BetaMasaheft/Documentation/issues/917</change>
       </revisionDesc>
    </teiHeader>
    <text xml:base="https://betamasaheft.eu/">

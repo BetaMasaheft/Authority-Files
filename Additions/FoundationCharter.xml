@@ -31,9 +31,33 @@
             </xi:fallback>
          </xi:include>
       </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               The foundational charters in the pure form, i.e. pivoting on an account somehow describing the foundation ritual,
+               seem to be rare (at least among the mss of Ethio-SPaRe).
+            </p>
+            <p>Most frequently such a document includes a formula concerning gwəlt which is given to the institution upon the foundation, but also a reference to the establishing of the institution, in whatever form.   </p>
+            <p>In rare cases, the account about a foundation, originally of documentary nature,
+              becomes a literary work of historiography,
+               like the story of the foundation of Dabra Bǝrhan Sǝllāse in Gondar, by Iyasu I
+               in several versions, or Dabra Ḍaḥay Qʷǝsqʷām by Iyasu II.</p>
+            <p>Sometimes we learn only indirectly that a document is related to the foundation
+              of a church or it is
+               called like this in a scholarly literature, but no relevant features can be solicited from the document itself,
+               as it is the case with the recently published charters of Baʾātā church in Gondar
+               (Kropp, “The Foundation of the Church Däbrä Tebäb Bä’ata Maryam”. Also the term gwəlt is not directly use there).</p>
+            <p>Records and accounts on the church foundation/ construction of church,  of various types, without clear information on gwəlt, are rare.</p>
+         </abstract>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="gez">Gǝʿǝz</language>
+         </langUsage>
+      </profileDesc>
       <revisionDesc>
          <change who="ES" when="2016-06-02">Provided List in Issue 47</change>
          <change who="PL" when="2016-05-11">prepared XML file</change>
+         <change who="DE" when="2021-09-28">Small corrections of transliteration.</change>
       </revisionDesc>
    </teiHeader>
    <text xml:base="https://betamasaheft.eu/">
