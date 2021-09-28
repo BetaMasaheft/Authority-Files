@@ -40,8 +40,9 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                 <p>
                     A sub-type of <ref type="authFile" corresp="GweltDeed">gwəlt-document</ref> which is clearly identifiable is the “renovation”
                     of the former grant with the formula
-                    <foreign xml:lang="gez">ሐደስኩ᎓…</foreign> or  አግባእኩ፡ ... etc.
-                    The former grant may also be repeated in whatever form, with the name of the king, with the word  <foreign xml:lang="gez">ጐለተ</foreign>.
+                    <foreign xml:lang="gez">ሐደስኩ᎓…</foreign> or
+                    <foreign xml:lang="gez">አግባእኩ፡ ...</foreign> etc.
+                    The former grant may also be repeated in whatever form, with the name of the king, with the word <foreign xml:lang="gez">ጐለተ</foreign>.
                     The Liber axumae includes quite a number of them.
                 </p>
             </abstract>
