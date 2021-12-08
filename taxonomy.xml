@@ -803,6 +803,9 @@
                 <catDesc>AT1033Ascension</catDesc>
             </category>
             <category>
+                <catDesc>AT1037AscensionMary</catDesc>
+            </category>
+            <category>
                 <catDesc>AT1038Baptism</catDesc>
             </category>
             <category>
@@ -1106,6 +1109,18 @@
             </category>
             <category>
                 <catDesc>AT1140SealSol</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1140AngelGoodThief</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1141NursingMary</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1142Pentecost</catDesc>
+            </category>
+            <category>
+                <catDesc>AT1143SecondComingJesus</catDesc>
             </category>
         </category>
 
