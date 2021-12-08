@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng"
 schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AT1037AscensionMary"
+     xml:id="AT1141NursingMary"
      xml:lang="en"
      type="auth">
     <teiHeader xml:base="https://betamasaheft.eu/">
         <fileDesc>
             <titleStmt>
-                <title>Assumption of Mary</title>
+                <title>Nursing Mary</title>
                 <editor role="generalEditor" key="AB"/>
-                <editor key="DR"/>
-                <funder>Akademie der Wissenschaften in Hamburg</funder>
+                <editor key="JG"/>
+                <funder>AHRC-DFG</funder>
             </titleStmt>
             <publicationStmt>
                 <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
-                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas:  Eine multimediale
+                            Forschungsumgebung / Beta maṣāḥǝft</publisher>
                 <pubPlace>Hamburg</pubPlace>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
@@ -40,7 +41,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>A variation of the theme of the Virgin and Child enthroned in which
+                  <persName ref=" PRS6819Mary"/> is represented as the Virgo Lactans or Nursing Madonna,
+                  breastfeeding the infant <persName ref="PRS5684JesusCh"/>.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -51,12 +54,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="DR" when="2017-12-20">Created entity</change>
+            <change who="JG" when="2021-12-09">Created entity</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+            </div>
         </body>
     </text>
 </TEI>
