@@ -50,6 +50,9 @@
             <category xml:id="openMitredCorner" corresp="https://betamasaheft.eu/authority-files/openMitredCorner/main">
                <catDesc>open mitred corner</catDesc>
             </category>
+         </category>
+         <category>
+            <desc>Inlays</desc>
             <category xml:id="inlay" corresp="https://betamasaheft.eu/authority-files/inlay/main">
                <catDesc>inlay</catDesc>
             </category>
@@ -64,7 +67,7 @@
             </category>
          </category>
          <category>
-            <desc>guards</desc>
+            <desc>Guards</desc>
             <category xml:id="guard" corresp="https://betamasaheft.eu/authority-files/guard/main">
                <catDesc>Guard</catDesc>
             </category>
