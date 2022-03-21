@@ -50,6 +50,18 @@
             <category xml:id="openMitredCorner" corresp="https://betamasaheft.eu/authority-files/openMitredCorner/main">
                <catDesc>open mitred corner</catDesc>
             </category>
+            <category xml:id="inlay" corresp="https://betamasaheft.eu/authority-files/inlay/main">
+               <catDesc>inlay</catDesc>
+            </category>
+            <category xml:id="paperInlay" corresp="https://betamasaheft.eu/authority-files/paperInlay/main">
+               <catDesc>paper inlay</catDesc>
+            </category>
+            <category xml:id="parchmentInlay" corresp="https://betamasaheft.eu/authority-files/parchmentInlay/main">
+               <catDesc>parchment inlay</catDesc>
+            </category>
+            <category xml:id="textileInlay" corresp="https://betamasaheft.eu/authority-files/textileInlay/main">
+               <catDesc>textile inlay</catDesc>
+            </category>
          </category>
          <category>
             <desc>guards</desc>
