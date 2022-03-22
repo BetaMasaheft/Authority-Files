@@ -621,6 +621,9 @@
          <category xml:id="donordepiction" corresp="https://betamasaheft.eu/authority-files/donordepiction/main">
             <catDesc>donor depiction</catDesc>
          </category>
+         <category xml:id="dragon" corresp="https://betamasaheft.eu/authority-files/dragon/main">
+            <catDesc>dragon</catDesc>
+         </category>
          <category xml:id="emptycross" corresp="https://betamasaheft.eu/authority-files/emptycross/main">
             <catDesc>Empty Cross</catDesc>
          </category>
@@ -728,10 +731,7 @@
          </category>
          <category xml:id="curtain" corresp="https://betamasaheft.eu/authority-files/curtain/main">
             <catDesc>curtain</catDesc>
-         </category>
-         <category xml:id="dragon" corresp="https://betamasaheft.eu/authority-files/dragon/main">
-            <catDesc>dragon</catDesc>
-         </category>
+         </category>         
          <category xml:id="eucharist" corresp="https://betamasaheft.eu/authority-files/eucharist/main">
             <catDesc>eucharist</catDesc>
          </category>
