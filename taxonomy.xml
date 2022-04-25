@@ -1526,6 +1526,9 @@
          <category xml:id="Prayers" corresp="https://betamasaheft.eu/authority-files/Prayers/main">
             <catDesc>Prayers</catDesc>
          </category>
+         <category xml:id="Qene" corresp="https://betamasaheft.eu/authority-files/Qene/main">
+            <catDesc>Prayers</catDesc>
+         </category>
          <category xml:id="Religion" corresp="https://betamasaheft.eu/authority-files/Religion/main">
             <catDesc>Religion</catDesc>
          </category>
