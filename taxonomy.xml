@@ -1493,6 +1493,9 @@
          <category xml:id="RitualsAndRites" corresp="https://betamasaheft.eu/authority-files/RitualsAndRites/main">
             <catDesc>Rituals and Rites</catDesc>
          </category>
+         <category xml:id="Study" corresp="https://betamasaheft.eu/authority-files/Study/main">
+            <catDesc>Study</catDesc>
+         </category>
          <category xml:id="TigrinyaLiterature" corresp="https://betamasaheft.eu/authority-files/TigrinyaLiterature/main">
             <catDesc>Tigrinya Literature</catDesc>
          </category>
