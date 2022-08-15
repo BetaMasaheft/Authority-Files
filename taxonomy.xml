@@ -1548,6 +1548,27 @@
             <catDesc>Didactic Material</catDesc>
          </category>
       </category>
+       <category>
+          <desc>IslHornAfr</desc>
+          <category xml:id="prose" corresp="https://betamasaheft.eu/authority-files/prose/main">
+             <catDesc>prose in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Jurisprudence" corresp="https://betamasaheft.eu/authority-files/Jurisprudence/main">
+             <catDesc>Jurisprudence in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Devotional" corresp="https://betamasaheft.eu/authority-files/Devotional/main">
+             <catDesc>Devotional in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Linguistics" corresp="https://betamasaheft.eu/authority-files/Linguistics/main">
+             <catDesc>Linguistics in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Ethics" corresp="https://betamasaheft.eu/authority-files/Ethics/main">
+             <catDesc>Ethics in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Belief" corresp="https://betamasaheft.eu/authority-files/Belief/main">
+             <catDesc>Belief in IslHornAfr</catDesc>
+          </category>
+       </category>
       <category>
          <desc>rubrication</desc>
          <category xml:id="beginnings" corresp="https://betamasaheft.eu/authority-files/beginnings/main">
