@@ -1568,6 +1568,36 @@
           <category xml:id="Belief" corresp="https://betamasaheft.eu/authority-files/Belief/main">
              <catDesc>Belief in IslHornAfr</catDesc>
           </category>
+          <category xml:id="Adab" corresp="https://betamasaheft.eu/authority-files/Adab/main">
+             <catDesc>Adab in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Documentary" corresp="https://betamasaheft.eu/authority-files/Documentary/main">
+             <catDesc>Documentary in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Fadail" corresp="https://betamasaheft.eu/authority-files/Fadail/main">
+             <catDesc>Fadail in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Fawaid_Masail" corresp="https://betamasaheft.eu/authority-files/Fawaid_Masail/main">
+             <catDesc>Fawaid_Masail in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Geography" corresp="https://betamasaheft.eu/authority-files/Geography/main">
+             <catDesc>Geography in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Hadit" corresp="https://betamasaheft.eu/authority-files/Hadit/main">
+             <catDesc>Hadit in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="History" corresp="https://betamasaheft.eu/authority-files/Hadit/main">
+             <catDesc>History in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Natural_Sciences" corresp="https://betamasaheft.eu/authority-files/Natural_Sciences/main">
+             <catDesc>Natural_Sciences in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Preaching" corresp="https://betamasaheft.eu/authority-files/Preaching/main">
+             <catDesc>Preaching in IslHornAfr</catDesc>
+          </category>
+          <category xml:id="Quran" corresp="https://betamasaheft.eu/authority-files/Quran/main">
+             <catDesc>Quran in IslHornAfr</catDesc>
+          </category>
        </category>
       <category>
          <desc>rubrication</desc>
