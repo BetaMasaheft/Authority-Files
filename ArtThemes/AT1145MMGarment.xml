@@ -12,12 +12,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </titleStmt>
             <publicationStmt>
                 <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
-                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale
-                            Forschungsumgebung / Beta maṣāḥǝft</publisher>
+                <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine
+                    multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
                 <pubPlace>Hamburg</pubPlace>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
-                                licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+                        licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -28,10 +28,23 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <p>A digital born TEI file</p>
         </encodingDesc>
         <profileDesc>
-            <creation/>
             <abstract>
-                <p/>
+
+                <p>A miniature illustrating <ref type="work" corresp="LIT3587Miracle"/> with two
+                    episodes, showing: first, the poor monk praying to <persName ref="PRS6819Mary"/>
+                    carrying her Child; second, <persName ref="PRS6819Mary"/> giving the poor monk
+                    garment and food. </p>
             </abstract>
+            <textClass>
+                
+                <keywords>
+                    <term key="Apocrypha"/>
+                    <term key="Miracle"/>
+                    <term key="Hagiography"/>
+                    <term key="ChristianContent"/>
+                </keywords>
+            </textClass>
+
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="gez">Gǝʿǝz</language>
@@ -39,11 +52,18 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2022-09-06">Created entity</change>
+            <change who="GS" when="2022-09-06"> Added abstract, Key words and relations </change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <div type="bibliography"/>
+            <listRelation>
+                <relation name="ecrm:P129_is_about"
+                    active="AT1145MMGarment"
+                    passive="LIT3587Miracle"/>
+                
+            </listRelation>
         </body>
     </text>
 </TEI>
