@@ -8,6 +8,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>Miracle of Mary: Miracle of the poor monk whom Mary gave a garment</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="DR"/>
+                <editor key="GS"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -53,6 +54,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <revisionDesc>
             <change who="DR" when="2022-09-06">Created entity</change>
             <change who="GS" when="2022-09-06"> Added abstract, Key words and relations </change>
+            <change who="GS" when="2022-09-07"> Added editor</change>
         </revisionDesc>
     </teiHeader>
     <text>
