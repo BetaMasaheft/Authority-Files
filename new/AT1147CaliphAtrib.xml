@@ -49,14 +49,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <term key="ChristianContent"/>
                 </keywords>
             </textClass>
-            <t:langUsage xmlns:t="http://www.tei-c.org/ns/1.0">
+            <langUsage>
                 <language ident="en">English</language>
                 <language ident="gez">Gǝʿǝz</language>
-            </t:langUsage>
+            <langUsage>
         </profileDesc>
         <revisionDesc>
-            <t:change xmlns:t="http://www.tei-c.org/ns/1.0" who="GS" when="2023-05-25">Created
-                entity</t:change>
+            <change who="GS" when="2023-05-25">Created
+                entity<change>
         </revisionDesc>
     </teiHeader>
     <text>
