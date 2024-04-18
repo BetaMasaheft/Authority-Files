@@ -360,6 +360,9 @@
           <category xml:id="Mawaddes" corresp="https://betamasaheft.eu/authority-files/Mawaddes/main">
              <catDesc>Mawaddǝs</catDesc>
           </category>         
+          <category xml:id="KebrYeeti" corresp="https://betamasaheft.eu/authority-files/KebrYeeti/main">
+             <catDesc>Kǝbr yǝʾǝti</catDesc>
+          </category>
        </category>
       <category>
          <desc>Additiones</desc>
