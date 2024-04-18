@@ -34,7 +34,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     corresp="Qene"
                     >Qəne</ref>.</p>
 
-                <p>See also  <ref type="authFile" corresp="Mawaddes">mawaddəs</ref></p>
+                <p>See also  <ref type="authFile" corresp="Mawaddes">mawaddəs</ref> <ref type="authFile" corresp="Sellase">śǝllase </ref> <ref type="authFile" corresp="KebrYeeti">Kǝbr yǝʾǝti </ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
