@@ -1,13 +1,13 @@
 <?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
 schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Qene" xml:lang="en" type="auth">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Mawaddes" xml:lang="en" type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Qǝne</title>
+                <title>Mawaddǝs</title>
                 <editor role="generalEditor" key="AB"/>
-                <editor key="DR"/>
+                <editor key="ES"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -30,21 +30,19 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>This keyword is used to classify genres of texts appearing in the manuscripts (for the types of additiones, a specific keyword <ref type="authFile"
-                    corresp="PoemQene"
-                    >PoemQene</ref> is additionally used.</p>
-                <p>Despite wide-spread opinion that qǝne is a poetic improvisation which is not written down, manuscripts contain unexpectedly many qǝne-poems, usually, but not only as additional notes. 
-                    Frequently it is clearly stated the the poem is qǝne, and even the type is indicated. But no one tried to check if these poems formally correspond to what we know today as qǝne-forms. </p>
-                <p>Wherever possible, we mark qǝne-forms with this specific keyword; when it is indicated, we also specify the specific modes, see <ref type="authFile" corresp="EtanaMogar">ʿəṭāna mogar</ref>,  <ref type="authFile" corresp="Mawaddes">mawaddəs</ref></p>
+                <p>A type of <ref type="authFile"
+                    corresp="Qene"
+                    >Qəne</ref>.</p>
+               
+                <p>see also <ref type="authFile" corresp="EtanaMogar">ʿəṭāna mogar</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="gez">Gǝʿǝz</language>
             </langUsage>
         </profileDesc>
-        <revisionDesc>
-            <change who="DR" when="2022-04-25">Created entity</change>
-            <change when="2024-04-18" who="ES">updated following discussion in issue 2504</change>
+        <revisionDesc>            
+            <change when="2024-04-18" who="ES">created following discussion in issue 2504</change>
         </revisionDesc>
     </teiHeader>
     <text>

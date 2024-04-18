@@ -40,6 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
+                <p>This keyword is used to classify additiones.</p>
                 <p>Despite wide-spread opinion that qǝne is a poetic improvisation which is not written down, manuscripts contain unexpectedly many qǝne-poems, usually as additional notes. 
                     Frequently it is clearly stated the the poem is qǝne, and even the type is indicated. But no one tried to check if these poems formally correspond to what we know today as qǝne-forms. </p>
                 <p>Examples are:
