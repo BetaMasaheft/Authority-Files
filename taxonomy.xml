@@ -352,6 +352,15 @@
             <catDesc>Gǝʿǝz Mode</catDesc>
          </category>
       </category>
+       <category>
+          <desc>Qəne Types</desc>
+          <category xml:id="EtanaMogar" corresp="https://betamasaheft.eu/authority-files/EtanaMogar/main">
+             <catDesc>ʿƎṭāna mogar</catDesc>
+          </category>
+          <category xml:id="Mawaddes" corresp="https://betamasaheft.eu/authority-files/Mawaddes/main">
+             <catDesc>Mawaddǝs</catDesc>
+          </category>         
+       </category>
       <category>
          <desc>Additiones</desc>
          <category xml:id="GuestText" corresp="https://betamasaheft.eu/authority-files/GuestText/main">
