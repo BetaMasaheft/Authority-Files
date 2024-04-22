@@ -369,6 +369,9 @@
           <category xml:id="Zayeeze" corresp="https://betamasaheft.eu/authority-files/Zayeeze/main">
              <catDesc>Za-yǝʾǝze</catDesc>
           </category>
+          <category xml:id="Kwellekomu" corresp="https://betamasaheft.eu/authority-files/Zayeeze/main">
+             <catDesc>Kʷǝllǝkǝmu gǝʿǝz</catDesc>
+          </category>
        </category>
       <category>
          <desc>Additiones</desc>
