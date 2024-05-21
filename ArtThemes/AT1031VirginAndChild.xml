@@ -103,7 +103,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <listRelation>
                <relation name="ecrm:P129_is_about"
                          active="AT1031VirginAndChild"
-                         passive="PRS6819Mary PRS5684JesusCh">
+                         passive="PRS6819Mary">
+                        <desc/>
+                    </relation>
+                    <relation name="ecrm:P129_is_about"
+                        active="AT1031VirginAndChild"
+                        passive="PRS5684JesusCh">
                         <desc/>
                     </relation>
             </listRelation>

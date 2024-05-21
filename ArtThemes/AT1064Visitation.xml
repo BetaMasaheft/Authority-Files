@@ -66,11 +66,18 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <body>
             <div type="bibliography"> 
                 <listRelation>
-                    <relation name="saws:contains"
+                    <relation name="ecrm:P129_is_about"
                          active="AT1064Visitation"
-                         passive="PRS3725Elizabet PRS6819Mary">
+                         passive="PRS3725Elizabet">
                         <desc/>
                     </relation>
+                    
+                        <relation name="ecrm:P129_is_about"
+                            active="AT1064Visitation"
+                            passive="PRS6819Mary">
+                            <desc/>
+                        </relation>
+                    
                 </listRelation>
             </div>
         </body>
