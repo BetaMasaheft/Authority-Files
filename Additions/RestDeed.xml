@@ -6,11 +6,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"
    schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      type="auth"
-     xml:id="DocumentaryText">
+     xml:id="RestDeed">
     <teiHeader xml:base="https://betamasaheft.eu/">
         <fileDesc>
             <titleStmt>
-                <title>Documentary Text</title>
+                <title>Rǝst deed</title>
                 <editor key="AB" role="generalEditor"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
