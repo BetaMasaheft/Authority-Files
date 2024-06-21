@@ -369,8 +369,11 @@
           <category xml:id="Zayeeze" corresp="https://betamasaheft.eu/authority-files/Zayeeze/main">
              <catDesc>Za-yǝʾǝze</catDesc>
           </category>
-          <category xml:id="Kwellekomu" corresp="https://betamasaheft.eu/authority-files/Zayeeze/main">
+          <category xml:id="Kwellekomu" corresp="https://betamasaheft.eu/authority-files/Kwellekomu/main">
              <catDesc>Kʷǝllǝkǝmu gǝʿǝz</catDesc>
+          </category>
+          <category xml:id="Wazema" corresp="https://betamasaheft.eu/authority-files/Wazema/main">
+             <catDesc>Wāzemā</catDesc>
           </category>
        </category>
       <category>
