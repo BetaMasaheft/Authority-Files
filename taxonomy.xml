@@ -379,6 +379,62 @@
              <catDesc>Gubāʿe Qānā</catDesc>
           </category>          
        </category>
+       
+       <category>
+          <desc>Demons and diseases</desc>
+          <category xml:id="Barya" corresp="https://betamasaheft.eu/authority-files/Barya/main">
+             <catDesc>Bāryā</catDesc>
+          </category>
+          <category xml:id="EvilEye" corresp="https://betamasaheft.eu/authority-files/EvilEye/main">
+             <catDesc>Evil Eye</catDesc>
+          </category>         
+          <category xml:id="Fever" corresp="https://betamasaheft.eu/authority-files/Fever/main">
+             <catDesc>fever</catDesc>
+          </category>
+          <category xml:id="Colic" corresp="https://betamasaheft.eu/authority-files/Colic/main">
+             <catDesc>colic</catDesc>
+          </category>
+          <category xml:id="Legewon" corresp="https://betamasaheft.eu/authority-files/Legewon/main">
+             <catDesc>legewon</catDesc>
+          </category>
+          <category xml:id="Buda" corresp="https://betamasaheft.eu/authority-files/Buda/main">
+             <catDesc>budā</catDesc>
+          </category>
+          <category xml:id="Falasa" corresp="https://betamasaheft.eu/authority-files/Falasa/main">
+             <catDesc>falašā</catDesc>
+          </category>
+          <category xml:id="Gudale" corresp="https://betamasaheft.eu/authority-files/Gudale/main">
+             <catDesc>gudale</catDesc>
+          </category>         
+          <category xml:id="Dabbas" corresp="https://betamasaheft.eu/authority-files/Dabbas/main">
+             <catDesc>dabbās</catDesc>
+          </category>
+          <category xml:id="Dask" corresp="https://betamasaheft.eu/authority-files/Dask/main">
+             <catDesc>Dask</catDesc>
+          </category>
+          <category xml:id="Aqweyasat" corresp="https://betamasaheft.eu/authority-files/Aqweyasat/main">
+             <catDesc>ʾaqʷǝyāṣāt</catDesc>
+          </category>
+          <category xml:id="Bleeding" corresp="https://betamasaheft.eu/authority-files/Bleeding/main">
+             <catDesc>Bleeding</catDesc>
+          </category>
+          <category xml:id="Malaria" corresp="https://betamasaheft.eu/authority-files/Malaria/main">
+             <catDesc>Malaria</catDesc>
+          </category>
+          <category xml:id="Epilepsy" corresp="https://betamasaheft.eu/authority-files/Epilepsy/main">
+             <catDesc>Epilepsy</catDesc>
+          </category>
+          <category xml:id="ChestPain" corresp="https://betamasaheft.eu/authority-files/ChestPain/main">
+             <catDesc>Chest Pain</catDesc>
+          </category>
+          <category xml:id="BindingDemons" corresp="https://betamasaheft.eu/authority-files/BindingDemons/main">
+             <catDesc>Binding Demons</catDesc>
+          </category>
+          <category xml:id="DrowningDemons" corresp="https://betamasaheft.eu/authority-files/DrowningDemons/main">
+             <catDesc>Drowning Demons</catDesc>
+          </category>
+       </category>
+       
       <category>
          <desc>Additiones</desc>
          <category xml:id="GuestText" corresp="https://betamasaheft.eu/authority-files/GuestText/main">
