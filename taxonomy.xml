@@ -375,6 +375,9 @@
           <category xml:id="Wazema" corresp="https://betamasaheft.eu/authority-files/Wazema/main">
              <catDesc>Wāzemā</catDesc>
           </category>
+          <category xml:id="GubaeQana" corresp="https://betamasaheft.eu/authority-files/GubaeQana/main">
+             <catDesc>Gubāʿe Qānā</catDesc>
+          </category>          
        </category>
       <category>
          <desc>Additiones</desc>
