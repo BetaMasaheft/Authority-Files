@@ -55,9 +55,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="GS" when="2023-05-25">Created
-              <change who="GS" when="2024-09-12">corrected typo errors
-                entity<change>
+            <change who="GS" when="2023-05-25">Created entity</change>
+              <change who="GS" when="2024-09-12">corrected typo errors</change>
         </revisionDesc>
     </teiHeader>
     <text>
