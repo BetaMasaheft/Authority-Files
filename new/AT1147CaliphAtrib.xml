@@ -37,7 +37,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     Church with a white dove appearing to take his letter between them; third, the
                     dove giving the letter written by the caliph to the head of troops (agent of
                     the Caliph) with the Abbot of the Church standing in the gate, and
-                    fourth, the Caliph who later become believer sitting in front of the Church.</p>
+                    fourth, the Caliph who later became believer sitting in front of the Church.</p>
 
             </abstract>
             <textClass>
@@ -52,7 +52,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="gez">Gǝʿǝz</language>
-            <langUsage>
+            </langUsage>
         </profileDesc>
         <revisionDesc>
             <change who="GS" when="2023-05-25">Created entity</change>
