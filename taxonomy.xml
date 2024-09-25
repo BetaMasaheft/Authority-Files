@@ -1282,6 +1282,9 @@
          <category xml:id="zoba" corresp="https://betamasaheft.eu/authority-files/zoba/main">
             <catDesc>zobā</catDesc>
          </category>
+         <category xml:id="neuszoba" corresp="https://betamasaheft.eu/authority-files/neuszoba/main">
+            <catDesc>nǝʾus zobā</catDesc>
+         </category>
          <category xml:id="wadi" corresp="https://betamasaheft.eu/authority-files/wadi/main">
             <catDesc>wādī</catDesc>
          </category>
