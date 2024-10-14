@@ -1125,10 +1125,7 @@
          </category>
          <category xml:id="AT1139MMDog" corresp="https://betamasaheft.eu/authority-files/AT1139MMDog/main">
             <catDesc>Miracle of Mary: Mary gives a thirsty dog water to drink from her shoe</catDesc>
-         </category>
-         <category xml:id="AT1144SealSol" corresp="https://betamasaheft.eu/authority-files/AT1144SealSol/main">
-            <catDesc>Seal of Solomon</catDesc>
-         </category>
+         </category>         
          <category xml:id="AT1140AngelGoodThief" corresp="https://betamasaheft.eu/authority-files/AT1140AngelGoodThief/main">
             <catDesc>The Angel and the Good Thief</catDesc>
          </category>
@@ -1140,6 +1137,15 @@
          </category>
          <category xml:id="AT1143SecondComingJesus" corresp="https://betamasaheft.eu/authority-files/AT1143SecondComingJesus/main">
             <catDesc>Second Coming of Jesus</catDesc>
+         </category>
+         <category xml:id="AT1144SealSol" corresp="https://betamasaheft.eu/authority-files/AT1144SealSol/main">
+            <catDesc>Seal of Solomon</catDesc>
+         </category>
+         <category xml:id="AT1145MMGarment" corresp="https://betamasaheft.eu/authority-files/AT1145MMGarment/main">
+            <catDesc>Miracle of Mary: Miracle of the poor monk to whom Mary gave a garment</catDesc>
+         </category>
+         <category xml:id="AT1146JoachimAnnaGrieving" corresp="https://betamasaheft.eu/authority-files/AT1145MMGarment/main">
+            <catDesc>Joachim and Anne grieving for not having a child</catDesc>
          </category>
       </category>
       <category>
