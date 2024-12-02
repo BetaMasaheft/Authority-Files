@@ -381,57 +381,59 @@
        </category>
        
        <category>
-          <desc>Demons and diseases</desc>
-          <category xml:id="Barya" corresp="https://betamasaheft.eu/authority-files/Barya/main">
-             <catDesc>Bāryā</catDesc>
+          <desc>Magic and spells</desc>
+          <category>
+             <desc>Subtypes</desc>
+             <category xml:id="MagicDrawing"
+                corresp="https://betamasaheft.eu/authority-files/MagicDrawing/main">
+                <catDesc>Magic drawing </catDesc>
+             </category>
+             <category xml:id="MagicSymbols"
+                corresp="https://betamasaheft.eu/authority-files/MagicSymbols/main">
+                <catDesc>Magic symbols or letters (see also Asmat for ʾAsmāt or Secret
+                   Names)</catDesc>
+             </category>
           </category>
-          <category xml:id="EvilEye" corresp="https://betamasaheft.eu/authority-files/EvilEye/main">
-             <catDesc>Evil Eye</catDesc>
-          </category>         
-          <category xml:id="Fever" corresp="https://betamasaheft.eu/authority-files/Fever/main">
-             <catDesc>fever</catDesc>
-          </category>
-          <category xml:id="Colic" corresp="https://betamasaheft.eu/authority-files/Colic/main">
-             <catDesc>colic</catDesc>
-          </category>
-          <category xml:id="Legewon" corresp="https://betamasaheft.eu/authority-files/Legewon/main">
-             <catDesc>legewon</catDesc>
-          </category>
-          <category xml:id="Buda" corresp="https://betamasaheft.eu/authority-files/Buda/main">
-             <catDesc>budā</catDesc>
-          </category>
-          <category xml:id="Falasa" corresp="https://betamasaheft.eu/authority-files/Falasa/main">
-             <catDesc>falašā</catDesc>
-          </category>
-          <category xml:id="Gudale" corresp="https://betamasaheft.eu/authority-files/Gudale/main">
-             <catDesc>gudale</catDesc>
-          </category>         
-          <category xml:id="Dabbas" corresp="https://betamasaheft.eu/authority-files/Dabbas/main">
-             <catDesc>dabbās</catDesc>
-          </category>
-          <category xml:id="Dask" corresp="https://betamasaheft.eu/authority-files/Dask/main">
-             <catDesc>Dask</catDesc>
-          </category>
-          <category xml:id="Aqweyasat" corresp="https://betamasaheft.eu/authority-files/Aqweyasat/main">
-             <catDesc>ʾaqʷǝyāṣāt</catDesc>
-          </category>
-          <category xml:id="Bleeding" corresp="https://betamasaheft.eu/authority-files/Bleeding/main">
-             <catDesc>Bleeding</catDesc>
-          </category>
-          <category xml:id="Malaria" corresp="https://betamasaheft.eu/authority-files/Malaria/main">
-             <catDesc>Malaria</catDesc>
-          </category>
-          <category xml:id="Epilepsy" corresp="https://betamasaheft.eu/authority-files/Epilepsy/main">
-             <catDesc>Epilepsy</catDesc>
-          </category>
-          <category xml:id="ChestPain" corresp="https://betamasaheft.eu/authority-files/ChestPain/main">
-             <catDesc>Chest Pain</catDesc>
-          </category>
-          <category xml:id="BindingDemons" corresp="https://betamasaheft.eu/authority-files/BindingDemons/main">
-             <catDesc>Binding Demons</catDesc>
-          </category>
-          <category xml:id="DrowningDemons" corresp="https://betamasaheft.eu/authority-files/DrowningDemons/main">
-             <catDesc>Drowning Demons</catDesc>
+          <category>
+             <desc>Targets</desc>
+             <category>
+                <desc>Diseases</desc>
+                <category xml:id="Disease"
+                   corresp="https://betamasaheft.eu/authority-files/Disease/main">
+                   <catDesc>Any disease </catDesc>
+                </category>
+                <category xml:id="DiseaseFever"
+                   corresp="https://betamasaheft.eu/authority-files/DiseaseFever/main">
+                   <catDesc>Any disease featuring fever as the main symptom (including
+                      malaria)</catDesc>
+                </category>
+                <category xml:id="DiseaseMental"
+                   corresp="https://betamasaheft.eu/authority-files/DiseaseMental/main">
+                   <catDesc>Any disease of mental or neurological nature, including epilepsy, fits,
+                      madness</catDesc>
+                </category>
+                <category xml:id="DiseasePain"
+                   corresp="https://betamasaheft.eu/authority-files/DiseasePain/main">
+                   <catDesc>Any disease featuring pain, including colic, rheumatic pain, headache, or
+                      chestpain</catDesc>
+                </category>
+                <category xml:id="DiseaseWomen"
+                   corresp="https://betamasaheft.eu/authority-files/DiseaseWomen/main">
+                   <catDesc>Any disease or condition connected with female health, including
+                      infertility and menstruation</catDesc>
+                </category>
+             </category>
+             <category>
+                <desc>Demonic entities</desc>                
+                <category xml:id="EvilEye"
+                   corresp="https://betamasaheft.eu/authority-files/EvilEye/main">
+                   <catDesc>Evil Eye</catDesc>
+                </category>
+                <category xml:id="EvilSpirit"
+                   corresp="https://betamasaheft.eu/authority-files/EvilSpirit/main">
+                   <catDesc>Evil Spirit</catDesc>
+                </category>
+             </category>
           </category>
        </category>
        
