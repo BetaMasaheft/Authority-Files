@@ -377,7 +377,10 @@
           </category>
           <category xml:id="GubaeQana" corresp="https://betamasaheft.eu/authority-files/GubaeQana/main">
              <catDesc>Gubāʿe Qānā</catDesc>
-          </category>          
+          </category>       
+          <category xml:id="Mibazhu" corresp="https://betamasaheft.eu/authority-files/Mibazhu/main">
+             <catDesc>Mi-bazḫu</catDesc>
+          </category>
        </category>
        
        <category>
