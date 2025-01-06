@@ -38,7 +38,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
             <abstract>
                 <p>
                     One of the most frequent protective texts in the manuscripts, esp. in the additional notes. Sometimes developed, with a formalized incipit and explicit, sometimes 
-                    nothing more than a short string of “hidden names of God”, written in a crude hand. 
+                    nothing more than a short string of “hidden names of God”, written in a crude hand.  The keyword is also used to classify <term key="Magic">magic texts in scrolls and codices</term>, including those that contain qālāt.
                 </p>
             </abstract>
             <langUsage>
