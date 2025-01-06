@@ -1,11 +1,11 @@
 <?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
 schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Barya" xml:lang="en" type="auth">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DiseasePain" xml:lang="en" type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bāryā</title>
+                <title>Pain</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="ES"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -30,9 +30,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A cause of disease,  frequently target of <term key="Magic">magic prayers</term>; see also <persName ref="ETH1219baryas"></persName>.</p>
-               
-                
+                <p>Any disease featuring pain, including colic, rheumatic pain, headache, or
+                    chestpain,  frequently target of <term key="Magic">magic prayers</term></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
