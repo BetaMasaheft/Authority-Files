@@ -381,8 +381,7 @@
           <category xml:id="Mibazhu" corresp="https://betamasaheft.eu/authority-files/Mibazhu/main">
              <catDesc>Mi-bazḫu</catDesc>
           </category>
-       </category>
-       
+       </category>       
        <category>
           <desc>Magic and spells</desc>
           <category>
@@ -393,49 +392,38 @@
              </category>
              <category xml:id="MagicSymbols"
                 corresp="https://betamasaheft.eu/authority-files/MagicSymbols/main">
-                <catDesc>Magic symbols or letters (see also Asmat for ʾAsmāt or Secret
-                   Names)</catDesc>
+                <catDesc>Magic symbols or letters</catDesc>
              </category>
           </category>
           <category>
-             <desc>Targets</desc>
-             <category>
-                <desc>Diseases</desc>
-                <category xml:id="Disease"
-                   corresp="https://betamasaheft.eu/authority-files/Disease/main">
-                   <catDesc>Any disease </catDesc>
-                </category>
-                <category xml:id="DiseaseFever"
-                   corresp="https://betamasaheft.eu/authority-files/DiseaseFever/main">
-                   <catDesc>Any disease featuring fever as the main symptom (including
-                      malaria)</catDesc>
-                </category>
-                <category xml:id="DiseaseMental"
-                   corresp="https://betamasaheft.eu/authority-files/DiseaseMental/main">
-                   <catDesc>Any disease of mental or neurological nature, including epilepsy, fits,
-                      madness</catDesc>
-                </category>
-                <category xml:id="DiseasePain"
-                   corresp="https://betamasaheft.eu/authority-files/DiseasePain/main">
-                   <catDesc>Any disease featuring pain, including colic, rheumatic pain, headache, or
-                      chestpain</catDesc>
-                </category>
-                <category xml:id="DiseaseWomen"
-                   corresp="https://betamasaheft.eu/authority-files/DiseaseWomen/main">
-                   <catDesc>Any disease or condition connected with female health, including
-                      infertility and menstruation</catDesc>
-                </category>
+             <desc>Diseases and demons</desc>
+             <category xml:id="Disease"
+                corresp="https://betamasaheft.eu/authority-files/Disease/main">
+                <catDesc>Disease (generic)</catDesc>
+             </category>                
+             <category xml:id="DiseaseFever"
+                corresp="https://betamasaheft.eu/authority-files/DiseaseFever/main">
+                <catDesc>Disease with fever</catDesc>
              </category>
-             <category>
-                <desc>Demonic entities</desc>                
-                <category xml:id="EvilEye"
-                   corresp="https://betamasaheft.eu/authority-files/EvilEye/main">
-                   <catDesc>Evil Eye</catDesc>
-                </category>
-                <category xml:id="EvilSpirit"
-                   corresp="https://betamasaheft.eu/authority-files/EvilSpirit/main">
-                   <catDesc>Evil Spirit</catDesc>
-                </category>
+             <category xml:id="DiseaseMental"
+                corresp="https://betamasaheft.eu/authority-files/DiseaseMental/main">
+                <catDesc>Disease with mental symptoms</catDesc>
+             </category>
+             <category xml:id="DiseasePain"
+                corresp="https://betamasaheft.eu/authority-files/DiseasePain/main">
+                <catDesc>Disease with pain/colic</catDesc>
+             </category>
+             <category xml:id="DiseaseWomen"
+                corresp="https://betamasaheft.eu/authority-files/DiseaseWomen/main">
+                <catDesc>Disease in women</catDesc>
+             </category>                   
+             <category xml:id="EvilEye"
+                corresp="https://betamasaheft.eu/authority-files/EvilEye/main">
+                <catDesc>Evil Eye</catDesc>
+             </category>
+             <category xml:id="EvilSpirit"
+                corresp="https://betamasaheft.eu/authority-files/EvilSpirit/main">
+                <catDesc>Evil Spirit</catDesc>
              </category>
           </category>
        </category>

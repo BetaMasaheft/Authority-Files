@@ -30,7 +30,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>As a  cause of disease -  frequently target of <term key="Magic">magic prayers</term>. </p>
+                <p>As a  cause of disease -  frequently target of <term key="Magic">magic prayers</term>.  Includes falašā (See also <persName ref="ETH1274Betaes"/>, Bāryā (see also <persName ref="ETH1219baryas"></persName>), ʾaqʷǝyāṣāt, Legewon, Gudale, Dask, Dabbas, etc.</p>
                
                 
             </abstract>
