@@ -30,7 +30,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>Any disease,  frequently target of <term key="Magic">magic prayers</term></p>
+                <p>Any disease,  frequently target of <term key="Magic">magic prayers</term>. It is possible to specify further, where possible, the disease subtype (<ref type="authFile" corresp="DiseaseFever"></ref>, <ref type="authFile" corresp="DiseaseMental"></ref>, <ref type="authFile" corresp="DiseasePain"></ref>, <ref type="authFile" corresp="DiseaseWomen"></ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
