@@ -30,18 +30,20 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>Magic symbols or letters -  frequently used in <term key="Magic">magic prayers and scrolls</term>. (see also <term key="Asmat">Asmat</term> for ʾAsmāt or Secret
+                <p>Magic symbols or letters -  frequently used in <term key="Magic">magic prayers and scrolls</term>. The keyword can also be used to mark <term xml:id="char">charactêres</term> (Gr. <foreign xml:lang="grc"> kharaktēres</foreign>), or invented magic glyphs (often styled with circles and referred to as <foreign xml:lang="de">Brillenbuchstaben</foreign> in German).</p>
+                <p>(see also <term key="Asmat">Asmat</term> for ʾAsmāt or Secret
                     Names, as well as qālāt.)</p>
                
                 
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
-                <language ident="gez">Gǝʿǝz</language>
+                <language ident="gez">Gǝʿǝz</language><language ident="grc">Greek</language><language ident="de">German</language>
             </langUsage>
         </profileDesc>
         <revisionDesc>            
             <change when="2024-09-10" who="ES">created following discussion in issue 2603 etc</change>
+            <change when="2025-01-15" who="ES">added a line to specify charactêres</change>
         </revisionDesc>
     </teiHeader>
     <text>
