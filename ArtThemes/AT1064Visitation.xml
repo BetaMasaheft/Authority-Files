@@ -40,7 +40,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A miniature showing the visit of Mary to Elizabeth as recorded in the Gospel of Luke. The Ethiopian version of this scene, as in other Christian traditions, typically features 
+                <p>A miniature showing the visit of <persName ref="PRS6819Mary"/> to <persName ref="PRS3725Elizabet"/>  as recorded in the Gospel of Luke. The Ethiopian version of this scene, as in other Christian traditions, typically features 
                     only the two women shown in the act of embracing each other.
                    </p>
             </abstract>
