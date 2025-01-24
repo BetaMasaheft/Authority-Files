@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
-   <classDecl xmlns="http://www.tei-c.org/ns/1.0">
+<classDecl xmlns="http://www.tei-c.org/ns/1.0">
     <taxonomy xml:id="ethioauthlist">
       <category>
          <desc>Types of Inscriptions</desc>
@@ -1951,4 +1950,3 @@
       </category>
    </taxonomy>
 </classDecl>
-</TEI>
