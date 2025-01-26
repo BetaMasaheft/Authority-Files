@@ -34,7 +34,7 @@ jobs:
             echo "FILES=$(git diff --name-only --diff-filter=ACMRT \
             ${{ github.event.pull_request.base.sha }} \
             ${{ github.sha }} \
-            -- ':./**/*.xml' ':!*/transkribus*.xml' ':!*/facsimile*.xml' \
+            -- ':./**/*.xml' ':!*/transkribus*.xml' ':!*/facsimile*.xml' ':!taxonomy.xml' \
             ':!./**/edition.xml' ':!./**/msDesc.xml' ':!./**/*text.xml' \
             ':!./**/taxonomy.xml' ':*.xml' ':!build.xml' ':!expath-pkg.xml' ':!repo.xml' | xargs)"     
           } >> "$GITHUB_OUTPUT"
