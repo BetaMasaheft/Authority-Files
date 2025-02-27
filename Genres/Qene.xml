@@ -33,9 +33,26 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <p>This keyword is used to classify genres of texts appearing in the manuscripts (for the types of additiones, a specific keyword <ref type="authFile"
                     corresp="PoemQene"
                     >PoemQene</ref> is additionally used.</p>
-                <p>Despite wide-spread opinion that qǝne is a poetic improvisation which is not written down, manuscripts contain unexpectedly many qǝne-poems, usually, but not only as additional notes. 
-                    Frequently it is clearly stated the the poem is qǝne, and even the type is indicated. But no one tried to check if these poems formally correspond to what we know today as qǝne-forms. </p>
-                <p>Wherever possible, we mark qǝne-forms with this specific keyword; when it is indicated, we also specify the specific modes, see <ref type="authFile" corresp="EtanaMogar">ʿəṭāna mogar</ref>,  <ref type="authFile" corresp="Mawaddes">mawaddəs</ref></p>
+                <p>Despite wide-spread opinion that qǝne is a poetic improvisation which is not written down, manuscripts contain unexpectedly many of them in additional notes or in collections of qǝne-poems. 
+                    Frequently it is clearly stated the poem is qǝne, and even the type is indicated.</p>
+                <p>Wherever possible, we define qǝne-forms according to the classification 
+                    <bibl><ptr target="bm:Guidi1900Qene"/><citedRange unit="page">4-5</citedRange></bibl> and mark it with this specific keyword and
+                    Cf. 
+                    <ref type="authFile" corresp="EtanaMogar"/>,  
+                    <ref type="authFile" corresp="Mawaddes"/>
+                    <ref type="authFile" corresp="GubaeQana"/>
+                    <ref type="authFile" corresp="KebrYeeti"/>
+                    <ref type="authFile" corresp="Kwellekomu"/>
+                    <ref type="authFile" corresp="Mawaddes"/>
+                    <ref type="authFile" corresp="Mibazhu"/>
+                    <ref type="authFile" corresp="Sellase"/>
+                    <ref type="authFile" corresp="Wazema"/>
+                    <ref type="authFile" corresp="Zayeeze"/>.
+                    When it is indicated, we also specify the mode, i.e.: gǝʿz, ʾǝzl and ʾararāy.
+                    <ref type="authFile" corresp="ArarayMode"/>
+                    <ref type="authFile" corresp="EzelMode"/>
+                    <ref type="authFile" corresp="GeezMode"/>
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -45,6 +62,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <revisionDesc>
             <change who="DR" when="2022-04-25">Created entity</change>
             <change when="2024-04-18" who="ES">updated following discussion in issue 2504</change>
+            <change when="2025-02-27" who="CH">updated abstract</change>
         </revisionDesc>
     </teiHeader>
     <text>

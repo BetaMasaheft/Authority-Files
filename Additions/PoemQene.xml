@@ -41,8 +41,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>This keyword is used to classify additiones.</p>
-                <p>Despite wide-spread opinion that qǝne is a poetic improvisation which is not written down, manuscripts contain unexpectedly many qǝne-poems, usually as additional notes. 
-                    Frequently it is clearly stated the the poem is qǝne, and even the type is indicated. But no one tried to check if these poems formally correspond to what we know today as qǝne-forms. </p>
+                <p>Despite wide-spread opinion that qǝne is a poetic improvisation which is not written down, manuscripts contain unexpectedly many qǝne-poems, for example as additional notes. 
+                    Frequently it is clearly stated the poem is qǝne, and even the type is indicated.</p>
                 <p>Examples are:
                     <list>
                         <item>
@@ -78,16 +78,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </p>
             </abstract>
             <langUsage>
-                <language ident="en">English</language>
-                <language ident="ar">Arabic</language>
-                <language ident="it">Italian</language>
-                <language ident="am">Amharic</language>
+                <language ident="en">English</language>                
                 <language ident="gez">Gǝʿǝz</language>
             </langUsage>
         </profileDesc>
         <revisionDesc>
             <change when="2018-07-30" who="DR">Added definition</change>
             <change who="PL" when="2017-07-25">Created entity</change>
+            <change when="2025-02-27" who="CH">Updated abstract and languageUsage</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
