@@ -48,7 +48,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <ref type="authFile" corresp="Sellase"/>
                     <ref type="authFile" corresp="Wazema"/>
                     <ref type="authFile" corresp="Zayeeze"/>.
-                    When it is indicated, we also specify the mode, i.e.: gǝʿz, ʾǝzl and ʾararāy.
+                    When it is indicated, we also specify the mode, i.e.:
                     <ref type="authFile" corresp="ArarayMode"/>
                     <ref type="authFile" corresp="EzelMode"/>
                     <ref type="authFile" corresp="GeezMode"/>
