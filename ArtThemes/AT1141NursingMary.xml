@@ -42,7 +42,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>A variation of the theme of the Virgin and Child enthroned in which
-                  <persName ref=" PRS6819Mary"/> is represented as the Virgo Lactans or Nursing Madonna,
+                  <persName ref="PRS6819Mary"/> is represented as the Virgo Lactans or Nursing Madonna,
                   breastfeeding the infant <persName ref="PRS5684JesusCh"/>.</p>
             </abstract>
             <langUsage>
