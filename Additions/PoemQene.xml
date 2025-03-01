@@ -43,39 +43,6 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <p>This keyword is used to classify additiones.</p>
                 <p>Despite the wide-spread opinion that qǝne is a poetic improvisation which is not written down, a number of manuscripts contain qǝne-poems, for example as additional notes. 
                     Frequently it is clearly stated the poem is qǝne, and even the type is indicated.</p>
-                <p>Examples are:
-                    <list>
-                        <item>
-                     <p>
-                        <ref type="mss" corresp="ESmma008"/>, f. 123ra: <foreign xml:lang="gez">ዕጣነ፡ ሞገር፡ ግዕዝ።
-                            ለእመ፡ ብንያም፡ ወዮሴፍ። አዕይንቲሃ፡ ኮከብ፡ በመዝአረ፡ ገጻ፡ ዘአሶንያ፡
-                            መልአከ፡ ሞት፡ ጸዋግ፡ ዘአደመነ፡ ላህያ፡
-                            ዘምድረ፡ ሎዛ፡ ያዕቆብ፡ በስዋስወ፡ ወርቅ፡ ዘርእያ፡
-                            ተብሲለ፡ ኃዘን፡ ለነፍሱ፡ {ሲሳያ፡}
-                            በይነ፡ ተፈልጦታ፡ እምኔነ፡ ይእዜ፡ ለወለተ፡ ጴጥሮስ፡ ሐዋርያ፡ እንዘ፡ ንብል፡ ንላሁ፡ ከመ፡ እምአምላከ፡ ማርያ፡
-                            እምንስት፡ ይቲ፡ ሙአግያ፡
-                            እምንስትይቲ፡ ሙኪርያ።
-                        </foreign>;</p>
-                  </item>
-                        <item>
-                     <p>
-                        <ref type="mss" corresp="ESmhg004"/>, f. 14vb: <foreign xml:lang="gez">ዝቅኔ፡ ዘዘማርያም
-                            ፩ ዝሁር፡ ዕቡየ፡ ልብ፡ ቀታሊ፡
-                            እንዘ፡ ገይስ፡ ያሌሊ፡ ደበረ፡ ወለተ
-                            ጽዮን፡ አመ፡ ዓርገ፡ እም፡ 
-                            ፍኖተ፡ ሞአብ፡ ወኢሎፍሊ፡
-                            እንዘ፡ ግዑረ፡ ሶበ፡ ይጸሊ፡ 
-                            ኀበ፡ ፈጣሪሁ፡ ሕዝቅያስ፡ እንዘ፡
-                            ኢምንተኒ፡ ይሄሊ፡ ተዝካረ፡ 
-                            ረሰዮ፡ ለኵሉ፡ መሐሊ።
-                            ዘትሌዓሊ። ባሕቱ፡ ይበልኪ፡ ቃለ፡
-                            ፈጣሪ፡ ከሃሊ። በዘባነ፡ ጴጥስ[sic]፡ ወጳውሊ፡
-                            ቆሚ፡ ወታንቀልቅሊ፡ እስከ፡ 
-                            ግብር፡ ይማስን፡ ወይበሊ።
-                        </foreign>.</p>
-                  </item>
-                    </list>
-            </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>                
@@ -90,7 +57,32 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
         <body>
-            <div type="bibliography"/>
+            <div type="edition" xml:lang="gez">
+                <note>The following example is taken from<ref type="mss" corresp="ESmma008"/>, f. 123ra:</note>
+                <ab>
+                    ዕጣነ፡ ሞገር፡ ግዕዝ።<lb/>
+                    <l n="1">ለእመ፡ ብንያም፡ ወዮሴፍ። አዕይንቲሃ፡ ኮከብ፡ በመዝአረ፡ ገጻ፡ ዘአሶንያ፡</l>
+                    <l n="2">መልአከ፡ ሞት፡ ጸዋግ፡ ዘአደመነ፡ ላህያ፡</l>
+                    <l n="3">ዘምድረ፡ ሎዛ፡ ያዕቆብ፡ በስዋስወ፡ ወርቅ፡ ዘርእያ፡</l>
+                    <l n="4">ተብሲለ፡ ኃዘን፡ ለነፍሱ፡ {ሲሳያ፡}</l>
+                    <l n="5">በይነ፡ ተፈልጦታ፡ እምኔነ፡ ይእዜ፡ ለወለተ፡ ጴጥሮስ፡ ሐዋርያ፡ እንዘ፡ ንብል፡ ንላሁ፡ ከመ፡ እምአምላከ፡ ማርያ፡</l>
+                    <l n="6">እምንስት፡ ይቲ፡ ሙአግያ፡</l>
+                    <l n="7">እምንስትይቲ፡ ሙኪርያ።</l>
+                </ab>
+            </div>
+            <div type="edition" xml:lang="gez">
+                <note>The following example is taken from <ref type="mss" corresp="ESmhg004"/>, f. 14vb:</note>
+                <ab>
+                    ዝቅኔ፡ ዘዘማርያም፡<lb/>
+                    <l n="1">፩ ዝሁር፡ ዕቡየ፡ ልብ፡ ቀታሊ፡</l>
+                    <l n="2">እንዘ፡ ገይስ፡ ያሌሊ፡</l>
+                    <l n="3">ደበረ፡ ወለተ፡ ጽዮን፡ አመ፡ ዓርገ፡ እም፡ ፍኖተ፡ ሞአብ፡ ወኢሎፍሊ፡</l>
+                    <l n="4">እንዘ፡ ግዑረ፡ ሶበ፡ ይጸሊ፡</l>
+                    <l n="5">ኀበ፡ ፈጣሪሁ፡ ሕዝቅያስ፡ እንዘ፡ ኢምንተኒ፡ ይሄሊ፡ ተዝካረ፡ ረሰዮ፡ ለኵሉ፡ መሐሊ።</l>
+                    <l n="6">ዘትሌዓሊ። ባሕቱ፡ ይበልኪ፡ ቃለ፡ ፈጣሪ፡ ከሃሊ። በዘባነ፡ <sic>ጴጥስ፡</sic> ወጳው<sic>ሊ</sic>፡</l>
+                    <l n="7">ቆሚ፡ ወታንቀልቅሊ፡ እስከ፡ ግብር፡ ይማስን፡ ወይበሊ።</l>
+                </ab>
+            </div>
         </body>
     </text>
 </TEI>
