@@ -34,23 +34,23 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     corresp="PoemQene"
                     >PoemQene</ref> is additionally used.</p>
                 <p>Despite the wide-spread opinion that qǝne is a poetic improvisation which is not written down, manuscripts contain unexpectedly many of them in additional notes or in collections of qǝne-poems. 
-                    Frequently it is clearly stated the poem is qǝne, and even the type is indicated.</p>
+                    Frequently it is clearly stated the poem is qǝne, and the type and the author are indicated.</p>
                 <p>Wherever possible, we define qǝne-forms according to the classification of 
                     <bibl><ptr target="bm:Guidi1900Qene"/><citedRange unit="page">4-5</citedRange></bibl> and mark them with specific keywords.
                     Cf. 
-                    <ref type="authFile" corresp="EtanaMogar"/>,  
-                    <ref type="authFile" corresp="GubaeQana"/>,
-                    <ref type="authFile" corresp="KebrYeeti"/>,
-                    <ref type="authFile" corresp="Kwellekomu"/>,
-                    <ref type="authFile" corresp="Mawaddes"/>,
-                    <ref type="authFile" corresp="Mibazhu"/>,
-                    <ref type="authFile" corresp="Sellase"/>,
-                    <ref type="authFile" corresp="Wazema"/>,
-                    <ref type="authFile" corresp="Zayeeze"/>.
+                    <ref type="authFile" corresp="GubaeQana"/> (2 verses),
+                    <ref type="authFile" corresp="EtanaMogar"/> (2, 7 or 11 verses),  
+                    <ref type="authFile" corresp="Sellase"/> (3 verses or 6 verses),
+                    <ref type="authFile" corresp="Mibazhu"/> (3 verses),                    
+                    <ref type="authFile" corresp="Wazema"/> (5 verses),
+                    <ref type="authFile" corresp="Zayeeze"/> (5 verses).
+                    <ref type="authFile" corresp="Mawaddes"/> (8 verses),
+                    <ref type="authFile" corresp="Kwellekomu"/> (9 verses),              
+                    <ref type="authFile" corresp="KebrYeeti"/> (3 verses),
                     When it is indicated, we also specify the mode, i.e.:
-                    <ref type="authFile" corresp="ArarayMode"/>,
-                    <ref type="authFile" corresp="EzelMode"/>,
-                    <ref type="authFile" corresp="GeezMode"/>.
+                    <ref type="authFile" corresp="ArarayMode"/> (joyous),
+                    <ref type="authFile" corresp="EzelMode"/> (solemn),
+                    <ref type="authFile" corresp="GeezMode"/> (melancholic).
                 </p>
             </abstract>
             <langUsage>
