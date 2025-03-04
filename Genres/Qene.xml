@@ -40,17 +40,17 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     Cf. 
                     <ref type="authFile" corresp="GubaeQana"/> (2 verses),
                     <ref type="authFile" corresp="EtanaMogar"/> (2, 7 or 11 verses),  
-                    <ref type="authFile" corresp="Sellase"/> (3 verses or 6 verses),
                     <ref type="authFile" corresp="Mibazhu"/> (3 verses),                    
                     <ref type="authFile" corresp="Wazema"/> (5 verses),
-                    <ref type="authFile" corresp="Zayeeze"/> (5 verses).
+                    <ref type="authFile" corresp="Zayeeze"/> (5 verses),
+                    <ref type="authFile" corresp="Sellase"/> (6 verses),
                     <ref type="authFile" corresp="Mawaddes"/> (8 verses),
                     <ref type="authFile" corresp="Kwellekomu"/> (9 verses),              
-                    <ref type="authFile" corresp="KebrYeeti"/> (3 verses),
+                    <ref type="authFile" corresp="KebrYeeti"/> (3 verses).
                     When it is indicated, we also specify the mode, i.e.:
                     <ref type="authFile" corresp="ArarayMode"/> (joyous),
                     <ref type="authFile" corresp="EzelMode"/> (solemn),
-                    <ref type="authFile" corresp="GeezMode"/> (melancholic).
+                    <ref type="authFile" corresp="GeezMode"/> (solemn).
                 </p>
             </abstract>
             <langUsage>
