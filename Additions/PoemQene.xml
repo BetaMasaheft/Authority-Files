@@ -58,19 +58,6 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <text xml:base="https://betamasaheft.eu/">
         <body>
             <div type="edition" xml:lang="gez">
-                <note>The following example is taken from<ref type="mss" corresp="ESmma008"/>, f. 123ra-b:</note>
-                <ab>
-                    ዕጣነ፡ ሞገር፡ ግዕዝ።<lb/>
-                    <l n="1">ለእመ፡ ብንያም፡ ወዮሴፍ። አዕይንቲሃ፡ ኮከብ፡ በመዝአረ፡ ገጻ፡ ዘአሶንያ፡</l>
-                    <l n="2">መልአከ፡ ሞት፡ ጸዋግ፡ ዘአደመነ፡ ላህያ፡</l>
-                    <l n="3">ዘምድረ፡ ሎዛ፡ ያዕቆብ፡ በስዋስወ፡ ወርቅ፡ ዘርእያ፡</l>
-                    <l n="4">ተብሲለ፡ ኃዘን፡ ለነፍሱ፡ <add place="above">ሲሳያ፡</add></l>
-                    <l n="5">በይነ፡ ተፈልጦታ፡ እምኔነ፡ ይእዜ፡ ለወለተ፡ ጴጥሮስ፡ ሐዋርያ፡ እንዘ፡ ንብል፡ ንላሁ፡ ከመ፡ እምአምላከ፡ ማርያ፡</l>
-                    <l n="6">እምንስት፡ ይቲ፡ ሙአግያ፡</l>
-                    <l n="7">እምንስትይቲ፡ ሙኪርያ።</l>
-                </ab>
-            </div>
-            <div type="edition" xml:lang="gez">
                 <note>The following example is taken from <ref type="mss" corresp="ESmhg004"/>, f. 14vb:</note>
                 <ab>
                     ዝቅኔ፡ ዘዘማርያም፡<lb/>
