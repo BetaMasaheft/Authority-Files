@@ -5,7 +5,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>śāhlǝka</title>
+                <title>Śāhlǝka</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="CH"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
@@ -32,7 +32,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
                 <p>According to <bibl><ptr target="bm:Guidi1900Qene"/><citedRange unit="page">464</citedRange></bibl>, a type
                     of <ref type="authFile" corresp="Qene">Qəne</ref>, which is designed to accompany a stanza of dǝggʷā. According to
-                    <bibl><ptr target="bm:Afawarq1984Yageezqeneyat"/></bibl>The śāhlǝka qǝne has three verses.</p>
+                    <bibl><ptr target="bm:Afawarq1984Yageezqeneyat"/></bibl>, the śāhlǝka qǝne has three verses.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
