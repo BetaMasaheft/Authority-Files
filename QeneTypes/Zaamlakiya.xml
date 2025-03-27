@@ -31,7 +31,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>According to <bibl><ptr target="bm:bm:Guidi1900Qene"/><citedRange unit="page">464</citedRange></bibl> and
-                    <bibl><ptr target="bm:Afawarq1984Yageezqeneyat"/></bibl>, a type 
+                    <bibl><ptr target="bm:HabtaMW1969Tentawi"/><citedRange unit="page">180</citedRange></bibl>, a type 
                     of <ref type="authFile" corresp="Qene">Qəne</ref> with three verses.</p>
             </abstract>
             <langUsage>
