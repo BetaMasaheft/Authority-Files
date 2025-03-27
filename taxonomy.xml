@@ -381,6 +381,12 @@
           <category xml:id="Mibazhu" corresp="https://betamasaheft.eu/authority-files/Mibazhu/main">
              <catDesc>Mi-bazḫu</catDesc>
           </category>
+          <category xml:id="Zaamlakiya" corresp="https://betamasaheft.eu/authority-files/Zaamlakiya/main">
+             <catDesc>Za-ʾamlākiya</catDesc>
+          </category>
+          <category xml:id="Sahleka" corresp="https://betamasaheft.eu/authority-files/Sahleka/main">
+             <catDesc>Śāhlǝka</catDesc>
+          </category>
        </category>       
        <category>
           <desc>Magic and spells</desc>

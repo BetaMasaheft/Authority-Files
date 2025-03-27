@@ -1,13 +1,13 @@
 <?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
 schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng" 
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Zayeeze" xml:lang="en" type="auth">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Sahleka" xml:lang="en" type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Za-yǝʾǝze</title>
+                <title>Śāhlǝka</title>
                 <editor role="generalEditor" key="AB"/>
-                <editor key="ES"/>
+                <editor key="CH"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -30,19 +30,19 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A type of <ref type="authFile"
-                    corresp="Qene"
-                    >Qəne</ref>.</p>
-               
-                <p>see also <ref type="authFile" corresp="EtanaMogar">ʿəṭāna mogar</ref>, <ref type="authFile" corresp="Mawaddes">mawaddəs</ref>, <ref type="authFile" corresp="Sellase">śǝllase </ref></p>
+                <p>According to <bibl><ptr target="bm:Guidi1900Qene"/><citedRange unit="page">464</citedRange></bibl>, a type
+                    of <ref type="authFile" corresp="Qene">Qəne</ref>, which is designed to accompany a stanza of 
+                    <ref type="work" corresp="LIT3178Deggwa"/>. 
+                    According to <bibl><ptr target="bm:HabtaMW1969Tentawi"/><citedRange unit="page">180</citedRange></bibl>, 
+                    the śāhlǝka qǝne has three verses.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="gez">Gǝʿǝz</language>
             </langUsage>
         </profileDesc>
-        <revisionDesc>            
-            <change when="2024-04-18" who="ES">created following discussion in issue 2504</change>
+        <revisionDesc>
+            <change who="CH" when="2025-03-26">Created entity</change>
         </revisionDesc>
     </teiHeader>
     <text>
