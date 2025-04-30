@@ -193,7 +193,10 @@
             </category>
          </category>
          <category>
-            <desc>Decoration Motives</desc>
+            <desc>Decoration</desc>
+            <category xml:id="tooling" corresp="https://betamasaheft.eu/authority-files/tooling/main">
+               <catDesc>Blind tooling</catDesc>
+            </category>
             <category xml:id="tripleStraightLine" corresp="https://betamasaheft.eu/authority-files/tripleStraightLine/main">
                <catDesc>Triple straight line</catDesc>
             </category>
