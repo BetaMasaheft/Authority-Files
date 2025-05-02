@@ -41,58 +41,35 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <creation/>
             <abstract>
                 <p>This keyword is used to classify additiones.</p>
-                <p>Despite wide-spread opinion that qǝne is a poetic improvisation which is not written down, manuscripts contain unexpectedly many qǝne-poems, usually as additional notes. 
-                    Frequently it is clearly stated the the poem is qǝne, and even the type is indicated. But no one tried to check if these poems formally correspond to what we know today as qǝne-forms. </p>
-                <p>Examples are:
-                    <list>
-                        <item>
-                     <p>
-                        <ref type="mss" corresp="ESmma008"/>, f. 123ra: <foreign xml:lang="gez">ዕጣነ፡ ሞገር፡ ግዕዝ።
-                            ለእመ፡ ብንያም፡ ወዮሴፍ። አዕይንቲሃ፡ ኮከብ፡ በመዝአረ፡ ገጻ፡ ዘአሶንያ፡
-                            መልአከ፡ ሞት፡ ጸዋግ፡ ዘአደመነ፡ ላህያ፡
-                            ዘምድረ፡ ሎዛ፡ ያዕቆብ፡ በስዋስወ፡ ወርቅ፡ ዘርእያ፡
-                            ተብሲለ፡ ኃዘን፡ ለነፍሱ፡ {ሲሳያ፡}
-                            በይነ፡ ተፈልጦታ፡ እምኔነ፡ ይእዜ፡ ለወለተ፡ ጴጥሮስ፡ ሐዋርያ፡ እንዘ፡ ንብል፡ ንላሁ፡ ከመ፡ እምአምላከ፡ ማርያ፡
-                            እምንስት፡ ይቲ፡ ሙአግያ፡
-                            እምንስትይቲ፡ ሙኪርያ።
-                        </foreign>;</p>
-                  </item>
-                        <item>
-                     <p>
-                        <ref type="mss" corresp="ESmhg004"/>, f. 14vb: <foreign xml:lang="gez">ዝቅኔ፡ ዘዘማርያም
-                            ፩ ዝሁር፡ ዕቡየ፡ ልብ፡ ቀታሊ፡
-                            እንዘ፡ ገይስ፡ ያሌሊ፡ ደበረ፡ ወለተ
-                            ጽዮን፡ አመ፡ ዓርገ፡ እም፡ 
-                            ፍኖተ፡ ሞአብ፡ ወኢሎፍሊ፡
-                            እንዘ፡ ግዑረ፡ ሶበ፡ ይጸሊ፡ 
-                            ኀበ፡ ፈጣሪሁ፡ ሕዝቅያስ፡ እንዘ፡
-                            ኢምንተኒ፡ ይሄሊ፡ ተዝካረ፡ 
-                            ረሰዮ፡ ለኵሉ፡ መሐሊ።
-                            ዘትሌዓሊ። ባሕቱ፡ ይበልኪ፡ ቃለ፡
-                            ፈጣሪ፡ ከሃሊ። በዘባነ፡ ጴጥስ[sic]፡ ወጳውሊ፡
-                            ቆሚ፡ ወታንቀልቅሊ፡ እስከ፡ 
-                            ግብር፡ ይማስን፡ ወይበሊ።
-                        </foreign>.</p>
-                  </item>
-                    </list>
-            </p>
+                <p>Despite the wide-spread opinion that qǝne is a poetic improvisation which is not written down, a number of manuscripts contain qǝne-poems, for example as additional notes. 
+                    Frequently it is clearly stated the poem is qǝne, and even the type is indicated.</p>
             </abstract>
             <langUsage>
-                <language ident="en">English</language>
-                <language ident="ar">Arabic</language>
-                <language ident="it">Italian</language>
-                <language ident="am">Amharic</language>
+                <language ident="en">English</language>                
                 <language ident="gez">Gǝʿǝz</language>
             </langUsage>
         </profileDesc>
         <revisionDesc>
             <change when="2018-07-30" who="DR">Added definition</change>
             <change who="PL" when="2017-07-25">Created entity</change>
+            <change when="2025-02-27" who="CH">Updated abstract and languageUsage</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
         <body>
-            <div type="bibliography"/>
+            <div type="edition" xml:lang="gez">
+                <note>The following example is taken from <ref type="mss" corresp="ESmhg004"/>, f. 14vb:</note>
+                <ab>
+                    ዝቅኔ፡ ዘዘማርያም፡<lb/>
+                    <l n="1">፩ ዝሁር፡ ዕቡየ፡ ልብ፡ ቀታሊ፡</l>
+                    <l n="2">እንዘ፡ ገይስ፡ ያሌሊ፡</l>
+                    <l n="3">ደበረ፡ ወለተ፡ ጽዮን፡ አመ፡ ዓርገ፡ እም፡ ፍኖተ፡ ሞአብ፡ ወኢሎፍሊ፡</l>
+                    <l n="4">እንዘ፡ ግዑረ፡ ሶበ፡ ይጸሊ፡</l>
+                    <l n="5">ኀበ፡ ፈጣሪሁ፡ ሕዝቅያስ፡ እንዘ፡ ኢምንተኒ፡ ይሄሊ፡ ተዝካረ፡ ረሰዮ፡ ለኵሉ፡ መሐሊ።</l>
+                    <l n="6">ዘትሌዓሊ። ባሕቱ፡ ይበልኪ፡ ቃለ፡ ፈጣሪ፡ ከሃሊ። በዘባነ፡ ጴጥሮስ፡ ወጳው<sic>ሊ</sic>፡</l>
+                    <l n="7">ቆሚ፡ ወታንቀልቅሊ፡ እስከ፡ ግብር፡ ይማስን፡ ወይበሊ።</l>
+                </ab>
+            </div>
         </body>
     </text>
 </TEI>
