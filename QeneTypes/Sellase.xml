@@ -32,9 +32,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <abstract>
                 <p>A type of <ref type="authFile"
                     corresp="Qene"
-                    >Qəne</ref>.</p>
+                    >Qǝne</ref>.</p>
 
-                <p>See also  <ref type="authFile" corresp="Mawaddes">mawaddəs</ref> <ref type="authFile" corresp="KebrYeeti">Kǝbr yǝʾǝti </ref></p>
+                <p>See also  <ref type="authFile" corresp="Mawaddes">mawaddǝs</ref> <ref type="authFile" corresp="KebrYeeti">Kǝbr yǝʾǝti </ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>

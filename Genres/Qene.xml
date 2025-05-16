@@ -35,7 +35,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     >PoemQene</ref> is additionally used.</p>
                 <p>Despite wide-spread opinion that qǝne is a poetic improvisation which is not written down, manuscripts contain unexpectedly many qǝne-poems, usually, but not only as additional notes. 
                     Frequently it is clearly stated the the poem is qǝne, and even the type is indicated. But no one tried to check if these poems formally correspond to what we know today as qǝne-forms. </p>
-                <p>Wherever possible, we mark qǝne-forms with this specific keyword; when it is indicated, we also specify the specific modes, see <ref type="authFile" corresp="EtanaMogar">ʿəṭāna mogar</ref>,  <ref type="authFile" corresp="Mawaddes">mawaddəs</ref></p>
+                <p>Wherever possible, we mark qǝne-forms with this specific keyword; when it is indicated, we also specify the specific modes, see <ref type="authFile" corresp="EtanaMogar">ʿǝṭāna mogar</ref>,  <ref type="authFile" corresp="Mawaddes">mawaddǝs</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
