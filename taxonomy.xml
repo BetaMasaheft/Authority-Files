@@ -356,7 +356,7 @@
          </category>
       </category>
        <category>
-          <desc>Qəne Types</desc>
+          <desc>Qǝne Types</desc>
           <category xml:id="EtanaMogar" corresp="https://betamasaheft.eu/authority-files/EtanaMogar/main">
              <catDesc>ʿƎṭāna mogar</catDesc>
           </category>
@@ -492,13 +492,13 @@
                   <catDesc>Land Grant</catDesc>
                </category>
                <category xml:id="GweltDeed" corresp="https://betamasaheft.eu/authority-files/GweltDeed/main">
-                  <catDesc>Gwəlt Deed</catDesc>
+                  <catDesc>Gwǝlt Deed</catDesc>
                </category>
                <category xml:id="RestDeed" corresp="https://betamasaheft.eu/authority-files/RestDeed/main">
-                  <catDesc>Rəst Deed</catDesc>
+                  <catDesc>Rǝst Deed</catDesc>
                </category>
                <category xml:id="RestaGweltDeed" corresp="https://betamasaheft.eu/authority-files/RestaGweltDeed/main">
-                  <catDesc>Rəsta gwəlt Deed</catDesc>
+                  <catDesc>Rǝsta gwǝlt Deed</catDesc>
                </category>
             </category>
             <category xml:id="Rim" corresp="https://betamasaheft.eu/authority-files/Rim/main">
