@@ -38,7 +38,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
         <profileDesc>
             <abstract>
                 <p>
-                    A sub-type of <ref type="authFile" corresp="GweltDeed">gwəlt-document</ref> which is clearly identifiable is the “renovation”
+                    A sub-type of <ref type="authFile" corresp="GweltDeed">gwǝlt-document</ref> which is clearly identifiable is the “renovation”
                     of the former grant with the formula
                     <foreign xml:lang="gez">ሐደስኩ᎓…</foreign> or
                     <foreign xml:lang="gez">አግባእኩ፡ ...</foreign> etc.
