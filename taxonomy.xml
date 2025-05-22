@@ -1563,6 +1563,9 @@
          <category xml:id="Chronicles" corresp="https://betamasaheft.eu/authority-files/Chronicles/main">
             <catDesc>Chronicles</catDesc>
          </category>
+         <category xml:id="generalRecord" corresp="https://betamasaheft.eu/authority-files/generalRecord/main">
+            <catDesc>General Record</catDesc>
+         </category>
          <category xml:id="Homily" corresp="https://betamasaheft.eu/authority-files/Homily/main">
             <catDesc>Homily</catDesc>
          </category>
