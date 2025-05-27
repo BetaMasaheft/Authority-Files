@@ -405,6 +405,13 @@
              </category>
           </category>
           <category>
+             <desc>Subgenres</desc>
+             <category xml:id="Divination"
+                corresp="https://betamasaheft.eu/authority-files/Divination/main">
+                <catDesc>Divination</catDesc>
+             </category>             
+          </category>
+          <category>
              <desc>Diseases and demons</desc>
              <category xml:id="Disease"
                 corresp="https://betamasaheft.eu/authority-files/Disease/main">
