@@ -24,8 +24,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <p/>
             </sourceDesc>
         </fileDesc>
+        
         <encodingDesc>
             <p>A digital born TEI file</p>
+            
         </encodingDesc>
         <profileDesc>
             <creation/>
@@ -38,14 +40,30 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <langUsage>
                 <language ident="en">English</language>
             </langUsage>
+            <textClass>
+                <keywords>
+                    <term key="Apocrypha"/>
+                    <term key="Miracle"/>
+                    <term key="Hagiography"/>
+                    <term key="ChristianContent"/>
+                </keywords>
+            </textClass>
         </profileDesc>
         <revisionDesc>
             <change who="GS" when="2025-06-02">Created stub</change>
+            <change who="GS" when="2025-06-02">corrections made</change>
         </revisionDesc>
     </teiHeader>
+    
+  
     <text>
         <body>
             <div type="bibliography"/>
+            <listRelation>
+                <relation name="ecrm:P129_is_about"
+                    active="AT1148MaryMitmaq"
+                    passive="LIT5421MiracleApparition"/>
+            </listRelation>
         </body>
     </text>
 </TEI>
