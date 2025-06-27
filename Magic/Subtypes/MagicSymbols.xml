@@ -43,7 +43,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>            
             <change when="2024-09-10" who="ES">created following discussion in issue 2603 etc</change>
-            <change when="2025-01-15" who="ES">added a line to specify charactêres</change>
+            <change when="2025-01-15" who="ES">added a line to specify charactêres see https://github.com/BetaMasaheft/Manuscripts/pull/2777</change>
         </revisionDesc>
     </teiHeader>
     <text>
