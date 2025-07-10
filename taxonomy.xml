@@ -38,6 +38,9 @@
             <category xml:id="overlappingCornerHTO" corresp="https://betamasaheft.eu/authority-files/overlappingCornerHTO/main">
                <catDesc>overlapping corner head/tail over</catDesc>
             </category>
+            <category xml:id="quarterCover" corresp="https://betamasaheft.eu/authority-files/quarterCover/main">
+               <catDesc>quarter cover</catDesc>
+            </category>
             <category xml:id="tonguedCorner" corresp="https://betamasaheft.eu/authority-files/tonguedCorner/main">
                <catDesc>tongued corner</catDesc>
             </category>
@@ -251,7 +254,31 @@
             <category xml:id="curveStrapwork" corresp="https://betamasaheft.eu/authority-files/curveStrapwork/main">
                <catDesc>Curve strapwork element</catDesc>
             </category>
+            <category xml:id="Headband" corresp="https://betamasaheft.eu/authority-files/Headband/main">
+               <catDesc>Headband</catDesc>
+            </category>
+            <category xml:id="Tailband" corresp="https://betamasaheft.eu/authority-files/Tailband/main">
+               <catDesc>Tailband</catDesc>
+            </category>
          </category>
+         <category>
+            <desc>Interpretation</desc> <!-- category for EMA by AW -->
+            <category xml:id="clauses" corresp="https://betamasaheft.eu/authority-files/clauses/main">
+               <catDesc>clauses</catDesc>
+            </category>
+            <category xml:id="conclusion" corresp="https://betamasaheft.eu/authority-files/conclusion/main">
+               <catDesc>conclusion</catDesc>
+            </category>
+            <category xml:id="listOfPersons" corresp="https://betamasaheft.eu/authority-files/listOfPersons/main">
+               <catDesc>listOfPersons</catDesc>
+            </category>
+            <category xml:id="motif" corresp="https://betamasaheft.eu/authority-files/motif/main">
+               <catDesc>motif</catDesc>
+            </category>
+            <category xml:id="provision" corresp="https://betamasaheft.eu/authority-files/provision/main">
+               <catDesc>provision</catDesc>
+            </category> <!-- omitting suscription omitting invocation -->
+         </category>         
          <category>
             <desc>Thread Material</desc>
             <category xml:id="animalThread" corresp="https://betamasaheft.eu/authority-files/animalThread/main">
@@ -466,12 +493,6 @@
          </category>
          <category xml:id="Foundation" corresp="https://betamasaheft.eu/authority-files/Foundation/main">
             <catDesc>Foundation</catDesc>
-         </category>
-         <category xml:id="Headband" corresp="https://betamasaheft.eu/authority-files/Headband/main">
-            <catDesc>Headband</catDesc>
-         </category>
-         <category xml:id="Tailband" corresp="https://betamasaheft.eu/authority-files/Tailband/main">
-            <catDesc>Tailband</catDesc>
          </category>
          <category xml:id="DonationNote" corresp="https://betamasaheft.eu/authority-files/DonationNote/main">
             <catDesc>Donation Note</catDesc>
