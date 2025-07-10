@@ -2,7 +2,7 @@
 schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT1147CaliphAtrib" xml:lang="en" type="auth">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AT1149CaliphAtrib" xml:lang="en" type="auth">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -61,7 +61,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography"><listRelation><relation name="betmas:formerlyAlsoListedAs" active="AT1149CaliphAtrib" passive="AT1147CaliphAtrib"></relation></listRelation></div>
         </body>
     </text>
 </TEI>
