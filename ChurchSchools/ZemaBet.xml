@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="auth" xml:id="ZemaBet">
+   <teiHeader xml:base="https://betamasaheft.eu/">
+      <fileDesc>
+         <titleStmt>
+            <title>Zemā bet</title>
+            <editor key="ES"/>
+            <editor key="AB" role="generalEditor"/>
+            <funder>Akademie der Wissenschaften in Hamburg</funder>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+            <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung / Beta maṣāḥǝft</publisher>
+            <pubPlace>Hamburg</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> This file is
+                            licensed under the Creative Commons Attribution-ShareAlike 4.0. </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                     href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+            <xi:fallback>
+               <p>Definitions of prefixes used.</p>
+            </xi:fallback>
+         </xi:include>
+      </encodingDesc>
+      <profileDesc>
+         <abstract><p>Church school (school of chant).
+            Can be specialized in <seg xml:id="Meraf">School of Mǝʿ rāf</seg>, <seg xml:id="Deggwa">School of Dǝggʷā</seg> (see e.g. <ref target="https://doi.org/10.25592/uhhfdm.14599">the interview with Māhtot Tasfā conducted on 16 May 2024</ref>), <seg xml:id="Aqwaqwam">School of ʾAqqʷāqʷām</seg> (see e.g. <ref target="https://doi.org/10.25592/uhhfdm.14599">the interview with Mamhǝr Kǝbur Tǝlāhun of 16 May 2024</ref>) 
+            See also          
+            <ref type="authFile" corresp="NebabBet"/>,  
+            <ref  type="authFile" corresp="QeneBet"></ref>,
+            <ref  type="authFile" corresp="QeddaseBet"></ref>, <ref  type="authFile" corresp="MashafBet"></ref></p></abstract>
+      </profileDesc>
+      <revisionDesc>
+         <change who="ES" when="2025-07-15">created keyword</change>         
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="https://betamasaheft.eu/">
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
