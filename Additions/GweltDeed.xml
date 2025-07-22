@@ -40,8 +40,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"
             <abstract>
                 <p>
                     In its “classical form”, the gwǝlt-document has as its core wording something
-                    like <foreign xml:lang="gez">ጐለትኩ፡</foreign> or <foreign xml:lang="gez">ወሀብኩ᎓ … ጕለ(ተ)᎓</foreign> or
-                    of the like (ancient variant: <foreign xml:lang="gez">አክሰምኩ᎓</foreign> etc.).
+                    like <foreign xml:lang="gez">ጐለትኩ፡</foreign> or <foreign xml:lang="gez">ወሀብኩ፡ … ጕለ(ተ)፡</foreign> or
+                    of the like (ancient variant: <foreign xml:lang="gez">አክሰምኩ፡</foreign> etc.).
                     Many of the documents of this classical type are found in the Liber Axumae or Golden Gospel of Dabra Libānos za-Ham in Eritrea. They are in Geʿez; later in Amharic, or some mix two languages.
                 </p>
                 </abstract>
