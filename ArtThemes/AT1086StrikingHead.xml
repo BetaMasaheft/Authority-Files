@@ -41,7 +41,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p> Miniature showing the Striking of the Head,
+                    <foreign xml:lang="gez">ኵርዓተ፡ ርእሱ፡</foreign>.
+                    </p>
+                
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
