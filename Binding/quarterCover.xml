@@ -41,7 +41,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>A cover (leather, cloth, etc) that covers the spine of the manuscript (i.e. the spine and a small part of the boards is bound in one material while the rest of the cover is bound in another material or left unbound).  Books with quarter covers are also known as 'quarter bindings', sometimes qualified by the covering material on the spine, as in quarter calf. See <ref target="https://lob.is.ed.ac.uk/concept/1530">https://lob.is.ed.ac.uk/concept/1530</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
