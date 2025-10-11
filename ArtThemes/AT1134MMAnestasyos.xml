@@ -41,7 +41,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A miniature illustrating <ref type="work" corresp="LIT3612Miracle"/> typically 
+                <p>A miniature illustrating <ref type="work" corresp="LIT3613Miracle"/> typically 
                     with as a sequence of two episodes/events, showing: first, ʾAnǝsṭāsyos standing praying in a church before the icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>;
                     second, ʾAnǝsṭāsyos lying before <persName ref="PRS6819Mary"/>, who together with the Child is extending her hand towards him.</p>
             </abstract>
@@ -55,6 +55,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-05-02">Created entity</change>
+            <change when="2025-10-09" who="MK">Changed work ID for the correct one</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
