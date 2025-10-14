@@ -70,7 +70,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <listBibl type="translation">
                     <bibl>
                         <ptr target="bm:Budge1933Miracles"/>
-                        <citedRange>plates  XXII, XXIII</citedRange>
+                        <citedRange>plates XXII, XXIII</citedRange>
                     </bibl>
                 </listBibl>
                 

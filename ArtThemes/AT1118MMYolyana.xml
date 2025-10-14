@@ -71,7 +71,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <listBibl type="translation">
                 <bibl>
                     <ptr target="bm:Budge1933Miracles"/>
-                    <citedRange>plates  XVIII and XIX</citedRange>
+                    <citedRange>plates XVIII,  XIX</citedRange>
                 </bibl>
                 </listBibl>
                 
