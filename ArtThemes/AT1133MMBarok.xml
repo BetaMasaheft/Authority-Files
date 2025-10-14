@@ -56,6 +56,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-05-02">Created entity</change>
+            <change who="MK" when="2025-10-14">Added bibliography on Budge</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
@@ -66,6 +67,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <ptr target="bm:1972Annequin"/>
                   <citedRange unit="page">201</citedRange>
                     </bibl>  
+                </listBibl>
+                <listBibl type="translation">
+                    <bibl>
+                        <ptr target="bm:Budge1933Miracles"/>
+                        <citedRange>plates XLVII, XLVIII, XLIX</citedRange>
+                    </bibl>
                 </listBibl>
                 <listRelation>
                     <relation name="ecrm:P129_is_about"

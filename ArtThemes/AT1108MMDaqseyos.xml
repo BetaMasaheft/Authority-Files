@@ -44,8 +44,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3586Miracle"/> typically 
                     with as a sequence of three episodes/events, showing: first, <persName ref="PRS5555Ildefons"/> handing 
                     over to <persName ref="PRS6819Mary"/> the finished book of the <foreign xml:lang="gez">Taʾammǝra Māryām</foreign>, which she blesses and returns to him;  second, 
-                    <persName ref="PRS6819Mary"/> presenting to <persName ref="PRS5555Ildefons"/> a throne and garment; and third, Hildephonsus of Toledo's 
-                    successor falling and being smitten by an <term key="angel">angel</term> for having touched Mary's gifts to Hildephonsus without 
+                    <persName ref="PRS6819Mary"/> presenting to <persName ref="PRS5555Ildefons"/> a throne and garment; and third, Hildephonsus of Toledo’s 
+                    successor falling and being smitten by an <term key="angel">angel</term> for having touched Mary’s gifts to Hildephonsus without 
                     permission.
                     </p>
             </abstract>

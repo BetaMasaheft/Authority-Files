@@ -44,7 +44,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3602Miracle"/> typically 
                     with as a sequence of three episodes/events, showing: first, the woman and her blind daughter standing praying before  
                     the icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>; second, both lying asleep before <persName ref="PRS6819Mary"/>, who wakes up the girl;
-                    third, the girl standing before the icon of <persName ref="PRS6819Mary"/>, who takes out her breast and drops her milk into the girl's eyes.</p>
+                    third, the girl standing before the icon of <persName ref="PRS6819Mary"/>, who takes out her breast and drops her milk into the girl’s eyes.</p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
