@@ -46,6 +46,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     Dǝmyānos lying down before the icon of Mary, which performs a <term key="gestureblessing">gesture of blessing</term>. In the background, the pillar of gold,
                     on which Mary inscribed Dǝmyānos' name is depicted.
                 </p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/162">https://pemm.princeton.edu/en-us/paintings/by-story/162</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -57,6 +58,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-04-26">Created entity</change>
+            <change when="2025-10-14" who="ES">added link to PEMM</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

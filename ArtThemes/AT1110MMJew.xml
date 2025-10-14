@@ -47,6 +47,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     Jewish priest standing before
                     <persName ref="PRS6819Mary"/>, who is sitting in the same position as in the second episode and performs a <term key="gestureblessing">gesture of blessing</term>.  
                 </p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/161">https://pemm.princeton.edu/en-us/paintings/by-story/161</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -58,6 +59,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-04-26">Created entity</change>
+            <change when="2025-10-14" who="ES">added link to PEMM</change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

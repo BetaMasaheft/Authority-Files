@@ -48,6 +48,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     successor falling and being smitten by an <term key="angel">angel</term> for having touched Mary's gifts to Hildephonsus without 
                     permission.
                     </p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/13">https://pemm.princeton.edu/en-us/paintings/by-story/13</ref></p>
             </abstract>
             <textClass>
                 <keywords>
@@ -68,8 +69,9 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <revisionDesc>
             <change who="DR" when="2019-04-09">Created entity</change>
             <change who="JG" when="2019-04-09">Edited entry</change>
+            <change when="2025-10-14" who="ES">added link to PEMM</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader>    
     <text xml:base="https://betamasaheft.eu/">
         <body>
             <div type="bibliography">
