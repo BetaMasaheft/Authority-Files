@@ -46,6 +46,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     praying the greeting of the angel before the icon of Mary, Zakāryās prosterning himself; the chief of the thieves hiding behind a tree; Zakāryās standing before
                     <persName ref="PRS6819Mary"/>, who is sitting on a throne surrounded by angels, and collects roses out of his mouth; the thieves hiding behind trees;
                     the thieves being consecrated as monks.</p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/153">https://pemm.princeton.edu/en-us/paintings/by-story/153</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -57,6 +58,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-04-26">Created entity</change>
+            <change when="2025-10-14" who="ES">linked to PEMM </change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

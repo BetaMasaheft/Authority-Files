@@ -44,6 +44,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <p>A miniature illustrating <ref type="work" corresp="LIT3618Miracle"/> typically 
                     with as a sequence of two episodes/events, showing: first, the group of virgins gathered around the well while one of them chases away the thirsty dog; second, 
                     <persName ref="PRS6819Mary"/> giving the dog water to drink from her shoe. The well is surrounded by plants.</p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/236">https://pemm.princeton.edu/en-us/paintings/by-story/236</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -55,6 +56,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-05-02">Created entity</change>
+            <change when="2025-10-14" who="ES">linked to PEMM </change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

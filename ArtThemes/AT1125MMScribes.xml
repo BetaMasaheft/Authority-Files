@@ -45,6 +45,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     with as a sequence of five episodes/events, showing: first, the two brothers sitting and writing next to each other; second, one of the brothers sitting and facing the man who commissions
                     a copy of the <ref type="work" corresp="LIT2384Taamme"/> from him; third, the demons seizing the scribe; fourth, <persName ref="PRS6819Mary"/> pulling down the scribe from
                 amongs the demons; fifth, the scribe sitting again and resuming his writing.</p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/61">https://pemm.princeton.edu/en-us/paintings/by-story/61</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -56,6 +57,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-04-29">Created entity</change>
+            <change when="2025-10-14" who="ES">linked to PEMM </change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

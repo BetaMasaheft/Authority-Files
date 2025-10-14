@@ -30,6 +30,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     with as a sequence of three episodes/events, showing: first, the widow's son stealing cloth from a church; second, <persName ref="PRS6819Mary"/>
                     ordering those who bound the widow's son to release him; third, the widows son standing 
                     praying before the icon of <persName ref="PRS6819Mary"/>.</p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/152">https://pemm.princeton.edu/en-us/paintings/by-story/152</ref></p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -56,6 +57,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-05-02">Created entity</change>
+            <change when="2025-10-14" who="ES">linked to PEMM </change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

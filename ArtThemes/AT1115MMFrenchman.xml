@@ -46,6 +46,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     first, the painter sitting on a scaffold and drawing a scene; second, the
                     painter falling down from the scaffold and third the icon of <persName ref="PRS6819Mary"/>, who extends her hand to save the painter.
                 </p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/33">https://pemm.princeton.edu/en-us/paintings/by-story/33</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -58,6 +59,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <revisionDesc>
             <change who="DR" when="2019-04-26">Created entity</change>
             <change who="JG" when="2019-05-24">Broadened descriptive vocabulary</change>
+            <change when="2025-10-14" who="ES">linked to PEMM </change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

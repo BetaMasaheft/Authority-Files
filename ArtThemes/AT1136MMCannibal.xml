@@ -47,6 +47,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 cannibal's soul among the flames of hell before <persName ref="PRS5684JesusCh"/> sitting on a throne; fifth, <persName ref="PRS6819Mary"/>, who holds the soul of the cannibal,
                     standing before
                     <persName ref="PRS5684JesusCh"/> and sixth; two <term key="angel">angels</term> weighing the cannibal's good and bad deeds in a scale.</p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/125">https://pemm.princeton.edu/en-us/paintings/by-story/125</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -58,6 +59,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-05-02">Created entity</change>
+            <change when="2025-10-14" who="ES">linked to PEMM </change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

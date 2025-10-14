@@ -46,6 +46,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     second, the woman lying below the icon of the <ref type="authFile" corresp="AT1031VirginAndChild">Virgin and Child</ref>; second, <persName ref="PRS6819Mary"/>
                 extending her foot to touch the woman lying below her; third, the custodian of the church and the healed woman standing before
                 the icon of <persName ref="PRS6819Mary"/>, who is extending her hand.</p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/112">https://pemm.princeton.edu/en-us/paintings/by-story/112</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -57,6 +58,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-05-01">Created entity</change>
+            <change when="2025-10-14" who="ES">linked to PEMM </change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

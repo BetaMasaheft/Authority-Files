@@ -31,14 +31,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p>A miniature with four episodes, showing: first, the Caliph ordering his troops to
+                <p>A miniature for <ref type="work" corresp="LIT3619Miracle"/> with four episodes, showing: first, the Caliph ordering his troops to
                     destroy a Church in ʾAtrib; second, <persName ref="PRS6819Mary"/> appearing to the
                     Caliph (who was asleep) to order his agent to stop the destruction of the
                     Church with a white dove appearing to take his letter between them; third, the
                     dove giving the letter written by the caliph to the head of troops (agent of
                     the Caliph) with the Abbot of the Church standing in the gate, and
                     fourth, the Caliph who later became believer sitting in front of the Church.</p>
-
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/207">https://pemm.princeton.edu/en-us/paintings/by-story/207</ref></p>
             </abstract>
             <textClass>
 
@@ -57,11 +57,16 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <revisionDesc>
             <change who="GS" when="2023-05-25">Created entity</change>
               <change who="GS" when="2024-09-12">corrected typo errors</change>
+            <change when="2025-10-14" who="ES">linked to PEMM and to Miracle</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"><listRelation><relation name="betmas:formerlyAlsoListedAs" active="AT1149CaliphAtrib" passive="AT1147CaliphAtrib"></relation></listRelation></div>
+            <div type="bibliography"><listRelation><relation name="betmas:formerlyAlsoListedAs" active="AT1149CaliphAtrib" passive="AT1147CaliphAtrib"></relation>
+                    <relation name="ecrm:P129_is_about"
+                        active="AT1149CaliphAtrib"
+                        passive="LIT3619Miracle"/>
+                </listRelation></div>
         </body>
     </text>
 </TEI>

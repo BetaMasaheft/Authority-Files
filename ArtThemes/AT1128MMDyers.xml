@@ -49,7 +49,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 brandishing a weapon, and appearing to the judge; sixth, the judge handing to Nazib his paper 
                 of release; and seventh, Nazib entering the church, in which the people are gathered,
                 and handing his paper of release to the priest.</p>
-                
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/83">https://pemm.princeton.edu/en-us/paintings/by-story/83</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -62,6 +62,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <revisionDesc>
             <change who="DR" when="2019-05-01">Created entity</change>
             <change who="JG" when="2019-05-24">Broadened descriptive vocabulary</change>
+            <change when="2025-10-14" who="ES">linked to PEMM </change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

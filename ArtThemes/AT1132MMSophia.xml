@@ -46,6 +46,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     while an <term key="angel">angel</term> carries away the child from her womb; second, the <term key="angel">angel</term>
                 handing the child to Finkǝs; third, the bishop sitting on a throne in front of a group of women accusing Sofyā; fourth, the bishop and Sofyā
                 sitting next to each other; fifth, the bishop sitting next to Finkǝs and the child; sixth, the child as a grown man surrounded by two persons.</p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/158">https://pemm.princeton.edu/en-us/paintings/by-story/158</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -57,6 +58,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-05-01">Created entity</change>
+            <change when="2025-10-14" who="ES">linked to PEMM </change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">

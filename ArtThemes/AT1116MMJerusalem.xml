@@ -45,6 +45,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     the sick pilgrim lying in bed; the sick pilgrim standing before the places to which Mary carries him: in varying sequence Golgotha, Jerualem, the mount of Olives,
                     Bethlehem and the Jordan. <persName ref="PRS6819Mary"/> is standing in the middle.
                 </p>
+                <p>Images available at <ref target="https://pemm.princeton.edu/en-us/paintings/by-story/54">https://pemm.princeton.edu/en-us/paintings/by-story/54</ref></p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -56,6 +57,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DR" when="2019-04-26">Created entity</change>
+            <change when="2025-10-14" who="ES">linked to PEMM </change>
         </revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
