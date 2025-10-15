@@ -59,7 +59,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <change who="DR" when="2019-04-29">Created entity</change>
              <change who="JG" when="2019-05-24">Broadened descriptive vocabulary</change>
             <change when="2025-10-14" who="ES">linked to PEMM </change>
-        </revisionDesc>
+        <change who="MK" when="2025-10-14">Added biblio. on Budge</change></revisionDesc>
     </teiHeader>
     <text xml:base="https://betamasaheft.eu/">
         <body>
@@ -68,7 +68,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <bibl>
                         <ptr target="bm:1972Annequin"/>
                     </bibl>  
-                </listBibl>
+                    <bibl><ptr target="bm:Budge1933Miracles"/><citedRange>plates XVIII,  XIX</citedRange></bibl></listBibl>
                 <listRelation>
                     <relation name="ecrm:P129_is_about"
                          active="AT1118MMYolyana"
