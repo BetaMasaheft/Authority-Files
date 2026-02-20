@@ -124,10 +124,7 @@
             </category>
          </category>
          <category>
-            <desc>Board Lining</desc>
-            <category xml:id="textile" corresp="https://betamasaheft.eu/authority-files/textile/main">
-               <catDesc>Textile</catDesc>
-            </category>
+            <desc>Board Lining</desc>            
             <category xml:id="mirror" corresp="https://betamasaheft.eu/authority-files/mirror/main">
                <catDesc>Mirror</catDesc>
             </category>

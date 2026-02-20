@@ -8,6 +8,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>Textile Inlay</title>
                 <editor role="generalEditor" key="AB"/>
                 <editor key="DR"/>
+                <editor key="EDS"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -30,7 +31,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <profileDesc>
             <creation/>
             <abstract>
-                <p/>
+                <p>Textile inlay pasted on the open surface among the turn-ins of the cover.
+                </p>
             </abstract>
             <langUsage>
                 <language ident="en">English</language>
@@ -38,12 +40,34 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change who="DR" when="2020-04-17">Created entity</change>
+            <change who="EDS" when="2018-02-19">Created entity "textile"</change>
+            <change who="DR" when="2020-04-17">Created entity "textileInlay"</change>
+            <change when="2026-02-20" who="ES">merged textile and textileInlay</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="bibliography"/>
+            <div type="bibliography">
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bm:Szirmai1999Bookbinding"/>
+                        <citedRange unit="page">48-48</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:Pankhurst1981textiles"/>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:Pankhurst1980textiles"/>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bm:Sergew1981Bookmaking"/>
+                        <citedRange unit="page">25</citedRange>
+                    </bibl>
+                </listBibl>
+                <listRelation>
+                    <relation name="betmas:formerlyAlsoListedAs" active="textileInlay" passive="textile"></relation>
+                </listRelation>
+            </div>
         </body>
     </text>
 </TEI>
