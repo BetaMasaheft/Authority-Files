@@ -73,17 +73,17 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </bibl>
             </listBibl>
               <listRelation>
-                  <relation name="saws:contains"
+                  <relation name="dc:relation"
                          active="AT1008Descent"
                          passive="PRS5684JesusCh">
                       <desc/>
                   </relation>
-                  <relation name="saws:contains"
+                  <relation name="dc:relation"
                       active="AT1008Descent"
                       passive="PRS1385Adam">
                       <desc/>
                   </relation>
-                  <relation name="saws:contains"
+                  <relation name="dc:relation"
                       active="AT1008Descent"
                       passive="PRS3926Eve">
                       <desc/>

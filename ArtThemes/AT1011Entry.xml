@@ -83,9 +83,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
               </listBibl>
             </div>
             <listRelation>
-                <relation name="saws:contains"
+                <relation name="dc:relation"
                       active="AT1011Entry"
-                      passive="PRS5684JesusCh LOC3957Jerusa">
+                      passive="LOC3957Jerusa">
+                    <desc/>
+                </relation>
+                <relation name="dc:relation"
+                    active="AT1011Entry"
+                    passive="LOC3957Jerusa">
                     <desc/>
                 </relation>
             </listRelation>

@@ -61,7 +61,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                 </listBibl>
                 
                 <listRelation>
-                    <relation name="saws:contains" active="AT1039Magi" passive="PRS5684JesusCh PRS6462MagiWi">
+                    <relation name="dc:relation" active="AT1039Magi" passive="PRS5684JesusCh">
+                        <desc/>
+                    </relation>
+                    <relation name="dc:relation" active="AT1039Magi" passive="PRS6462MagiWi">
                         <desc/>
                     </relation>
                 </listRelation>
